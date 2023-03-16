@@ -1,0 +1,3877 @@
+[
+  {
+    "chapter": 1,
+    "index": 1,
+    "word": "vulnerable",
+    "definition": "a.\uc0c1\ucc98\uc785\uae30\uc26c\uc6b4,\uacf5\uaca9\ubc1b\uae30\uc26c\uc6b4;\ucde8\uc57d\ud55c;(\uc720\ud639\uc5d0)\ub118\uc5b4\uac00\uae30\uc26c\uc6b4"
+  },
+  { "chapter": 1, "index": 2, "word": "depend", "definition": null },
+  {
+    "chapter": 1,
+    "index": 3,
+    "word": "mandatory",
+    "definition": "a.\uac15\uc81c\uc758,\uc758\ubb34\uc758,\ud544\uc218\uc758 ;n.\uc218\uc784\uc790,\uc704\uc784 \ud1b5\uce58\uad6d"
+  },
+  {
+    "chapter": 1,
+    "index": 4,
+    "word": "ambiguous",
+    "definition": "a.\ubaa8\ud638\ud55c,\ubd84\uba85\ud558\uc9c0 \uc54a\uc740"
+  },
+  {
+    "chapter": 1,
+    "index": 5,
+    "word": "susceptible",
+    "definition": "a.(\uc601\ud5a5\uc744)\ubc1b\uae30\uc26c\uc6b4,\uac10\uc5fc\ub418\uae30\uc26c\uc6b4,\uac10\uc218\uc131\uc774\uac15\ud55c,\ubbfc\uac10\ud55c"
+  },
+  {
+    "chapter": 1,
+    "index": 6,
+    "word": "obsolete",
+    "definition": "a.\uc2dc\ub300(\uc720\ud589)\uc5d0 \ub4a4\ub5a8\uc5b4\uc9c4,\uad6c\uc2dd\uc758"
+  },
+  {
+    "chapter": 1,
+    "index": 7,
+    "word": "tangible",
+    "definition": "a.\ub9cc\uc838\uc54c\uc218\uc788\ub294,\uc720\ud615\uc758,\uc2e4\uccb4\uac00\uc788\ub294,(\uc0ac\uc2e4.\uadfc\uac70\ub4f1\uc774)\uba85\ubc31\ud55c,\ud655\uc2e4\ud55c"
+  },
+  {
+    "chapter": 1,
+    "index": 8,
+    "word": "lucrative",
+    "definition": "a.\uc774\uc775\uc774\uc788\ub294,\uc218\uc9c0\ub9de\ub294,\uc720\ub9ac\ud55c"
+  },
+  {
+    "chapter": 1,
+    "index": 9,
+    "word": "obscure",
+    "definition": "a.\ubd84\uba85\uce58\uc54a\uc740,\ubd88\uba85\ub8cc\ud55c,\ubaa8\ud638\ud55c"
+  },
+  {
+    "chapter": 1,
+    "index": 10,
+    "word": "dispose",
+    "definition": "vt.(\uad70\ub300.\ud568\ub300\ub97c)\ubc30\uce58\ud558\ub2e4,\ubc30\uc5f4\ud558\ub2e4;vi.\ucc98\ub9ac\ud558\ub2e4,\ucc98\ubd84\ud558\ub2e4"
+  },
+  {
+    "chapter": 1,
+    "index": 11,
+    "word": "precarious",
+    "definition": "a.\ubd88\ud655\uc2e4\ud55c,\uc6b4\uc5d0\ub9e1\uae30\ub294,\uc704\ud5d8\ud55c"
+  },
+  {
+    "chapter": 1,
+    "index": 12,
+    "word": "alleviate",
+    "definition": "vt.(\uace0\ud1b5\uc744)\uc644\ud654\uc2dc\ud0a4\ub2e4,\uacbd\uac10\ud558\ub2e4,\ud3b8\ud558\uac8c\ud558\ub2e4"
+  },
+  {
+    "chapter": 1,
+    "index": 13,
+    "word": "capricious",
+    "definition": "a.\ubcc0\ub355\uc2a4\ub7ec\uc6b4,\ub9c8\uc74c\uc774\ubcc0\ud558\uae30\uc26c\uc6b4"
+  },
+  {
+    "chapter": 1,
+    "index": 14,
+    "word": "hinder",
+    "definition": "vt.\ubc29\ud574\ud558\ub2e4,\uc800\uc9c0\ud558\ub2e4"
+  },
+  {
+    "chapter": 1,
+    "index": 15,
+    "word": "dormant",
+    "definition": "a.\ud734\uba3c\uc0c1\ud0dc\uc758,\uc7a0\uc790\ub294(\uac83\uac19\uc740)"
+  },
+  { "chapter": 1, "index": 16, "word": "exhaust", "definition": null },
+  {
+    "chapter": 1,
+    "index": 17,
+    "word": "substantial",
+    "definition": "a.\uc2e4\uc9c8\uc801\uc778,\uc2e4\uc18d\uc788\ub294,\uc911\uc694\ud55c"
+  },
+  {
+    "chapter": 1,
+    "index": 18,
+    "word": "affect",
+    "definition": "vt.~\uc5d0\uc601\ud5a5\uc744 \ubbf8\uce58\ub2e4,\uc791\uc6a9\ud558\ub2e4,(\uc9c8\ubcd1\ub4f1)~\uc744\ud574\uce58\ub2e4,\ub36e\uce58\ub2e4.~\uc778\uccb4\ud558\ub2e4"
+  },
+  {
+    "chapter": 1,
+    "index": 19,
+    "word": "scrutinize",
+    "definition": "v.\uc138\ubc00\ud788\uc870\uc0ac\ud558\ub2e4,\ucca0\uc800\ud788\uac80\uc0ac\ud558\ub2e4"
+  },
+  {
+    "chapter": 1,
+    "index": 20,
+    "word": "thrive",
+    "definition": "vi.\ubc88\uc601\ud558\ub2e4,\ubc88\uc131\ud558\ub2e4"
+  },
+  {
+    "chapter": 1,
+    "index": 21,
+    "word": "candid",
+    "definition": "a.\uc194\ucc0d\ud55c,\uc228\uae40\uc5c6\ub294,\uaebc\ub9ac\ub08c\uc5c6\ub294,\uacf5\uc815\ud55c,\uacf5\ud3c9\ud55c,\ud3b8\uacac\uc5c6\ub294"
+  },
+  {
+    "chapter": 1,
+    "index": 22,
+    "word": "futile",
+    "definition": "a.(\ud589\ub3d9\ub4f1\uc774)\ud6a8\uacfc\uc5c6\ub294;\ubb34\uc775\ud55c"
+  },
+  {
+    "chapter": 1,
+    "index": 23,
+    "word": "discrimination",
+    "definition": "n.\uad6c\ubcc4,\uc2dd\ubcc4,\ucc28\ubcc4,\ucc28\ubcc4\ub300\uc6b0"
+  },
+  { "chapter": 1, "index": 24, "word": "negligible", "definition": null },
+  {
+    "chapter": 1,
+    "index": 25,
+    "word": "inadvertently",
+    "definition": "Ad.\uc544\ubb34\uc0dd\uac01\uc5c6\uc774,\ubb34\uc2ec\ucf54,\uc6b0\uc5f0\ud788"
+  },
+  {
+    "chapter": 2,
+    "index": 26,
+    "word": "alter",
+    "definition": "vt.\ubc14\uafb8\ub2e4,\uace0\uce58\ub2e4;vi.\ubcc0\ud654\ub2e4,\ubc14\ub00c\ub2e4"
+  },
+  {
+    "chapter": 2,
+    "index": 27,
+    "word": "meticulous",
+    "definition": "a.\uc138\uc2ec\ud55c,\uaf3c\uaf3c\ud55c,\uc2e0\uc911\ud55c"
+  },
+  { "chapter": 2, "index": 28, "word": "scrupulous", "definition": null },
+  {
+    "chapter": 2,
+    "index": 29,
+    "word": "versatile",
+    "definition": "a.\ub2e4\uc7ac\ub2e4\ub2a5\ud55c,\ub9cc\ub2a5\uc758,\ub2e4\uc6a9\ub3c4\uc758"
+  },
+  {
+    "chapter": 2,
+    "index": 30,
+    "word": "account",
+    "definition": "vt.(\uc774\uc720\ub97c)\uc124\uba85\ud558\ub2e4,\ubc1d\ud788\ub2e4 n.\uae30\uc220,\uc11c\uc220,\uc774\uc57c\uae30,\ub2f4\ud654,\uae30\uc0ac"
+  },
+  { "chapter": 2, "index": 31, "word": "exclusive", "definition": null },
+  {
+    "chapter": 2,
+    "index": 32,
+    "word": "restrain",
+    "definition": "vi.(\uac10\uc815.\uc695\ub9dd\ub4f1\uc744)\uc5b5\uc81c\ud558\ub2e4,\ub204\ub974\ub2e4"
+  },
+  {
+    "chapter": 2,
+    "index": 33,
+    "word": "anonymous",
+    "definition": "a.\uc791\uc790\ubd88\uba85\uc758,\uc2e0\uc6d0\ubd88\uba85\uc758,\uc775\uba85\uc758,\uc774\ub984\uc744 \uc548\ubc1d\ud788\ub294"
+  },
+  {
+    "chapter": 2,
+    "index": 34,
+    "word": "hereditary",
+    "definition": "a.\uc720\uc804\uc131\uc758,\uc720\uc804\ud558\ub294,\uc720\uc804\uc801\uc778"
+  },
+  { "chapter": 2, "index": 35, "word": "unprecedented", "definition": null },
+  {
+    "chapter": 2,
+    "index": 36,
+    "word": "impartial",
+    "definition": "a.\uce58\uc6b0\uce58\uc9c0\uc54a\uc740,\ud3b8\uacac\uc774\uc5c6\ub294,\uacf5\ud3c9\ud55c"
+  },
+  { "chapter": 2, "index": 37, "word": "biased", "definition": null },
+  { "chapter": 2, "index": 38, "word": "irrelevant", "definition": null },
+  {
+    "chapter": 2,
+    "index": 39,
+    "word": "homogeneous",
+    "definition": "a.\uac19\uc740\uc885\ub958\uc758\uac83\uc73c\ub85c\ub41c,\ub3d9\uc885\uc758,\uade0\uc9c8\uc758"
+  },
+  { "chapter": 2, "index": 40, "word": "insignificant", "definition": null },
+  {
+    "chapter": 2,
+    "index": 41,
+    "word": "respect",
+    "definition": "n.\uc874\uacbd,\uacbd\uc758,\uc874\uc911,\uc911\uc2dc,\uc8fc\uc758,\uad00\uc2ec,\uace0\ub824;vt.\uc874\uacbd[\uacf5\uacbd]\ud558\ub2e4,\uace0\ub824[\ubc30\ub824]\ud558\ub2e4"
+  },
+  {
+    "chapter": 2,
+    "index": 42,
+    "word": "abandon",
+    "definition": "v.\uadf8\ub9cc\ub450\ub2e4,\ub2e8\ub150\ud558\ub2e4,\ubc84\ub9ac\ub2e4,\ub5a0\ub098\ub2e4 n.\ubc29\uc885,\ud0d0\ub2c9"
+  },
+  { "chapter": 2, "index": 43, "word": "sustain", "definition": null },
+  { "chapter": 2, "index": 44, "word": "beneficial", "definition": null },
+  {
+    "chapter": 2,
+    "index": 45,
+    "word": "alternative",
+    "definition": "n.\uc591\uc790\ud0dd\uc77c,\ub300\uc548;a.\uc591\uc790\ud0dd\uc77c\uc778,\uc120\ud0dd\uc801\uc778;\ub300\uc2e0\ud558\ub294"
+  },
+  {
+    "chapter": 2,
+    "index": 46,
+    "word": "tenacious",
+    "definition": "a.(\uc758\uacac\ub4f1\uc744)\uace0\uc9d1\ud558\ub294,\uace0\uc9d1\uc774\uc13c,\uc9d1\uc694\ud55c"
+  },
+  {
+    "chapter": 2,
+    "index": 47,
+    "word": "eradicate",
+    "definition": "vt.\ubfcc\ub9ac\uc9f8\ubf51\ub2e4,\ubc15\uba78\ud558\ub2e4,\uadfc\uc808\ud558\ub2e4"
+  },
+  { "chapter": 2, "index": 48, "word": "detrimental", "definition": null },
+  {
+    "chapter": 2,
+    "index": 49,
+    "word": "dominate",
+    "definition": "vt.\uc9c0\ubc30\ud558\ub2e4,\uc704\uc555\ud558\ub2e4"
+  },
+  { "chapter": 2, "index": 50, "word": "surpass", "definition": null },
+  {
+    "chapter": 3,
+    "index": 51,
+    "word": "term",
+    "definition": "n.\ub9d0,\uc220\uc5b4,\uc6a9\uc5b4,\uc804\ubb38\uc5b4"
+  },
+  { "chapter": 3, "index": 52, "word": "initiative", "definition": null },
+  {
+    "chapter": 3,
+    "index": 53,
+    "word": "gregarious",
+    "definition": "a.(\uc0ac\ub78c\uc774)\uc0ac\uad50\uc801\uc778,\uc9d1\ub2e8\uc744\uc88b\uc544\ud558\ub294"
+  },
+  {
+    "chapter": 3,
+    "index": 54,
+    "word": "feasible",
+    "definition": "a.\uc2e4\ud589\ud560\uc218\uc788\ub294,\uac00\ub2a5\ud55c"
+  },
+  {
+    "chapter": 3,
+    "index": 55,
+    "word": "variety",
+    "definition": "n.\ubcc0\ud654,\ub2e4\uc591\uc131"
+  },
+  {
+    "chapter": 3,
+    "index": 56,
+    "word": "effect",
+    "definition": "n.\uacb0\uacfc,\ud6a8\uacfc,\uc601\ud5a5,\ud6a8\ub825;vt.(\ubcc0\ud654\ub4f1)\ucd08\ub798\ud558\ub2e4,(\ubaa9\uc801\uacc4\ud68d\ub4f1)\uc774\ub8e8\ub2e4"
+  },
+  {
+    "chapter": 3,
+    "index": 57,
+    "word": "ban",
+    "definition": "vt.\uae08\uc9c0\ud558\ub2e4;n.\uae08\uc9c0,\ud30c\ubb38,\ucd94\ubc29"
+  },
+  {
+    "chapter": 3,
+    "index": 58,
+    "word": "disparity",
+    "definition": "n.\uc11c\ub85c\ub2e4\ub984,\uc0c1\uc774,\ubd80\ub4f1,\ubd88\uade0\ud615,\ubd88\uc77c\uce58"
+  },
+  {
+    "chapter": 3,
+    "index": 59,
+    "word": "diversity",
+    "definition": "n.\ub2e4\uc591\uc131,\ucc28\uc774\uc810"
+  },
+  {
+    "chapter": 3,
+    "index": 60,
+    "word": "inevitable",
+    "definition": "a.\ud53c\ud560\uc218\uc5c6\ub294,\uba74\ud558\uae30\uc5b4\ub824\uc6b4,\ubd80\ub4dd\uc774\ud55c"
+  },
+  {
+    "chapter": 3,
+    "index": 61,
+    "word": "indigenous",
+    "definition": "a.\ud1a0\ucc29\uc758,\uc9c0\uc5ed\uace0\uc720\uc758,\uc6d0\uc0b0\uc758"
+  },
+  {
+    "chapter": 3,
+    "index": 62,
+    "word": "innate",
+    "definition": "a.(\uc131\uc9c8\ub4f1\uc744)\ud0c0\uace0\ub09c,\ucc9c\ubd80\uc758,\uc120\ucc9c\uc801\uc778"
+  },
+  {
+    "chapter": 3,
+    "index": 63,
+    "word": "chronic",
+    "definition": "a.\uc0c1\uc2b5\uc801\uc778,\uc624\ub798\ub044\ub294,\uace0\uc9c8\uc801\uc778,\ub9cc\uc131\uc801\uc778,(\ubcd1\uc774)\ub9cc\uc131\uc778,\uc9c0\ubcd1\uc774\uc788\ub294;n.\ub9cc\uc131\ubcd1 \ud658\uc790"
+  },
+  {
+    "chapter": 3,
+    "index": 64,
+    "word": "eliminate",
+    "definition": "vt.~\uc744\uc81c\uc678\ud558\ub2e4,\ubb34\uc2dc\ud558\ub2e4,\uc81c\uac70\ud558\ub2e4,\uc0ad\uc81c\ud558\ub2e4,\ud0c8\ub77d\uc2dc\ud0a4\ub2e4."
+  },
+  {
+    "chapter": 3,
+    "index": 65,
+    "word": "reiterate",
+    "definition": "vt.(\ud589\uc704.\ub9d0.\uc694\uad6c\ub97c)\ub418\ud480\uc774\ud558\ub2e4,\ubc18\ubcf5\ud558\ub2e4"
+  },
+  {
+    "chapter": 3,
+    "index": 66,
+    "word": "intrepid",
+    "definition": "a.\uc6a9\ub9f9\ud55c,\ub300\ub2f4\ud55c,\ubb34\uc11c\uc6c0\uc744\ubaa8\ub974\ub294"
+  },
+  {
+    "chapter": 3,
+    "index": 67,
+    "word": "intimidate",
+    "definition": "vt.\ud611\ud559\ud558\ub2e4,\uac81\uc8fc\ub2e4"
+  },
+  {
+    "chapter": 3,
+    "index": 68,
+    "word": "innocuous",
+    "definition": "a.\ud574\uac00\uc5c6\ub294,\ub3c5\uc774\uc5c6\ub294"
+  },
+  {
+    "chapter": 3,
+    "index": 69,
+    "word": "altruistic",
+    "definition": "a.\uc774\ud0c0\uc801\uc778"
+  },
+  {
+    "chapter": 3,
+    "index": 70,
+    "word": "indifferent",
+    "definition": "a.\ubb34\uad00\uc2ec\ud55c,\ub0c9\ub2f4\ud55c,\uac1c\uc758\uce58\uc54a\ub294"
+  },
+  {
+    "chapter": 3,
+    "index": 71,
+    "word": "inquisitive",
+    "definition": "a.\ud0d0\uad6c\uc801\uc778,\uc54c\uace0\uc2f6\uc5b4\ud558\ub294,\ud638\uae30\uc2ec\uc774\uac15\ud55c,\uaf2c\uce58\uaf2c\uce58\uce90\ubb3b\uae30\uc88b\uc544\ud558\ub294"
+  },
+  {
+    "chapter": 3,
+    "index": 72,
+    "word": "superficial",
+    "definition": "a.(\uc0c1\ucc98\uac00)\uc595\uc740,\ucc9c\ubc15\ud55c"
+  },
+  {
+    "chapter": 3,
+    "index": 73,
+    "word": "equivocal",
+    "definition": "a.\ub450\uac00\uc9c0\ub73b\uc73c\ub85c\ud574\uc11d\ub418\ub294(\ub73b\uc774)\ub69c\ub837\ud558\uc9c0\uc54a\uc740"
+  },
+  {
+    "chapter": 3,
+    "index": 74,
+    "word": "opposite",
+    "definition": "a.\ub9c8\uc8fc\ubcf4\uace0\uc788\ub294,\ubc18\ub300\ud3b8\uc758,\ub9de\uc740\ud3b8\uc758"
+  },
+  { "chapter": 3, "index": 75, "word": "arbitrary", "definition": null },
+  { "chapter": 4, "index": 76, "word": "fluctuate", "definition": null },
+  {
+    "chapter": 4,
+    "index": 77,
+    "word": "precipitate",
+    "definition": "vt.\ub9c8\uad6c\uc7ac\ucd09\ud558\ub2e4,\ucd09\uc9c4\uc2dc\ud0a4\ub2e4."
+  },
+  { "chapter": 4, "index": 78, "word": "temporary", "definition": null },
+  {
+    "chapter": 4,
+    "index": 79,
+    "word": "ephemeral",
+    "definition": "a.\uc21c\uc2dd\uac04\uc758,\ub367\uc5c6\ub294,\uc77c\uc2dc\uc801\uc778,\ud558\ub8e8\uc0b4\uc774\ubaa9\uc228\uc758"
+  },
+  { "chapter": 4, "index": 80, "word": "transient", "definition": null },
+  { "chapter": 4, "index": 81, "word": "permanent", "definition": null },
+  { "chapter": 4, "index": 82, "word": "persistent", "definition": null },
+  { "chapter": 4, "index": 83, "word": "determinedly", "definition": null },
+  {
+    "chapter": 4,
+    "index": 84,
+    "word": "deviate",
+    "definition": "vi.(\uc9c4\ub85c.\uc6d0\uce59 \ub530\uc704\uc5d0\uc11c)\ubc97\uc5b4\ub098\ub2e4,\uc77c\ud0c8\ud558\ub2e4;vt.\ube5b\ub098\uac00\uac8c\ud558\ub2e4,\ubc97\uc5b4\ub098\uac8c\ud558\ub2e4"
+  },
+  { "chapter": 4, "index": 85, "word": "unpredictable", "definition": null },
+  {
+    "chapter": 4,
+    "index": 86,
+    "word": "compromise",
+    "definition": "n.\ud0c0\ud611,\uc591\ubcf4,\ud654\ud574;vt.\ud0c0\ud611\uc2dc\ud0a4\ub2e4,\ud654\ud574\uc2dc\ud0a4\ub2e4,(\uba85\uc131\ub4f1)\ub354\ub7fd\ud788\ub2e4,;vi.\ud0c0\ud611\ud558\ub2e4"
+  },
+  { "chapter": 4, "index": 87, "word": "incompatible", "definition": null },
+  {
+    "chapter": 4,
+    "index": 88,
+    "word": "endorse",
+    "definition": "vt.\ubcf4\uc99d\ud558\ub2e4,\uc2dc\uc5b8\ud558\ub2e4,(\uc5b4\uc74c\uc99d\uad8c\ub4f1\uc5d0)\ubc30\uc11c[\uc774\uc11c]\ud558\ub2e4."
+  },
+  {
+    "chapter": 4,
+    "index": 89,
+    "word": "liability",
+    "definition": "n.\ubd80\ucc44,\ucc44\ubb34,\ube5b"
+  },
+  { "chapter": 4, "index": 90, "word": "comply", "definition": null },
+  {
+    "chapter": 4,
+    "index": 91,
+    "word": "apathetic",
+    "definition": "a.\ubb34\uac10\uac01\ud55c,\ub0c9\ub2f4\ud55c,\uad00\uc2ec\uc774 \uc5c6\ub294"
+  },
+  {
+    "chapter": 4,
+    "index": 92,
+    "word": "lenient",
+    "definition": "a.\ub108\uadf8\ub7ec\uc6b4,\uc778\uc790\ud55c,\ub2e4\uc815\ud55c,\uad00\ub300\ud55c"
+  },
+  {
+    "chapter": 4,
+    "index": 93,
+    "word": "pertinent",
+    "definition": "a.\uc801\uc808\ud55c,\ub531 \ub4e4\uc5b4\ub9de\ub294;\uad00\ub828\ub41c,~\uc5d0\uc18d\ud558\ub294"
+  },
+  {
+    "chapter": 4,
+    "index": 94,
+    "word": "complacent",
+    "definition": "a.\ub9c8\uc74c\uc5d0\ud761\uc871\ud55c,\uc790\uae30\ub9cc\uc871\uc758,\ubb34\uad00\uc2ec\ud55c"
+  },
+  { "chapter": 4, "index": 95, "word": "discretion", "definition": null },
+  { "chapter": 4, "index": 96, "word": "distinguished", "definition": null },
+  {
+    "chapter": 4,
+    "index": 97,
+    "word": "formidable",
+    "definition": "a.\uac00\uacf5\ud560,\ubb34\uc11c\uc6b4,\uac81\ub098\ub294"
+  },
+  {
+    "chapter": 4,
+    "index": 98,
+    "word": "potent",
+    "definition": "a.\uac15\ub825\ud55c,\uc720\ub825\ud55c,\ud798\uc13c,\uc601\ud5a5\ub825\uc774\uc788\ub294"
+  },
+  { "chapter": 4, "index": 99, "word": "integral", "definition": null },
+  { "chapter": 4, "index": 100, "word": "disintegration", "definition": null },
+  {
+    "chapter": 5,
+    "index": 101,
+    "word": "impede",
+    "definition": "vt.\ub2a6\ucd94\ub2e4,\ubc29\ud574\ud558\ub2e4,\uc800\ud574\ud558\ub2e4"
+  },
+  {
+    "chapter": 5,
+    "index": 102,
+    "word": "deter",
+    "definition": "vt.\ubc29\ud574\ud558\ub2e4,\uadf8\ub9cc\ub450\uac8c\ud558\ub2e4,\ub2e8\ub150\uc2dc\ud0a4\ub2e4,\uc81c\uc9c0\ud558\ub2e4"
+  },
+  {
+    "chapter": 5,
+    "index": 103,
+    "word": "irritate",
+    "definition": "vt.\ud654\ub098\uac8c\ud558\ub2e4,\uc9dc\uc99d\ub098\uac8c\ud558\ub2e4"
+  },
+  {
+    "chapter": 5,
+    "index": 104,
+    "word": "nervous",
+    "definition": "a.\uc2e0\uacbd\uc9c8\uc801\uc778,\uc2e0\uacbd\uacfc\ubbfc\uc778,\ucd08\uc870\ud55c"
+  },
+  {
+    "chapter": 5,
+    "index": 105,
+    "word": "contentious",
+    "definition": "a.\ub2e4\ud22c\uae30 \uc88b\uc544\ud558\ub294,\ub17c\uc7c1\ud558\uae30 \uc88b\uc544\ud558\ub294"
+  },
+  { "chapter": 5, "index": 106, "word": "reservation", "definition": null },
+  { "chapter": 5, "index": 107, "word": "available", "definition": null },
+  {
+    "chapter": 5,
+    "index": 108,
+    "word": "ubiquitous",
+    "definition": "a.(\ub3d9\uc2dc\uc5d0)\ub3c4\ucc98\uc5d0\uc874\uc7ac\ud558\ub294,\ud3b8\uc7ac\ud558\ub294"
+  },
+  {
+    "chapter": 5,
+    "index": 109,
+    "word": "enigma",
+    "definition": "n.\uc218\uc218\uaed8\ub07c,\ubd88\uac00\uc0ac\uc758\ud55c\uac83"
+  },
+  { "chapter": 5, "index": 110, "word": "ambivalent", "definition": null },
+  { "chapter": 5, "index": 111, "word": "emit", "definition": null },
+  {
+    "chapter": 5,
+    "index": 112,
+    "word": "erode",
+    "definition": "vt.\ubd80\uc2dd\ud558\ub2e4,\uc880\uba39\ub2e4,\uce68\uc2dd\ud558\ub2e4,\uc810\uc810\uc904\uc5b4\ub4e4\ub2e4"
+  },
+  {
+    "chapter": 5,
+    "index": 113,
+    "word": "deteriorate",
+    "definition": "vt.(\uc9c8\uc744)\ub098\uc058\uac8c\ud558\ub2e4,\uc545\ud654\uc2dc\ud0a4\ub2e4. ; vi.\ub098\ube60\uc9c0\ub2e4,\uc545\ud654\ud558\ub2e4,\ud0c0\ub77d\ud558\ub2e4"
+  },
+  {
+    "chapter": 5,
+    "index": 114,
+    "word": "aggravate",
+    "definition": "vt.\uc545\ud654\uc2dc\ud0a4\ub2e4,\uad34\ub86d\ud788\ub2e4,\ud654\ub098\uac8c\ud558\ub2e4"
+  },
+  {
+    "chapter": 5,
+    "index": 115,
+    "word": "confine",
+    "definition": "vt.~\uc744 \ud55c\uc815\ud558\ub2e4,\uc81c\ud55c(\uad6d\ud55c)\ud558\ub2e4,~\uc744\uac00\ub450\ub2e4,\uad6c\uae08(\uac10\uae08)\ud558\ub2e4"
+  },
+  { "chapter": 5, "index": 116, "word": "urgent", "definition": null },
+  {
+    "chapter": 5,
+    "index": 117,
+    "word": "curtail",
+    "definition": "vt.\uc9e7\uac8c \uc904\uc774\ub2e4.\ub2e8\ucd95\ud558\ub2e4,\uc0dd\ub7b5\ud558\ub2e4"
+  },
+  { "chapter": 5, "index": 118, "word": "reduce", "definition": null },
+  {
+    "chapter": 5,
+    "index": 119,
+    "word": "dwindle",
+    "definition": "v.\uc904(\uc774)\ub2e4;\ucc28\uce30\uc791\uc544\uc9c0\ub2e4;\uac10\uc18c\ub418\ub2e4(\uc2dc\ud0a4\ub2e4)"
+  },
+  {
+    "chapter": 5,
+    "index": 120,
+    "word": "decline",
+    "definition": "v.(\uc815\uc911\ud788)\uac70\uc808\ud558\ub2e4,\uc0ac\uc808\ud558\ub2e4;n.\ub0b4\ub9ac\ubc1b\uc774,\uc1e0\ud1f4,\ud1f4\ubcf4,\ud0c0\ub77d,\ud558\ub77d"
+  },
+  {
+    "chapter": 5,
+    "index": 121,
+    "word": "deficiency",
+    "definition": "n.\ubd80\uc871,\uacb0\ud54d,\ubd80\uc871\ubd84,\uacb0\uc190,\uc801\uc790"
+  },
+  {
+    "chapter": 5,
+    "index": 122,
+    "word": "increment",
+    "definition": "n.\uc99d\uac00,\uc99d\ub300,\uc99d\uac00\ub7c9,\uc99d\uc561"
+  },
+  {
+    "chapter": 5,
+    "index": 123,
+    "word": "fertile",
+    "definition": "a.(\ud1a0\uc9c0\uac00)\uae30\ub984\uc9c4,\ube44\uc625\ud55c,\ub2e4\uc0b0\uc758"
+  },
+  {
+    "chapter": 5,
+    "index": 124,
+    "word": "abundant",
+    "definition": "a.\ud48d\ubd80\ud55c,\ub9ce\uc740;(\uc790\uc6d0\ub4f1\uc774)\ud48d\uc871\ud55c"
+  },
+  {
+    "chapter": 5,
+    "index": 125,
+    "word": "redundant",
+    "definition": "a.\uc5ec\ubd84\uc758,\uacfc\ub2e4\ud55c,\ud48d\ubd80\ud55c,\ub0a8\uc544\ub3c4\ub294"
+  },
+  { "chapter": 6, "index": 126, "word": "ostentatious", "definition": null },
+  {
+    "chapter": 6,
+    "index": 127,
+    "word": "fallacious",
+    "definition": "a.\uadf8\ub987\ub41c,\ud5c8\uc704\uc758,\ub17c\ub9ac\uc801\uc624\ub958\uac00\uc788\ub294"
+  },
+  {
+    "chapter": 6,
+    "index": 128,
+    "word": "gullible",
+    "definition": "a.\uc798\uc18d\ub294,\uc18d\uae30\uc26c\uc6b4"
+  },
+  {
+    "chapter": 6,
+    "index": 129,
+    "word": "oblivious",
+    "definition": "a.(\ubb34\uc5c7\uc5d0\ubab0\ub450\ud558\uc5ec)\uc54c\uc544\ucc44\uc9c0\ubabb\ud558\ub294"
+  },
+  {
+    "chapter": 6,
+    "index": 130,
+    "word": "notorious",
+    "definition": "a.(\ub098\uc05c\uc758\ubbf8\ub85c)\uc720\uba85\ud55c,\uc545\uba85\ub192\uc740"
+  },
+  { "chapter": 6, "index": 131, "word": "repel", "definition": null },
+  {
+    "chapter": 6,
+    "index": 132,
+    "word": "dismiss",
+    "definition": "vt.\ud574\uace0[\uba74\uc9c1]\ud558\ub2e4,\ub0b4\ucad2\ub2e4,(\uc0dd\uac01\ub4f1\uc744\uae68\ub057\uc774)\uc9c0\uc6b0\ub2e4,\uc78a\uc5b4\ubc84\ub9ac\ub2e4"
+  },
+  { "chapter": 6, "index": 133, "word": "charge", "definition": null },
+  {
+    "chapter": 6,
+    "index": 134,
+    "word": "reluctant",
+    "definition": "a.\ub9c8\uc74c\ub0b4\ud0a4\uc9c0\uc54a\ub294,\ub9c8\uc9c0\ubabb\ud574\ud558\ub294"
+  },
+  {
+    "chapter": 6,
+    "index": 135,
+    "word": "abuse",
+    "definition": "vt.\ubaa8\uc695\ud558\ub2e4,\uc695\ud558\ub2e4,~\uc744 \uc545\uc6a9\ud558\ub2e4,\ub0a8\uc6a9\ud558\ub2e4;\ud655\ub300\ud558\ub2e4,(\uac74\uac15\ub4f1)\ud574\uce58\ub2e4.n.\uc545\uc6a9,\ub0a8\uc6a9"
+  },
+  { "chapter": 6, "index": 136, "word": "restricted", "definition": null },
+  {
+    "chapter": 6,
+    "index": 137,
+    "word": "suppress",
+    "definition": "vt.(\ud3ed\ub3d9\ub4f1\uc744)\uc5b5\uc555[\uc9c4\uc555]\ud558\ub2e4,[\ucc45\ub4f1\uc744]\ubc1c\ub9e4\uae08\uc9c0\ud558\ub2e4"
+  },
+  { "chapter": 6, "index": 138, "word": "compulsory", "definition": null },
+  {
+    "chapter": 6,
+    "index": 139,
+    "word": "obligatory",
+    "definition": "a.\uc758\ubb34\ub85c\uc11c \uc9c0\uc6cc\uc9c0\ub294,\uc758\ubb34\uc801\uc778,(\ud559\uacfc\ub530\uc704\uac00)\ud544\uc218\uc758"
+  },
+  { "chapter": 6, "index": 140, "word": "apprehend", "definition": null },
+  {
+    "chapter": 6,
+    "index": 141,
+    "word": "attribute",
+    "definition": "n.\uc18d\uc131,\ud2b9\uc9c8;vt.\uc6d0\uc778\uc744~\uc5d0\ub3cc\ub9ac\ub2e4,~\uc758\ud0d3\uc73c\ub85c\ud558\ub2e4"
+  },
+  {
+    "chapter": 6,
+    "index": 142,
+    "word": "immune",
+    "definition": "a.(\uc804\uc5fc\ubcd1\ub4f1\uc758)\uba74\uc5ed\uc131\uc758(from),(\uacfc\uc138\ub4f1\uc73c\ub85c\ubd80\ud130)\uba74\uc81c\ub41c"
+  },
+  {
+    "chapter": 6,
+    "index": 143,
+    "word": "relinquish",
+    "definition": "vt.(\uacc4\ud68d\uc2b5\uad00\ub4f1\uc744)\uadf8\ub9cc\ub450\ub2e4,\ubc84\ub9ac\ub2e4,(\uc18c\uc720\ubb3c,\uad8c\ub9ac\ub4f1\uc744)\ud3ec\uae30\ud558\ub2e4,\uc591\ub3c4\ud558\ub2e4"
+  },
+  {
+    "chapter": 6,
+    "index": 144,
+    "word": "extinct",
+    "definition": "a.(\uc0dd\ubb3c\uc81c\ub3c4\ub4f1\uc774)\uba78\uc885\ub41c,\uc18c\uba78\ub41c"
+  },
+  {
+    "chapter": 6,
+    "index": 145,
+    "word": "inactive",
+    "definition": "a.\ud65c\ub3d9\ud558\uc9c0\uc54a\ub294,\uc6c0\uc9c1\uc774\uc9c0\uc54a\ub294,\ud734\uc9c0\uc758"
+  },
+  { "chapter": 6, "index": 146, "word": "improvise", "definition": null },
+  {
+    "chapter": 6,
+    "index": 147,
+    "word": "specific",
+    "definition": "a.(\ubaa9\uc801.\uc124\uba85\ub4f1)\uba85\ud655\ud55c,\uad6c\uccb4\uc801\uc778,\ud2b9\uc815\ud55c"
+  },
+  { "chapter": 6, "index": 148, "word": "compose", "definition": null },
+  {
+    "chapter": 6,
+    "index": 149,
+    "word": "settle",
+    "definition": "v.(\uc6c0\uc9c1\uc774\uc9c0\uc54a\ub3c4\ub85d)\ub193\ub2e4,\uc124\uce58\ud558\ub2e4,(\uc0ac\ub78c\uc744)\uc815\uc8fc\uc2dc\ud0a4\ub2e4,\uc0b4\uac8c\ud558\ub2e4,\ud574\uacb0\ud558\ub2e4"
+  },
+  { "chapter": 6, "index": 150, "word": "sedentary", "definition": null },
+  {
+    "chapter": 7,
+    "index": 151,
+    "word": "exceed",
+    "definition": "vt.(\ud55c\ub3c4\ub97c)\ub118\ub2e4,\ucd08\uacfc\ud558\ub2e4"
+  },
+  {
+    "chapter": 7,
+    "index": 152,
+    "word": "eligible",
+    "definition": "a.\uc801\uaca9\uc758,\uc801\uc784\uc758;\ubc14\ub78c\uc9c1\ud55c,\uc801\ud569\ud55c;n.\uc801\uc784\uc790,\uc801\uaca9\uc790,\uc720\uc790\uaca9\uc790"
+  },
+  {
+    "chapter": 7,
+    "index": 153,
+    "word": "conspicuous",
+    "definition": "a.\ub450\ub4dc\ub7ec\uc9c4,\ub6f0\uc5b4\ub09c,\ub208\uc5d0\uc798\ub6f0\ub294,\uc800\uba85\ud55c,\ud604\uc800\ud55c"
+  },
+  {
+    "chapter": 7,
+    "index": 154,
+    "word": "mundane",
+    "definition": "a.\ud604\uc138\uc758,\uc138\uc18d\uc801\uc778"
+  },
+  {
+    "chapter": 7,
+    "index": 155,
+    "word": "affable",
+    "definition": "a.\uc0ac\uadc0\uae30\uc26c\uc6b4;\uc0c1\ub0e5\ud55c,\ubd80\ub4dc\ub7ec\uc6b4"
+  },
+  {
+    "chapter": 7,
+    "index": 156,
+    "word": "implement",
+    "definition": "vt.(\uc57d\uc18d\uacc4\uc57d\uacc4\ud68d\ub4f1\uc744)\uc774\ud589[\uc2e4\ud589]\ud558\ub2e4;n.\ub3c4\uad6c,\uc6a9\uad6c,\uae30\uad6c"
+  },
+  {
+    "chapter": 7,
+    "index": 157,
+    "word": "bolster",
+    "definition": "vt.\ubcf4\uac15\ud558\ub2e4,\uc9c0\uc9c0\ud558\ub2e4;n.\ub367\ubc30\uac8c,\uae30\uacc4\ub530\uc704\uc758\uc644\ucda9\uc6a9\ubc1b\uc774,\ubc1b\uce68\ub300"
+  },
+  { "chapter": 7, "index": 158, "word": "concern", "definition": null },
+  { "chapter": 7, "index": 159, "word": "defer", "definition": null },
+  { "chapter": 7, "index": 160, "word": "confirm", "definition": null },
+  { "chapter": 7, "index": 161, "word": "gratify", "definition": null },
+  {
+    "chapter": 7,
+    "index": 162,
+    "word": "flatter",
+    "definition": "v.\uc544\ucca8\ud558\ub2e4,\uc54c\ub791\uac70\ub9ac\ub2e4,\ucd94\ucf1c\uc138\uc6b0\ub2e4"
+  },
+  {
+    "chapter": 7,
+    "index": 163,
+    "word": "audacious",
+    "definition": "a.\ub300\ub2f4\ud55c,\uac81\uc774\uc5c6\ub294"
+  },
+  { "chapter": 7, "index": 164, "word": "chronological", "definition": null },
+  {
+    "chapter": 7,
+    "index": 165,
+    "word": "plight",
+    "definition": "n.\uace4\uacbd,\uad81\uc9c0(\uc5b4\ub824\uc6b4)\uc0c1\ud0dc"
+  },
+  {
+    "chapter": 7,
+    "index": 166,
+    "word": "disseminate",
+    "definition": "vt.(\uc528\ub97c)\ud769\ubfcc\ub9ac\ub2e4;(\uc8fc\uc7a5\uc758\uacac\uc744)\ud37c\ub728\ub9ac\ub2e4"
+  },
+  { "chapter": 7, "index": 167, "word": "yield", "definition": null },
+  { "chapter": 7, "index": 168, "word": "proliferate", "definition": null },
+  {
+    "chapter": 7,
+    "index": 169,
+    "word": "prevalent",
+    "definition": "a.\uc77c\ubc18\uc801\uc73c\ub85c \ud589\ud558\uc5ec\uc9c0\ub294,\uc720\ud589\ud558\ub294"
+  },
+  {
+    "chapter": 7,
+    "index": 170,
+    "word": "affluent",
+    "definition": "a.\ud48d\ubd80\ud55c,\uc720\ubcf5\ud55c"
+  },
+  {
+    "chapter": 7,
+    "index": 171,
+    "word": "wane",
+    "definition": "vi.\uc801\uc5b4\uc9c0\ub2e4,\uc57d\ud574\uc9c0\ub2e4,\uc1e0\uc57d\ud574\uc9c0\ub2e4"
+  },
+  {
+    "chapter": 7,
+    "index": 172,
+    "word": "impair",
+    "definition": "vt.(\uac00\uce58,\ud798,\uac74\uac15\ub4f1\uc744)\uc57d\ud654\uc2dc\ud0a4\ub2e4,\ud574\uce58\ub2e4"
+  },
+  {
+    "chapter": 7,
+    "index": 173,
+    "word": "languid",
+    "definition": "a.\ub098\ub978\ud55c,\ucd95\ub298\uc5b4\uc9c4,\ud65c\uae30\uac00\uc5c6\ub294"
+  },
+  {
+    "chapter": 7,
+    "index": 174,
+    "word": "frugal",
+    "definition": "a.\uc808\uc57d\ud558\ub294,\uac04\uc18c\ud55c,\uc18c\ubc15\ud55c;\uac80\uc18c\ud55c"
+  },
+  {
+    "chapter": 7,
+    "index": 175,
+    "word": "austere",
+    "definition": "a.\uafb8\ubbf8\uc9c0\uc54a\uc740,\uac80\uc18c\ud55c,\uc5c4\ud55c,\uc5c4\uaca9\ud55c,\uc5c4\uc219\ud55c,\uac04\uacb0\ud55c,\uae08\uc695\uc801\uc778"
+  },
+  { "chapter": 8, "index": 176, "word": "annoy", "definition": null },
+  { "chapter": 8, "index": 177, "word": "outrage", "definition": null },
+  {
+    "chapter": 8,
+    "index": 178,
+    "word": "furious",
+    "definition": "a.\uc131\ub0b4\uc5b4 \ub0a0\ub6f0\ub294,\uaca9\ub178\ud55c"
+  },
+  { "chapter": 8, "index": 179, "word": "mitigate", "definition": null },
+  {
+    "chapter": 8,
+    "index": 180,
+    "word": "placate",
+    "definition": "vt.(\uc0ac\ub78c\uc744)\ub2ec\ub798\ub2e4,\uc704\ub85c\ud558\ub2e4,\uc9c4\uc815\uc2dc\ud0a4\ub2e4"
+  },
+  {
+    "chapter": 8,
+    "index": 181,
+    "word": "defiant",
+    "definition": "a.\ubc18\ud56d\uc801\uc778,\ub3c4\uc804\uc801\uc778,\uc2dc\ube44\uc870\uc758"
+  },
+  { "chapter": 8, "index": 182, "word": "subversive", "definition": null },
+  {
+    "chapter": 8,
+    "index": 183,
+    "word": "reverse",
+    "definition": "n.\uc5ed,\ubc18\ub300,\ub4a4,\ubc30\ud6c4,\ubd88\uc6b4,\uc2e4\ud328,\ud6c4\uc9c4"
+  },
+  {
+    "chapter": 8,
+    "index": 184,
+    "word": "catastrophe",
+    "definition": "n.\ud070\uc7ac\ud574,\ub300\ucc38\uc0ac"
+  },
+  { "chapter": 8, "index": 185, "word": "controversial", "definition": null },
+  {
+    "chapter": 8,
+    "index": 186,
+    "word": "avert",
+    "definition": "vt.(\uc704\ud5d8 \ud0c0\uaca9\ub4f1\uc744)\ud53c\ud558\ub2e4,\ub9c9\ub2e4;(\ub208.\uc0dd\uac01\ub4f1\uc744)\ub3cc\ub9ac\ub2e4,\ube44\ud0a4\ub2e4"
+  },
+  {
+    "chapter": 8,
+    "index": 187,
+    "word": "elude",
+    "definition": "vt.\uad50\ubb18\ud788 \ud53c\ud558\ub2e4~\uc744 \uba74\ud558\ub2e4;\ud68c\ud53c\ud558\ub2e4,\uc0dd\uac01\ub098\uc9c0\uc54a\ub2e4"
+  },
+  { "chapter": 8, "index": 188, "word": "prevent", "definition": null },
+  {
+    "chapter": 8,
+    "index": 189,
+    "word": "hamper",
+    "definition": "vt.\ubc29\ud574\ud558\ub2e4,\ud6fc\ubc29\ub193\ub2e4,\uc81c\ud55c[\uad6c\uc18d]\ud558\ub2e4"
+  },
+  { "chapter": 8, "index": 190, "word": "curb", "definition": null },
+  { "chapter": 8, "index": 191, "word": "conservative", "definition": null },
+  {
+    "chapter": 8,
+    "index": 192,
+    "word": "conventional",
+    "definition": "a.\uad00\uc2b5\uc801\uc778,\uc778\uc2b5\uc5d0\uc0ac\ub85c\uc7a1\ud78c,\uc804\ud1b5\uc801\uc778,\ud2c0\uc5d0\ubc15\ud78c,\ud615\uc2dd\uc801\uc778,\uc0c1\ud22c\uc801\uc778"
+  },
+  { "chapter": 8, "index": 193, "word": "immutable", "definition": null },
+  {
+    "chapter": 8,
+    "index": 194,
+    "word": "unanimous",
+    "definition": "a.\ub9cc\uc7a5[\uc804\uc6d0]\uc77c\uce58\uc758"
+  },
+  {
+    "chapter": 8,
+    "index": 195,
+    "word": "acquiesce",
+    "definition": "vi.\uc7a0\uc790\ucf54\ub530\ub974\ub2e4,\ubb35\uc778\ud558\ub2e4"
+  },
+  { "chapter": 8, "index": 196, "word": "perpetual", "definition": null },
+  {
+    "chapter": 8,
+    "index": 197,
+    "word": "fragile",
+    "definition": "a.\ubd80\uc11c\uc9c0\uae30\uc26c\uc6b4,\ubb34\ub978,\ud5c8\uc57d\ud55c,\uc5f0\uc57d\ud55c,\ub367\uc5c6\ub294"
+  },
+  {
+    "chapter": 8,
+    "index": 198,
+    "word": "indelible",
+    "definition": "a.\uc9c0\uc6b8\uc218\uc5c6\ub294,\uc78a\ud600\uc9c0\uc9c0\uc54a\ub294"
+  },
+  { "chapter": 8, "index": 199, "word": "mobile", "definition": null },
+  {
+    "chapter": 8,
+    "index": 200,
+    "word": "collaborate",
+    "definition": "vt.\uacf5\ub3d9\uc73c\ub85c\uc77c\ud558\ub2e4,\ud569\uc791\ud558\ub2e4,\uc81c\ud734\ud558\ub2e4,(\uc810\ub839\uad70.\uc801\uad6d\uc5d0)\ud611\ub825\ud558\ub2e4,\ubd80\uc5ed\ud558\ub2e4"
+  },
+  {
+    "chapter": 9,
+    "index": 201,
+    "word": "emulate",
+    "definition": "vt.~\uc744\ud749\ub0b4\ub0b4\ub2e4,\ubaa8\ubc29\ud558\ub2e4"
+  },
+  {
+    "chapter": 9,
+    "index": 202,
+    "word": "analogous",
+    "definition": "a.\uc720\uc0ac\ud55c,\ub2ee\uc740,\ube44\uc2b7\ud55c"
+  },
+  { "chapter": 9, "index": 203, "word": "identical", "definition": null },
+  { "chapter": 9, "index": 204, "word": "prone", "definition": null },
+  {
+    "chapter": 9,
+    "index": 205,
+    "word": "infer",
+    "definition": "vt.\ucd94\ub860\ud558\ub2e4,\ucd94\ub2e8\ud558\ub2e4,\ucd94\uce21\ud558\ub2e4"
+  },
+  { "chapter": 9, "index": 206, "word": "commitment", "definition": null },
+  {
+    "chapter": 9,
+    "index": 207,
+    "word": "contribute",
+    "definition": "v.(\ub3c8\ub4f1\uc744)\uae30\ubd80\ud558\ub2e4,\uc8fc\ub2e4,\uae30\uc5ec\ud558\ub2e4,\uacf5\ud5cc\ud558\ub2e4"
+  },
+  {
+    "chapter": 9,
+    "index": 208,
+    "word": "competent",
+    "definition": "a.\uc720\ub2a5\ud55c,\ub2a5\ub825(\uc790\uaca9)\uc774\uc788\ub294,\uc694\uad6c\ub97c\ucda9\uc871\uc2dc\ud0a4\ub294,\ucda9\ubd84\ud55c"
+  },
+  { "chapter": 9, "index": 209, "word": "passionate", "definition": null },
+  { "chapter": 9, "index": 210, "word": "esteem", "definition": null },
+  {
+    "chapter": 9,
+    "index": 211,
+    "word": "trivial",
+    "definition": "a.\ud558\ucc2e\uc740,\uc0ac\uc18c\ud55c"
+  },
+  {
+    "chapter": 9,
+    "index": 212,
+    "word": "viable",
+    "definition": "a.(\uacc4\ud68d\ub4f1\uc774)\uc2e4\ud589\uac00\ub2a5\ud55c,\uc2e4\uc6a9\uc801\uc778"
+  },
+  {
+    "chapter": 9,
+    "index": 213,
+    "word": "devastate",
+    "definition": "vt.\uc720\ub9b0\ud558\ub2e4,\ud669\ud3d0\uc2dc\ud0a4\ub2e4,\uc555\ub3c4\ud558\ub2e4"
+  },
+  {
+    "chapter": 9,
+    "index": 214,
+    "word": "contempt",
+    "definition": "n.\uacbd\uba78,\uba78\uc2dc,\ubaa8\uc695"
+  },
+  {
+    "chapter": 9,
+    "index": 215,
+    "word": "deceptive",
+    "definition": "a.\uc18d\uc774\ub294,\ud604\ud639\uc2dc\ud0a4\ub294,\ubbff\uc744\uc218 \uc5c6\ub294"
+  },
+  {
+    "chapter": 9,
+    "index": 216,
+    "word": "concentrate",
+    "definition": "vt(\uc815\uc2e0\ub4f1\uc744)\uc9d1\uc911\ud558\ub2e4,(\ubb3c\uac74\ub4f1\uc744)\ubaa8\uc73c\ub2e4,\uc9d1\uc911\uc2dc\ud0a4\ub2e4,\uad70\ub300\ub97c\uc9d1\uacb0\uc2dc\ud0a4\ub2e4"
+  },
+  { "chapter": 9, "index": 217, "word": "dexterity", "definition": null },
+  {
+    "chapter": 9,
+    "index": 218,
+    "word": "impromptu",
+    "definition": "a.\uc989\uc11d\uc5d0\uc11c\uc758,\uc989\ud765\uc801\uc778,\uc784\uc2dc\ubcc0\ud1b5\uc758"
+  },
+  {
+    "chapter": 9,
+    "index": 219,
+    "word": "spontaneous",
+    "definition": "a.\uc790\uc5f0\ud788\uc77c\uc5b4\ub098\ub294,\ubb34\uc758\uc2dd\uc801\uc778,\ucda9\ub3d9\uc801\uc778,\uc790\ubc1c\uc801\uc778,\uc784\uc758\uc758"
+  },
+  { "chapter": 9, "index": 220, "word": "cautious", "definition": null },
+  { "chapter": 9, "index": 221, "word": "wary", "definition": null },
+  { "chapter": 9, "index": 222, "word": "sensible", "definition": null },
+  {
+    "chapter": 9,
+    "index": 223,
+    "word": "sensitive",
+    "definition": "a.\uac10\uc218\uc131\uc774 \uc608\ubbfc\ud55c,\uc12c\uc138\ud55c,\ubbfc\uac10\ud55c"
+  },
+  {
+    "chapter": 9,
+    "index": 224,
+    "word": "prudent",
+    "definition": "a.\uc870\uc2ec\uc131\uc788\ub294,\uc2e0\uc911\ud55c,\uc0ac\ub824\uae4a\uc740,\ubd84\ubcc4\uc788\ub294"
+  },
+  {
+    "chapter": 9,
+    "index": 225,
+    "word": "intent",
+    "definition": "n.\uc758\ub3c4,\uc758\ud5a5,\ubaa9\uc801,\uacc4\ud68d,\uc758\ubbf8,\ucde8\uc9c0,;a.\uc9d1\uc911\ub41c,\uc5f4\uc2ec\uc778"
+  },
+  { "chapter": 10, "index": 226, "word": "scanty", "definition": null },
+  {
+    "chapter": 10,
+    "index": 227,
+    "word": "parsimony",
+    "definition": "n.\uc9c0\ub098\uce5c,\uc808\uc57d,\uc778\uc0c9"
+  },
+  {
+    "chapter": 10,
+    "index": 228,
+    "word": "pervasive",
+    "definition": "a.\ub110\ub9ac \ud37c\uc9c0\ub294,\ubcf4\uae09\ub825\uc788\ub294"
+  },
+  {
+    "chapter": 10,
+    "index": 229,
+    "word": "flourish",
+    "definition": "vi(\uc7a5\uc0ac.\uc0ac\uc5c5\ub4f1\uc774)\ubc88\ucc3d\ud558\ub2e4,\uc735\uc131\ud558\ub2e4"
+  },
+  {
+    "chapter": 10,
+    "index": 230,
+    "word": "prolific",
+    "definition": "a.\ub2e4\uc0b0\uc758,\uc5f4\ub9e4\ub97c \ub9ce\uc774\ub9fa\ub294,\ube44\uc625\ud55c"
+  },
+  {
+    "chapter": 10,
+    "index": 231,
+    "word": "legitimate",
+    "definition": "a.\ud569\ubc95\uc801\uc778,\uc801\ubc95\uc758,\uc815\ub2f9\ud55c"
+  },
+  {
+    "chapter": 10,
+    "index": 232,
+    "word": "adapt",
+    "definition": "vt.~\uc744\uc801\uc751\uc2dc\ud0a4\ub2e4,\uc801\ud569\ud558\uac8c\ud558\ub2e4,\uac1c\uc791(\uac01\uc0c9,\ubc88\uc548)\ud558\ub2e4;vi.\uc801\uc751\ud558\ub2e4,\uc21c\uc751\ud558\ub2e4"
+  },
+  {
+    "chapter": 10,
+    "index": 233,
+    "word": "adept",
+    "definition": "n.\uc219\ub828\uc790,\ub178\ub828\uac00"
+  },
+  { "chapter": 10, "index": 234, "word": "adequate", "definition": null },
+  {
+    "chapter": 10,
+    "index": 235,
+    "word": "equivalent",
+    "definition": "a.\ub3d9\ub4f1\ud55c,\uac19\uc740\uac00\uce58\uc758,\uac19\uc740\ub73b\uc758;n.\ub4f1\uac00\ubb3c,\uc0c1\ub2f9\uc5b4\uad6c,\ub3d9\uc758\uc5b4"
+  },
+  {
+    "chapter": 10,
+    "index": 236,
+    "word": "capacity",
+    "definition": "n.(\uc2ec\uc2e0\uc758)\ub2a5\ub825,\uc815\uc2e0\ub2a5\ub825,\ud3ec\uc6a9\ub825,\uc218\uc6a9\ub825,\ub3c4\ub7c9,(\uac74\ubb3c\ub530\uc704\uc758)\uc218\uc6a9\uc778\uc6d0,\uc815\uc6d0,\uc6a9\ub7c9"
+  },
+  {
+    "chapter": 10,
+    "index": 237,
+    "word": "invaluable",
+    "definition": "a.\uac12\uc744 \ud5e4\uc544\ub9b4\uc218 \uc5c6\ub294,\ub9e4\uc6b0\uadc0\uc911\ud55c"
+  },
+  { "chapter": 10, "index": 238, "word": "valid", "definition": null },
+  {
+    "chapter": 10,
+    "index": 239,
+    "word": "appreciate",
+    "definition": "vt.\uc0ac\ubb3c\uc744\ubc14\ub974\uac8c\ud3c9\uac00\ud558\ub2e4,\uac00\uce58\ub97c\uc778\uc815\ud558\ub2e4"
+  },
+  {
+    "chapter": 10,
+    "index": 240,
+    "word": "inspiration",
+    "definition": "n.\uc790\uadf9,\uace0\ucde8,\uace0\ubb34,\uaca9\ub824"
+  },
+  { "chapter": 10, "index": 241, "word": "fledgling", "definition": null },
+  {
+    "chapter": 10,
+    "index": 242,
+    "word": "rudimentary",
+    "definition": "a.\uc6d0\ub9ac\uc758,\uae30\ubcf8\uc758,\uae30\ucd08\uc758"
+  },
+  { "chapter": 10, "index": 243, "word": "volatile", "definition": null },
+  { "chapter": 10, "index": 244, "word": "unstable", "definition": null },
+  {
+    "chapter": 10,
+    "index": 245,
+    "word": "jeopardy",
+    "definition": "n. \uc704\ud5d8,\uc704\ub09c;(\ud53c\uace0\uac00\uc720\uc8c4\uac00\ub420)\uac00\ub2a5\uc131"
+  },
+  { "chapter": 10, "index": 246, "word": "undermine", "definition": null },
+  {
+    "chapter": 10,
+    "index": 247,
+    "word": "immortal",
+    "definition": "a.\uc8fd\uc9c0\uc54a\ub294,\ubd88\uba78\uc758,\ubd88\ubcc0\uc758,\uc2e0\uc758"
+  },
+  {
+    "chapter": 10,
+    "index": 248,
+    "word": "lethal",
+    "definition": "a.\uce58\uba85\uc801\uc778,\uc8fd\uc74c\uc5d0\uc774\ub974\ub294,\uce58\uc0ac\uc758"
+  },
+  { "chapter": 10, "index": 249, "word": "dire", "definition": null },
+  {
+    "chapter": 10,
+    "index": 250,
+    "word": "exterminate",
+    "definition": "v.(\uc885\uc871,\uc9c8\ubcd1\ud574\ucda9\ub530\uc704\ub97c)\uba78\uc885\uc2dc\ud0a4\ub2e4,\ubc15\uba78\ud558\ub2e4"
+  },
+  {
+    "chapter": 11,
+    "index": 251,
+    "word": "imminent",
+    "definition": "a.(\uc704\ud5d8\uc0ac\ud0dc\ub4f1\uc774)\uc784\ubc15\ud55c,\ucd09\ubc15\ud55c"
+  },
+  { "chapter": 11, "index": 252, "word": "occur", "definition": null },
+  { "chapter": 11, "index": 253, "word": "breakthrough", "definition": null },
+  { "chapter": 11, "index": 254, "word": "indispensable", "definition": null },
+  {
+    "chapter": 11,
+    "index": 255,
+    "word": "crucial",
+    "definition": "a.\uacb0\uc815\uc801\uc778,\uc911\ub300\ud55c,(\uc2dc\ub828.\ubb38\uc81c\ub4f1\uc774)\uc5b4\ub824\uc6b4,\ud639\ub3c5\ud55c,\uc2ed\uc790\ud615\uc758"
+  },
+  {
+    "chapter": 11,
+    "index": 256,
+    "word": "promote",
+    "definition": "vt.\uc99d\uc9c4[\ucd09\uc9c4]\ud558\ub2e4,\uc9c4\ucc99\uc2dc\ud0a4\ub2e4."
+  },
+  { "chapter": 11, "index": 257, "word": "exploit", "definition": null },
+  {
+    "chapter": 11,
+    "index": 258,
+    "word": "auspicious",
+    "definition": "a.\uae38\uc870\uc758,\uc0c1\uc11c\ub85c\uc6b4,\uc804\ub3c4\uac00\ubc1d\uc740"
+  },
+  {
+    "chapter": 11,
+    "index": 259,
+    "word": "proceed",
+    "definition": "vi.\ub098\uc544\uac00\ub2e4,\uac00\ub2e4,\uc18d\ud589\ud558\ub2e4,\uacc4\uc18d\ud558\ub2e4"
+  },
+  {
+    "chapter": 11,
+    "index": 260,
+    "word": "accessible",
+    "definition": "a.\uc811\uadfc\ud558\uae30\uc26c\uc6b4,\ub2ff\uc744\uc218\uc788\ub294"
+  },
+  {
+    "chapter": 11,
+    "index": 261,
+    "word": "comprehensive",
+    "definition": "a.\ud3ec\uad04\uc801\uc778,\uc885\ud569\uc801\uc778,\ub113\uc740,\uad11\ubc94\uc704\ud55c,\uc774\ud574\ub825\uc774\uc788\ub294,\uc774\ud574\uac00\ube60\ub978"
+  },
+  {
+    "chapter": 11,
+    "index": 262,
+    "word": "plausible",
+    "definition": "a.(\ub9d0,\uc9c4\uc220\ub4f1\uc774)\uadf8\ub7f4\ub4ef\ud55c,\uc815\ub9d0\uac19\uc740"
+  },
+  { "chapter": 11, "index": 263, "word": "down-to-earth", "definition": null },
+  { "chapter": 11, "index": 264, "word": "resolution", "definition": null },
+  {
+    "chapter": 11,
+    "index": 265,
+    "word": "prescription",
+    "definition": "n.\ucc98\ubc29[\uc804],\ucc98\ubc29\uc57d"
+  },
+  { "chapter": 11, "index": 266, "word": "erudite", "definition": null },
+  {
+    "chapter": 11,
+    "index": 267,
+    "word": "elucidate",
+    "definition": "v.(\uc0ac\uc2e4\ub4f1\uc744)\uba85\ub8cc\ud558\uac8c\ud558\ub2e4,\ubc1d\ud788\ub2e4,\ud574\uba85\ud558\ub2e4,\uc124\uba85\ud558\ub2e4"
+  },
+  {
+    "chapter": 11,
+    "index": 268,
+    "word": "pretend",
+    "definition": "v.\uac00\uc7a5\ud558\ub2e4,~\uc778\uccb4\ud558\ub2e4,\uc0ac\uce6d\ud558\ub2e4"
+  },
+  { "chapter": 11, "index": 269, "word": "assume", "definition": null },
+  { "chapter": 11, "index": 270, "word": "imitate", "definition": null },
+  {
+    "chapter": 11,
+    "index": 271,
+    "word": "abstruse",
+    "definition": "a.\ub09c\ud574\ud55c,\uc2ec\uc624\ud55c"
+  },
+  {
+    "chapter": 11,
+    "index": 272,
+    "word": "nebulous",
+    "definition": "a.\ud76c\ubbf8\ud55c,\ubd88\ud22c\uba85\ud55c,\ubaa8\ud638\ud55c,\ub9c9\uc5f0\ud55c"
+  },
+  {
+    "chapter": 11,
+    "index": 273,
+    "word": "discernible",
+    "definition": "a.\uc778\uc2dd[\uc2dd\ubcc4]\ud560\uc218 \uc788\ub294"
+  },
+  { "chapter": 11, "index": 274, "word": "blurred", "definition": null },
+  {
+    "chapter": 11,
+    "index": 275,
+    "word": "furtive",
+    "definition": "a.\ubab0\ub798\ud558\ub294,\ub0a8\uc758\ub208\uc744\uc18d\uc774\ub294,\uc740\ubc00\ud55c"
+  },
+  { "chapter": 12, "index": 276, "word": "consume", "definition": null },
+  {
+    "chapter": 12,
+    "index": 277,
+    "word": "insatiable",
+    "definition": "a.\ub9cc\uc871\ud560\uc904\ubaa8\ub974\ub294,\ud0d0\uc695\uc2a4\ub7ec\uc6b4"
+  },
+  { "chapter": 12, "index": 278, "word": "obesity", "definition": null },
+  { "chapter": 12, "index": 279, "word": "obedient", "definition": null },
+  {
+    "chapter": 12,
+    "index": 280,
+    "word": "antidote",
+    "definition": "n.\ud574\ub3c5\uc81c,(\uc545\uc601\ud5a5\ub4f1\uc758)\ubc29\uc5b4\uc218\ub2e8,\ub300\ucc45,\ucef4\ud4e8\ud130 \ubc14\uc774\ub7ec\uc2a4\uc608\ubc29\ud504\ub85c\uadf8\ub7a8"
+  },
+  {
+    "chapter": 12,
+    "index": 281,
+    "word": "emerge",
+    "definition": "vt.(\ubb3c,\uc5b4\ub460\uc18d\uc5d0\uc11c)\ub098\uc624\ub2e4,\ub098\ud0c0\ub098\ub2e4"
+  },
+  {
+    "chapter": 12,
+    "index": 282,
+    "word": "merge",
+    "definition": "v.\ubcd1\ud569[\ud569\ubcd1,\ud1b5\ud569]\ud558\ub2e4,\uc735\ud569\ud558\ub2e4(\uc2dc\ud0a4\ub2e4)"
+  },
+  {
+    "chapter": 12,
+    "index": 283,
+    "word": "segregate",
+    "definition": "v.\uaca9\ub9ac\ud558\ub2e4[\uc2dc\ud0a4\ub2e4]"
+  },
+  {
+    "chapter": 12,
+    "index": 284,
+    "word": "differentiate",
+    "definition": "v.\uad6c\ubcc4\uc9d3\ub2e4,\ucc28\ubcc4\ud558\ub2e4"
+  },
+  { "chapter": 12, "index": 285, "word": "narrow", "definition": null },
+  {
+    "chapter": 12,
+    "index": 286,
+    "word": "coerce",
+    "definition": "vt.\uac15\uc81c\ud558\ub2e4,\uc704\uc555\ud558\ub2e4,\uac15\uc694\ud558\ub2e4"
+  },
+  {
+    "chapter": 12,
+    "index": 287,
+    "word": "obstinate",
+    "definition": "a.\uc644\uace0\ud55c,\uace0\uc9d1\uc13c,\uc644\uac15\ud55c,\ub2e4\ub8e8\uae30\ud798\ub4e0"
+  },
+  {
+    "chapter": 12,
+    "index": 288,
+    "word": "rebellious",
+    "definition": "a.\ubc18\ud56d\ud558\ub294,\ubc18\uccb4\uc81c\uc758,\ubc18\ub780\ud558\ub294"
+  },
+  {
+    "chapter": 12,
+    "index": 289,
+    "word": "retaliate",
+    "definition": "v.(\uac19\uc740\ubc29\ubc95\uc73c\ub85c)\ubcf4\ubcf5\ud558\ub2e4,\uc559\uac1a\uc74c\ud558\ub2e4"
+  },
+  {
+    "chapter": 12,
+    "index": 290,
+    "word": "turmoil",
+    "definition": "n.\uc18c\ub780,\uc18c\ub3d9,\ud63c\ub780"
+  },
+  {
+    "chapter": 12,
+    "index": 291,
+    "word": "reconcile",
+    "definition": "vt.\ud654\ud574\uc2dc\ud0a4\ub2e4,\uc735\ud654\uc2dc\ud0a4\ub2e4,\uc870\ud654\uc2dc\ud0a4\ub2e4"
+  },
+  {
+    "chapter": 12,
+    "index": 292,
+    "word": "dismay",
+    "definition": "vt.\uc2e4\ub9dd[\ub099\ub2f4]\uc2dc\ud0a4\ub2e4,\ub2f9\ud669\ucf00\ud558\ub2e4 n.\ub2f9\ud669"
+  },
+  { "chapter": 12, "index": 293, "word": "exacerbate", "definition": null },
+  { "chapter": 12, "index": 294, "word": "confused", "definition": null },
+  { "chapter": 12, "index": 295, "word": "contrast", "definition": null },
+  {
+    "chapter": 12,
+    "index": 296,
+    "word": "appease",
+    "definition": "vt.\ub2ec\ub798\ub2e4,\uc9c4\uc815\uc2dc\ud0a4\ub2e4"
+  },
+  {
+    "chapter": 12,
+    "index": 297,
+    "word": "tranquility",
+    "definition": "n.\ud3c9\uc628,\uace0\uc694\ud568,\uc815\uc801"
+  },
+  { "chapter": 12, "index": 298, "word": "taciturn", "definition": null },
+  {
+    "chapter": 12,
+    "index": 299,
+    "word": "divulge",
+    "definition": "vt.(\ube44\ubc00\ub530\uc704\ub97c)\ub204\uc124[\ud3ed\ub85c]\ud558\ub2e4,\ubc1d\ud788\ub2e4"
+  },
+  {
+    "chapter": 12,
+    "index": 300,
+    "word": "disregard",
+    "definition": "vt.\ubb34\uc2dc[\uacbd\uc0ac]\ud558\ub2e4,\uc18c\ud758\ud788\ud558\ub2e4,;n.\ubb34\uc2dc,\uacbd\uc2dc"
+  },
+  {
+    "chapter": 13,
+    "index": 301,
+    "word": "absurd",
+    "definition": "a.\uc5b4\ub9ac\uc11d\uc740,\uc6b0\uc2a4\uaf5d\uc2a4\ub7ec\uc6b4,\ubd88\ud569\ub9ac\ud55c,\ubaa8\uc21c\ub41c,\ubd80\uc870\ub9ac\ud55c;n.\ubd80\uc870\ub9ac"
+  },
+  { "chapter": 13, "index": 302, "word": "mean", "definition": null },
+  { "chapter": 13, "index": 303, "word": "reliable", "definition": null },
+  { "chapter": 13, "index": 304, "word": "responsible", "definition": null },
+  {
+    "chapter": 13,
+    "index": 305,
+    "word": "assiduous",
+    "definition": "a.\ubd80\uc9c0\ub7f0\ud55c,\uadfc\uba74\ud55c,\uc9c0\uce60\uc904\ubaa8\ub974\ub294,\ub04a\uc784\uc5c6\ub294,\uacc4\uc18d\ud558\ub294"
+  },
+  {
+    "chapter": 13,
+    "index": 306,
+    "word": "impeccable",
+    "definition": "a.\uc8c4(\uacfc\uc2e4)\uc5c6\ub294,\uacb0\uc810\uc5c6\ub294,\ub098\ubb34\ub784\ub370\uc5c6\ub294"
+  },
+  {
+    "chapter": 13,
+    "index": 307,
+    "word": "accuse",
+    "definition": "v.\uace0\ubc1c[\uae30\uc18c,\uace0\uc18c]\ud558\ub2e4,\ube44\ub09c\ud558\ub2e4,\ucc45\ub9dd\ud558\ub2e4"
+  },
+  {
+    "chapter": 13,
+    "index": 308,
+    "word": "culprit",
+    "definition": "n.\ubc94\uc778,\uc8c4\uc778,\ubc94\uc8c4\uc6a9\uc758\uc790,(\ubb38\uc81c\ub098\ub098\uc05c\uc0c1\ud669\uc758)\uc6d0\uc778,\ubbf8\uacb0\uc218"
+  },
+  {
+    "chapter": 13,
+    "index": 309,
+    "word": "accomplice",
+    "definition": "n.\uacf5\ubc94\uc790,\ud55c\ud328,\ud55c\ud1b5\uc18d"
+  },
+  {
+    "chapter": 13,
+    "index": 310,
+    "word": "intrigue",
+    "definition": "vt.\ub2f9\ud639\ucf00\ud558\ub2e4,\uc5b4\ucc0c\ud560\ubc14\ub97c\ubaa8\ub974\uac8c\ud558\ub2e4,\ud638\uae30\uc2ec\uc744\uc790\uadf9\ud558\ub2e4,\ud765\ubbf8\ub97c\ub3cb\uad6c\ub2e4,n.\uc74c\ubaa8"
+  },
+  {
+    "chapter": 13,
+    "index": 311,
+    "word": "simultaneously",
+    "definition": "Ad.\ub3d9\uc2dc\uc5d0,\uc77c\uc81c\ud788"
+  },
+  { "chapter": 13, "index": 312, "word": "concurrent", "definition": null },
+  {
+    "chapter": 13,
+    "index": 313,
+    "word": "coincide",
+    "definition": "vt.\ub3d9\uc2dc\uc5d0\uc77c\uc5b4\ub098\ub2e4,(\uc758\uacac\ub530\uc704)\uc77c\uce58\ud558\ub2e4,(\uc131\uc9c8\ub530\uc704)\ub9de\ub2e4,\ubd80\ud569\ud558\ub2e4"
+  },
+  {
+    "chapter": 13,
+    "index": 314,
+    "word": "accidental",
+    "definition": "a.\uc6b0\uc5f0\uc758,\ub73b\ubc16\uc758"
+  },
+  {
+    "chapter": 13,
+    "index": 315,
+    "word": "continually",
+    "definition": "Ad.\uacc4\uc18d\uc801\uc73c\ub85c,\ub04a\uc784\uc5c6\uc774,\uc904\uace7,\ube48\ubc88\ud788,\uc790\uc8fc"
+  },
+  {
+    "chapter": 13,
+    "index": 316,
+    "word": "acquit",
+    "definition": "vt.\ubb34\uc8c4\ub77c\uace0\ud558\ub2e4,(\ud610\uc758\ub97c)\ubc97\uaca8\uc8fc\ub2e4,\uc11d\ubc29\ud558\ub2e4"
+  },
+  {
+    "chapter": 13,
+    "index": 317,
+    "word": "emancipate",
+    "definition": "vt.(\ub178\uc608\ub4f1\uc744)\ud574\ubc29\ud558\ub2e4,\uc11d\ubc29\ud558\ub2e4,(\ub098\uc05c\ubc84\ub987\ub4f1\uc744)\ub04a\ub2e4"
+  },
+  {
+    "chapter": 13,
+    "index": 318,
+    "word": "counterfeit",
+    "definition": "a.\uc704\uc870\uc758,\uac00\uc9dc\uc758\ubaa8\uc870\uc758,\uc0ac\uc774\ube44\uc758;n.\uc704\uc870\ubb3c\uac74;\ubaa8\uc870\ud488;vt.\ubaa8\uc870\ud558\ub2e4,\ud749\ub0b4\ub0b4\ub2e4"
+  },
+  {
+    "chapter": 13,
+    "index": 319,
+    "word": "forge",
+    "definition": "vt.\uc704\uc870\ud558\ub2e4,(\uc5b4\ub835\uac8c)\ub9cc\ub4e4\uc5b4\ub0b4\ub2e4"
+  },
+  { "chapter": 13, "index": 320, "word": "spurious", "definition": null },
+  {
+    "chapter": 13,
+    "index": 321,
+    "word": "conceal",
+    "definition": "vt,\uc228\uae30\ub2e4,\ube44\ubc00\ub85c\ud558\ub2e4"
+  },
+  { "chapter": 13, "index": 322, "word": "trickery", "definition": null },
+  { "chapter": 13, "index": 323, "word": "pretentious", "definition": null },
+  { "chapter": 13, "index": 324, "word": "deprivation", "definition": null },
+  {
+    "chapter": 13,
+    "index": 325,
+    "word": "delinquent",
+    "definition": "n.(\uc9c1\ubb34)\ud0dc\ub9cc\uc790,a.\ube44\ud589\uc744\uc800\uc9c0\ub978,\ube44\ud589\uc790\uc758"
+  },
+  { "chapter": 14, "index": 326, "word": "attract", "definition": null },
+  {
+    "chapter": 14,
+    "index": 327,
+    "word": "entice",
+    "definition": "vt.\uaf80\uc5b4\uc11c~\uc2dc\ud0a4\ub2e4;\ubd80\ucd94\uae30\ub2e4;\uc720\ud639\ud558\ub2e4"
+  },
+  {
+    "chapter": 14,
+    "index": 328,
+    "word": "arduous",
+    "definition": "a.(\uc77c\uc774)\ud798\ub4dc\ub294,\uace4\ub780\ud55c,\ubd84\ud22c\uc801\uc778,\ub048\uae30\uc788\ub294,\ubd88\uad74\uc758,\ud5d8\ud55c,\uac00\ud30c\ub978"
+  },
+  {
+    "chapter": 14,
+    "index": 329,
+    "word": "stringent",
+    "definition": "a.(\uaddc\uce59\ub4f1\uc774)\uc5c4\uc911\ud55c,\uc5c4\uaca9\ud55c"
+  },
+  { "chapter": 14, "index": 330, "word": "strict", "definition": null },
+  {
+    "chapter": 14,
+    "index": 331,
+    "word": "hostile",
+    "definition": "a.\uc801\uc758\uc788\ub294,\uc801\ub300\ud558\ub294,\uc801\uc758,\uc801\uad6d\uc758"
+  },
+  {
+    "chapter": 14,
+    "index": 332,
+    "word": "conflict",
+    "definition": "vi.\ub300\ub9bd\ud558\ub2e4,\ucda9\ub3cc\ud558\ub2e4,\uc2f8\uc6b0\ub2e4,\ub2e4\ud22c\ub2e4,;n.\uc2f8\uc6c0,\uc804\ud22c,\ucda9\ub3cc"
+  },
+  {
+    "chapter": 14,
+    "index": 333,
+    "word": "refute",
+    "definition": "vt.\ub17c\ubc15\ud558\ub2e4,\ubc18\ubc15\ud558\ub2e4"
+  },
+  { "chapter": 14, "index": 334, "word": "disprove", "definition": null },
+  { "chapter": 14, "index": 335, "word": "subject", "definition": null },
+  {
+    "chapter": 14,
+    "index": 336,
+    "word": "allege",
+    "definition": "vt.(\uc99d\uac70\uc5c6\uc774)\uc8fc\uc7a5\ud558\ub2e4,\uc6b0\uaca8\ub300\ub2e4,(\ubcc0\uba85\uc73c\ub85c)\ub0b4\uc138\uc6b0\ub2e4,(\ubc95\uc815\uc5d0\uc11c)\uc99d\uc5b8\ud558\ub2e4"
+  },
+  { "chapter": 14, "index": 337, "word": "compelling", "definition": null },
+  {
+    "chapter": 14,
+    "index": 338,
+    "word": "coherent",
+    "definition": "a,(\uc774\uc57c\uae30\ub4f1\uc774)\uc77c\uad00\uc131\uc788\ub294,\uc870\ub9ac\uac00\uc120,\uc77c\uce58\ud558\ub294,\uc54c\uae30\uc26c\uc6b4,\uc751\uc9d1\uc131\uc758"
+  },
+  {
+    "chapter": 14,
+    "index": 339,
+    "word": "congruous",
+    "definition": "a.\uc77c\uce58\ud558\ub294,\uc870\ud654\ud558\ub294,\uc801\uc808\ud55c,\uc801\ub2f9\ud55c"
+  },
+  {
+    "chapter": 14,
+    "index": 340,
+    "word": "disrupt",
+    "definition": "vt.(\uc81c\ub3c4\uad6d\uac00\ub4f1\uc744)\ubd95\uad34\uc2dc\ud0a4\ub2e4;\ubd84\uc5f4\uc2dc\ud0a4\ub2e4"
+  },
+  { "chapter": 14, "index": 341, "word": "obvious", "definition": null },
+  { "chapter": 14, "index": 342, "word": "complicated", "definition": null },
+  { "chapter": 14, "index": 343, "word": "lucid", "definition": null },
+  { "chapter": 14, "index": 344, "word": "imperceptible", "definition": null },
+  { "chapter": 14, "index": 345, "word": "prescient", "definition": null },
+  {
+    "chapter": 14,
+    "index": 346,
+    "word": "concede",
+    "definition": "vt.(\ub9c8\uc9c0\ubabb\ud574)\uc778\uc815\ud558\ub2e4,\uc2dc\uc778\ud558\ub2e4,\uc2b9\uc778\ud558\ub2e4,(\uad8c\ub9ac.\ud2b9\uad8c\ub4f1\uc744)\ubd80\uc5ec\ud558\ub2e4 vi.\uc591\ubcf4\ud558\ub2e4"
+  },
+  { "chapter": 14, "index": 347, "word": "conformity", "definition": null },
+  { "chapter": 14, "index": 348, "word": "comparison", "definition": null },
+  {
+    "chapter": 14,
+    "index": 349,
+    "word": "accept",
+    "definition": "vt(\ucd08\ub300\ub4f1)\ubc1b\uc544\ub4e4\uc774\ub2e4,\ud5c8\ub77d\ud558\ub2e4.(\uc0ac\ud0dc\ub4f1)\uc21c\uc751\ud558\ub2e4,\uac10\uc218\ud558\ub2e4,\uc778\uc815\ud558\ub2e4"
+  },
+  {
+    "chapter": 14,
+    "index": 350,
+    "word": "anticipate",
+    "definition": "vt.\uae30\ub300\ud558\ub2e4,\uace0\ub300\ud558\ub2e4,\uc598\uae30\ud558\ub2e4,\uc608\uc0c1\ud558\ub2e4;\ubbf8\ub9ac\uac71\uc815\ud558\ub2e4,\ubbf8\uc5f0\uc5d0\ubc29\uc9c0\ud558\ub2e4;\uc55e\ub2f9\uae30\ub2e4"
+  },
+  {
+    "chapter": 15,
+    "index": 351,
+    "word": "loquacious",
+    "definition": "a.\uc218\ub2e4\uc2a4\ub7ec\uc6b4,\ub9d0\uc774\ub9ce\uc740"
+  },
+  {
+    "chapter": 15,
+    "index": 352,
+    "word": "tedious",
+    "definition": "a.\uc9c0\ub8e8\ud55c,\uc9c0\uaca8\uc6b4"
+  },
+  { "chapter": 15, "index": 353, "word": "concise", "definition": null },
+  { "chapter": 15, "index": 354, "word": "diminish", "definition": null },
+  {
+    "chapter": 15,
+    "index": 355,
+    "word": "deduct",
+    "definition": "vt.\ube7c\ub2e4,\uacf5\uc81c\ud558\ub2e4,vi.(\uac00\uce58\ub4f1\uc774)\ub5a8\uc5b4\uc9c0\ub2e4"
+  },
+  {
+    "chapter": 15,
+    "index": 356,
+    "word": "periphery",
+    "definition": "n.<\uc815\uce58\uc758)\uc18c\uc218\ud30c,\uc57c\ub2f9"
+  },
+  { "chapter": 15, "index": 357, "word": "nominal", "definition": null },
+  {
+    "chapter": 15,
+    "index": 358,
+    "word": "distraction",
+    "definition": "n.\uae30\ubd84\uc804\ud658,\uc624\ub77d"
+  },
+  {
+    "chapter": 15,
+    "index": 359,
+    "word": "converge",
+    "definition": "v.\ubaa8\uc73c\ub2e4,\uc9d1\uc911\ud558\ub2e4,(\uc758\uacac.\ud589\ub3d9\ub4f1\uc774)\ud55c\ub370\ubaa8\uc544\uc9c0\ub2e4"
+  },
+  {
+    "chapter": 15,
+    "index": 360,
+    "word": "condense",
+    "definition": "vt.\uc694\uc57d\ud558\ub2e4,\uac04\ub7b5\ud558\uac8c\ud558\ub2e4,\ub18d\ucd95\ud558\ub2e4,\uc751\ucd95\ud558\ub2e4,\uc9d1\uc911\uc2dc\ud0a4\ub2e4,\ubaa8\uc73c\ub2e4,\uc904\uc5b4\ub4e4\ub2e4"
+  },
+  {
+    "chapter": 15,
+    "index": 361,
+    "word": "perfunctory",
+    "definition": "a.\ub9c8\uc9c0\ubabb\ud574\ud558\ub294,\ud615\uc2dd\uc801\uc778,\uae30\uacc4\uc801\uc778"
+  },
+  {
+    "chapter": 15,
+    "index": 362,
+    "word": "frivolous",
+    "definition": "a.\ucc9c\ubc15\ud55c,\uacbd\ubc15\ud55c,\uacbd\uc194\ud55c"
+  },
+  {
+    "chapter": 15,
+    "index": 363,
+    "word": "impetuous",
+    "definition": "a.(\uae30\uc9c8.\ud589\ub3d9\ub4f1\uc774)\uc131\uae09\ud55c,\uc5f4\ub82c\ud55c"
+  },
+  {
+    "chapter": 15,
+    "index": 364,
+    "word": "drastic",
+    "definition": "a.\uaca9\ub82c\ud55c,\ub9f9\ub82c\ud55c,\ucca0\uc800\ud55c,\uacfc\uac10\ud55c,\ub300\ud3ed\uc801\uc778,n.\uadf9\uc57d"
+  },
+  { "chapter": 15, "index": 365, "word": "impending", "definition": null },
+  {
+    "chapter": 15,
+    "index": 366,
+    "word": "fastidious",
+    "definition": "a.\uae4c\ub2e4\ub85c\uc6b4,\uac00\ub9ac\ub294,\uaf3c\uaf3c\ud55c"
+  },
+  { "chapter": 15, "index": 367, "word": "adroit", "definition": null },
+  {
+    "chapter": 15,
+    "index": 368,
+    "word": "vigilant",
+    "definition": "a.\uacbd\uacc4\ud558\uace0\uc788\ub294,\ubc29\uc2ec\ud558\uc9c0\uc54a\ub294"
+  },
+  {
+    "chapter": 15,
+    "index": 369,
+    "word": "agile",
+    "definition": "a.\ubbfc\ucca9\ud55c,\uae30\ubbfc\ud55c,\uc7ac\ube60\ub978,\uba38\ub9ac\uac00\uc88b\uc740"
+  },
+  {
+    "chapter": 15,
+    "index": 370,
+    "word": "agitate",
+    "definition": "vt.\uc120\ub3d9\ud558\ub2e4,\ub3d9\uc694\uc2dc\ud0a4\ub2e4,(\uc561\uccb4\ub97c)\ud718\uc813\ub2e4"
+  },
+  {
+    "chapter": 15,
+    "index": 371,
+    "word": "genuine",
+    "definition": "a.\uc9c4\uc9dc\uc758,\uc9c4\ud488\uc758,\uc131\uc2e4\ud55c,\uc9c4\uc2ec\uc758"
+  },
+  {
+    "chapter": 15,
+    "index": 372,
+    "word": "congenial",
+    "definition": "a.(\uac74\uac15\ub4f1\uc5d0)\uc54c\ub9de\uc740;\ucf8c\uc801\ud55c,\uae30\ubd84\uc88b\uc740,(\uc131\uc9c8.\ucde8\ubbf8\ub4f1\uc774)\uac19\uc740,\ub9c8\uc74c\uc774\ub9de\ub294"
+  },
+  {
+    "chapter": 15,
+    "index": 373,
+    "word": "benign",
+    "definition": "a.\uc0c1\ub0e5\ud55c,\uce5c\uc808\ud55c,\uc790\uc560\ub85c\uc6b4,(\uae30\ud6c4.\ud48d\ud1a0\uac00)\uc88b\uc740,\uc628\ud654\ud55c,(\ubcd1\ub4f1\uc774)\uc591\uc131\uc778"
+  },
+  { "chapter": 15, "index": 374, "word": "inherent", "definition": null },
+  {
+    "chapter": 15,
+    "index": 375,
+    "word": "extraneous",
+    "definition": "a.\ube44\ubcf8\uc9c8\uc801\uc778,(\uc8fc\uc81c\uc640)\uc9c1\uc811\uc801\uc778 \uad00\uacc4\uac00\uc5c6\ub294"
+  },
+  { "chapter": 16, "index": 376, "word": "voluntarily", "definition": null },
+  {
+    "chapter": 16,
+    "index": 377,
+    "word": "benevolent",
+    "definition": "a.\uc778\uc790\ud55c,\uc790\ube44\ub85c\uc6b4,\uc778\uc815\ub9ce\uc740,\ud638\uc758\uc758"
+  },
+  {
+    "chapter": 16,
+    "index": 378,
+    "word": "destitute",
+    "definition": "a.\ube48\uace4\ud55c,\uadf9\ube48\uc758,\uad81\ud54d\ud55c"
+  },
+  {
+    "chapter": 16,
+    "index": 379,
+    "word": "predicament",
+    "definition": "n.\uace4\uacbd,\uad81\uc9c0"
+  },
+  { "chapter": 16, "index": 380, "word": "manage", "definition": null },
+  {
+    "chapter": 16,
+    "index": 381,
+    "word": "adamant",
+    "definition": "a.\uc591\ubcf4\ud560\uc904 \ubaa8\ub974\ub294,\uace0\uc9d1\ubd88\ud1b5\uc758 , \uacac\uace0\ud55c,\ub9e4\uc6b0\ub2e8\ub2e8\ud55c n.\uacac\uace0\ud55c\uac83"
+  },
+  {
+    "chapter": 16,
+    "index": 382,
+    "word": "robust",
+    "definition": "a.(\uccb4\uaca9\uc774)\uac15\uac74\ud55c,\uac74\uc7a5\ud55c,\ud2bc\ud2bc\ud55c"
+  },
+  { "chapter": 16, "index": 383, "word": "prodigious", "definition": null },
+  {
+    "chapter": 16,
+    "index": 384,
+    "word": "considerable",
+    "definition": "a.\uc911\uc694\ud55c,\uace0\ub824\ud574\uc57c\ud560,\ubb34\uc2dc\ud558\uc9c0\ubabb\ud560,\uc801\uc9c0\uc54a\uc740,\uc0c1\ub2f9\ud55c,\uaf64\ub9ce\uc740"
+  },
+  { "chapter": 16, "index": 385, "word": "extensive", "definition": null },
+  {
+    "chapter": 16,
+    "index": 386,
+    "word": "desert",
+    "definition": "n.\uc0ac\ub9c9,\ud669\uc57c,\ubd88\ubaa8\uc9c0;a.\uc0ac\ub9c9\uac19\uc740,\ubd88\ubaa8\uc758;vt.\ubc84\ub9ac\ub2e4,\uc720\uae30\ud558\ub2e4,\uc800\ubc84\ub9ac\ub2e4"
+  },
+  {
+    "chapter": 16,
+    "index": 387,
+    "word": "evacuate",
+    "definition": "vt.(\uc7a5\uc18c\uc9d1\ub4f1)\ube44\uc6b0\ub2e4,\uba85\ub3c4\ud558\ub2e4,(\uc704\ud5d8\uc9c0\uc5ed\uc5d0\uc11c)\uc18c\uac1c\uc2dc\ud0a4\ub2e4,\ub300\ud53c\uc2dc\ud0a4\ub2e4."
+  },
+  { "chapter": 16, "index": 388, "word": "inhabitant", "definition": null },
+  {
+    "chapter": 16,
+    "index": 389,
+    "word": "inhibition",
+    "definition": "n.\uae08\uc9c0,\uae08\uc81c,\uc5b5\uc81c,\uc5b5\uc555"
+  },
+  { "chapter": 16, "index": 390, "word": "facilitate", "definition": null },
+  {
+    "chapter": 16,
+    "index": 391,
+    "word": "expediency",
+    "definition": "n.\ud3b8\ubc95,\ud3b8\uc758\uc8fc\uc758"
+  },
+  { "chapter": 16, "index": 392, "word": "isolate", "definition": null },
+  { "chapter": 16, "index": 393, "word": "proximity", "definition": null },
+  {
+    "chapter": 16,
+    "index": 394,
+    "word": "contagious",
+    "definition": "a.(\uc811\ucd09)\uc804\uc5fc\uc131\uc758;\uc804\uc5fc \ub3c5\uc774\uc788\ub294,\uc62e\uae30\uc26c\uc6b4,\ubcf4\uade0\uc790\uc758"
+  },
+  { "chapter": 16, "index": 395, "word": "foundation", "definition": null },
+  {
+    "chapter": 16,
+    "index": 396,
+    "word": "resentment",
+    "definition": "n.\ubd84\uac1c,\ubd84\ub178"
+  },
+  {
+    "chapter": 16,
+    "index": 397,
+    "word": "gloomy",
+    "definition": "a.\uc6b0\uc6b8\ud55c,\uce68\uc6b8\ud55c,\uc6b8\uc801\ud55c,\uc5b4\ub450\uc6b4,\uc74c\uce68\ud55c,\uc74c\uc6b8\ud55c,(\uc131\ud669.\uc804\ub9dd\ub4f1)\ube44\uad00\uc801\uc778,\uc554\ub2f4\ud55c"
+  },
+  {
+    "chapter": 16,
+    "index": 398,
+    "word": "ominous",
+    "definition": "a.\ubd88\uae38\ud55c,\ub098\uc05c\uc9d5\uc870\uc758,\uae30\ubd84\ub098\uc05c"
+  },
+  {
+    "chapter": 16,
+    "index": 399,
+    "word": "eccentric",
+    "definition": "a.(\uc0ac\ub78c\ud589\ub3d9\ub4f1\uc774)\ubcc4\ub09c,\uc0c1\uada4\ub97c\ubc97\uc5b4\ub09c;n.\uae30\uc778,\uad34\uc9dc,\ubcc4\ub09c\uac83"
+  },
+  { "chapter": 16, "index": 400, "word": "distort", "definition": null },
+  {
+    "chapter": 17,
+    "index": 401,
+    "word": "disperse",
+    "definition": "vt.\ud769\ub728\ub9ac\ub2e4,\ud37c\ub728\ub9ac\ub2e4,\uc804\ud30c\uc2dc\ud0a4\ub2e4"
+  },
+  { "chapter": 17, "index": 402, "word": "permeate", "definition": null },
+  {
+    "chapter": 17,
+    "index": 403,
+    "word": "inundate",
+    "definition": "vt.(\uc8fc\ub85c\uc218\ub3d9\ud615)\ubc94\ub78c\uc2dc\ud0a4\ub2e4,\ubb3c\uc5d0\uc7a0\uae30\uac8c\ud558\ub2e4"
+  },
+  {
+    "chapter": 17,
+    "index": 404,
+    "word": "vanish",
+    "definition": "vi.(\uac11\uc790\uae30)\uc0ac\ub77c\uc9c0\ub2e4,\uc5c6\uc5b4\uc9c0\ub2e4,\ud76c\ubbf8\ud574\uc9c0\ub2e4"
+  },
+  { "chapter": 17, "index": 405, "word": "recede", "definition": null },
+  {
+    "chapter": 17,
+    "index": 406,
+    "word": "induce",
+    "definition": "vt.\uad8c\uc720\ud558\ub2e4,\uc124\ub4dd\ud558\uc5ec~\uc2dc\ud0a4\ub2e4,\uc77c\uc73c\ud0a4\ub2e4,\uc57c\uae30\ud558\ub2e4,\uc720\ubc1c\ud558\ub2e4"
+  },
+  {
+    "chapter": 17,
+    "index": 407,
+    "word": "abolish",
+    "definition": "vt.(\ubc95\ub960,\uc81c\ub3c4\ub4f1\uc744)\ud3d0\uc9c0\ud558\ub2e4"
+  },
+  {
+    "chapter": 17,
+    "index": 408,
+    "word": "supplant",
+    "definition": "vt.(\ubb3c\uac74\uc744)\ub300\uccb4\ud558\ub2e4,(\uc0ac\ubb3c\uc5d0)\ub300\uc2e0\ud558\ub2e4"
+  },
+  { "chapter": 17, "index": 409, "word": "resume", "definition": null },
+  { "chapter": 17, "index": 410, "word": "resilience/cy", "definition": null },
+  { "chapter": 17, "index": 411, "word": "constant", "definition": null },
+  { "chapter": 17, "index": 412, "word": "fortuitous", "definition": null },
+  {
+    "chapter": 17,
+    "index": 413,
+    "word": "autonomous",
+    "definition": "a.\uc790\uce58\uad8c\uc774 \uc788\ub294,\uc790\uce58\uc758,\uc790\uc728\uc758"
+  },
+  {
+    "chapter": 17,
+    "index": 414,
+    "word": "intermittent",
+    "definition": "a.\uac04\ud5d0\uc801\uc778,\ub54c\ub54c\ub85c\uc758,\ub2e8\uc18d\uc801\uc778"
+  },
+  {
+    "chapter": 17,
+    "index": 415,
+    "word": "staggering",
+    "definition": "a.\ud63c\ube44\ubc31\uc0b0\ucf00\ud558\ub294,\uc555\ub3c4[\uacbd\uc774]\uc801\uc778"
+  },
+  { "chapter": 17, "index": 416, "word": "cover", "definition": null },
+  {
+    "chapter": 17,
+    "index": 417,
+    "word": "circumvent",
+    "definition": "vt.(\uad50\ubb18\ud558\uac8c)\ud68c\ud53c\ud558\ub2e4,\ub0a8\uc744\uc18d\uc5ec\ub118\uae30\ub2e4,\uae30\ub9cc\ud558\ub2e4,~\uc744\ub3cc\ub2e4,~\uc744\uc6b0\ud68c\ud558\ub2e4"
+  },
+  {
+    "chapter": 17,
+    "index": 418,
+    "word": "refrain",
+    "definition": "vt.\uadf8\ub9cc\ub450\ub2e4,\uc0bc\uac00\ub2e4,\uc790\uc81c\ud558\ub2e4"
+  },
+  {
+    "chapter": 17,
+    "index": 419,
+    "word": "menace",
+    "definition": "v.\uc704\ud611\ud558\ub2e4,\ud611\ubc15\ud558\ub2e4,\uac81\uc8fc\ub2e4;n.\ud611\ubc15,\uc704\ud611,\uacf5\uac08"
+  },
+  {
+    "chapter": 17,
+    "index": 420,
+    "word": "impact",
+    "definition": "n.\uc601\ud5a5(\ub825),\uac10\ud654,\ud6a8\uacfc"
+  },
+  { "chapter": 17, "index": 421, "word": "punctuality", "definition": null },
+  { "chapter": 17, "index": 422, "word": "epitome", "definition": null },
+  { "chapter": 17, "index": 423, "word": "applaud", "definition": null },
+  { "chapter": 17, "index": 424, "word": "equal", "definition": null },
+  { "chapter": 17, "index": 425, "word": "similar", "definition": null },
+  { "chapter": 18, "index": 426, "word": "illiterate", "definition": null },
+  {
+    "chapter": 18,
+    "index": 427,
+    "word": "retrospect",
+    "definition": "vt.\ud68c\uace0[\ud68c\uc0c1]\ud558\ub2e4,\ucd94\uc5b5\uc5d0\uc7a0\uae30\ub2e4"
+  },
+  {
+    "chapter": 18,
+    "index": 428,
+    "word": "compound",
+    "definition": "a.\ud63c\ud569\uc758,\ud569\uc131\uc758,\ubcf5\uc7a1\ud55c;n.\ud63c\ud569\ubb3c,\ud569\uc131\ubb3c,vt.\ub4a4\uc11e\ub2e4,\ud63c\ud569\ud558\ub2e4,\ud0c0\ud611\uc9d3\ub2e4"
+  },
+  { "chapter": 18, "index": 429, "word": "reciprocal", "definition": null },
+  { "chapter": 18, "index": 430, "word": "mutual", "definition": null },
+  { "chapter": 18, "index": 431, "word": "perishable", "definition": null },
+  {
+    "chapter": 18,
+    "index": 432,
+    "word": "prevail",
+    "definition": "vi.\uc720\ud589\ud558\ub2e4,\ubcf4\uae09\ub418\ub2e4,\ub110\ub9ac\ud37c\uc9c0\ub2e4,\uc6b0\uc138\ud558\ub2e4,\uc555\ub3c4\ud558\ub2e4,\uc774\uae30\ub2e4"
+  },
+  { "chapter": 18, "index": 433, "word": "profitable", "definition": null },
+  {
+    "chapter": 18,
+    "index": 434,
+    "word": "lavish",
+    "definition": "a.\ub0ad\ube44\ubcbd\uc774\uc788\ub294,\uc0ac\uce58\uc2a4\ub7ec\uc6b4,\ubb34\uc808\uc81c\ud55c,\uc544\ub07c\uc9c0\uc54a\uc740,\ud6c4\ud658,\ud48d\ubd80\ud55c,\ub109\ub109\ud55c"
+  },
+  { "chapter": 18, "index": 435, "word": "stingy", "definition": null },
+  {
+    "chapter": 18,
+    "index": 436,
+    "word": "augment",
+    "definition": "v.\uc99d\uac00\uc2dc\ud0a4\ub2e4;\uc99d\uac00\ud558\ub2e4"
+  },
+  {
+    "chapter": 18,
+    "index": 437,
+    "word": "opulent",
+    "definition": "a.\ubd80\uc720\ud55c,\ud48d\ubd80\ud55c,\ubb34\uc131\ud55c"
+  },
+  {
+    "chapter": 18,
+    "index": 438,
+    "word": "copious",
+    "definition": "a.\ud48d\ubd80\ud55c,\ub9c9\ub300\ud55c,\ub0b4\uc6a9\uc774\ud48d\ubd80\ud55c"
+  },
+  {
+    "chapter": 18,
+    "index": 439,
+    "word": "distribute",
+    "definition": "vt.\ubd84\ubc30\ud558\ub2e4,\ubc30\ub2f9\ud558\ub2e4,\ubc30\ud3ec\ud558\ub2e4"
+  },
+  {
+    "chapter": 18,
+    "index": 440,
+    "word": "deplete",
+    "definition": "vt.\ub2e4\uc368\ubc84\ub9ac\ub2e4,\uace0\uac08[\uc18c\ubaa8]\uc2dc\ud0a4\ub2e4"
+  },
+  { "chapter": 18, "index": 441, "word": "despicable", "definition": null },
+  {
+    "chapter": 18,
+    "index": 442,
+    "word": "humiliate",
+    "definition": "vt.\uad74\uc695\uac10\uc744 \ub290\ub07c\uac8c\ud558\ub2e4,\ucc3d\ud53c\ub97c\uc8fc\ub2e4"
+  },
+  { "chapter": 18, "index": 443, "word": "mortify", "definition": null },
+  {
+    "chapter": 18,
+    "index": 444,
+    "word": "stigma",
+    "definition": "n.\uce58\uc695,\uc624\uba85,\uc624\uc810"
+  },
+  {
+    "chapter": 18,
+    "index": 445,
+    "word": "acclaim",
+    "definition": "vt.\uac08\ucc44\ud558\ub2e4,\ud658\ud638\ud558\ub2e4,\ucc2c\uc591\ud558\ub2e4;\ud070\uc18c\ub9ac\ub85c\ub9d0\ud558\ub2e4,\uc678\uce58\ub2e4"
+  },
+  {
+    "chapter": 18,
+    "index": 446,
+    "word": "acute",
+    "definition": "a.(\ub05d\uc774)\ubfb0\uc871\ud55c,\uc608\ub9ac\ud55c,(\uac10\uac01\uc774)\uc608\ubbfc\ud55c,(\ud1b5\uc99d.\uac10\uc815\uc774)\uaca9\ub82c\ud55c,\uac15\ub82c\ud55c"
+  },
+  {
+    "chapter": 18,
+    "index": 447,
+    "word": "shrewd",
+    "definition": "a.\uc601\ub9ac\ud55c,\ub0a0\uce74\ub85c\uc6b4,\ube48\ud2c8\uc5c6\ub294,\uc7ac\ube60\ub978"
+  },
+  { "chapter": 18, "index": 448, "word": "favorable", "definition": null },
+  {
+    "chapter": 18,
+    "index": 449,
+    "word": "adverse",
+    "definition": "a.\ubc18\ub300\ud558\ub294,\uc801\uc758\ub97c \ud488\uc740,\ubc18\ub300\uc778,\ubc18\ub300\ucabd\uc758,\ubd88\ub9ac\ud55c,\ubd88\uc6b4\ud55c"
+  },
+  { "chapter": 18, "index": 450, "word": "ruthless", "definition": null },
+  { "chapter": 19, "index": 451, "word": "appalling", "definition": null },
+  { "chapter": 19, "index": 452, "word": "abhor", "definition": null },
+  {
+    "chapter": 19,
+    "index": 453,
+    "word": "prowess",
+    "definition": "n.\ud6cc\ub96d\ud55c\uc19c\uc528,\uc6a9\uac10,\uc6a9\ub9f9,\uc6a9\uac10\ud55c\ud589\uc704"
+  },
+  { "chapter": 19, "index": 454, "word": "undaunted", "definition": null },
+  {
+    "chapter": 19,
+    "index": 455,
+    "word": "imperative",
+    "definition": "a.\ud53c\ud560\uc218\uc5c6\ub294,\ud544\uc218\uc801\uc778,\uae34\uae09\ud55c"
+  },
+  {
+    "chapter": 19,
+    "index": 456,
+    "word": "impregnable",
+    "definition": "a.\ub09c\uacf5\ubd88\ub77d\uc758,\ucca0\ubcbd\uc758"
+  },
+  { "chapter": 19, "index": 457, "word": "overwhelming", "definition": null },
+  { "chapter": 19, "index": 458, "word": "tenable", "definition": null },
+  {
+    "chapter": 19,
+    "index": 459,
+    "word": "dismal",
+    "definition": "a.\uc74c\uce68\ud55c(\uae30\ubd84\ub4f1\uc774)\uc6b0\uc6b8\ud55c"
+  },
+  { "chapter": 19, "index": 460, "word": "alert", "definition": null },
+  {
+    "chapter": 19,
+    "index": 461,
+    "word": "rampant",
+    "definition": "a.(\uc2dd\ubb3c\uc774)\ub9c9\uc5f0\ud558\ub294,\ubb34\uc131\ud55c,\uc6b0\uac70\uc9c4,(\ubcd1.\uc18c\ubb38\ub4f1\uc774)\uc720\ud589\ud558\ub294,\ub9c8\uad6c\ud37c\uc9c0\ub294"
+  },
+  { "chapter": 19, "index": 462, "word": "intractable", "definition": null },
+  {
+    "chapter": 19,
+    "index": 463,
+    "word": "belligerent",
+    "definition": "a.\ud638\uc804\uc801\uc778,\uad50\uc804\uc911\uc778;\uad50\uc804\uad6d\uc758,\uc801\uad6d\uc758,\uc6a9\uac10\ud55cn.\uad50\uc804\uad6d,\uc804\ud22c\uc6d0"
+  },
+  {
+    "chapter": 19,
+    "index": 464,
+    "word": "strenuous",
+    "definition": "a.\ubd84\ud22c\uc801\uc778,\ubd88\uad74\uc758,\uad7d\ud788\uc9c0\uc54a\ub294"
+  },
+  { "chapter": 19, "index": 465, "word": "hazardous", "definition": null },
+  {
+    "chapter": 19,
+    "index": 466,
+    "word": "colossal",
+    "definition": "a.\uac70\ub300\ud55c,(\uc218\ub7c9\ub4f1\uc774)\uc5c4\uccad\ub09c,<\uad6c\uc5b4>\ub180\ub77c\uc6b4,\uc5b4\ub9c8\uc5b4\ub9c8\ud55c"
+  },
+  { "chapter": 19, "index": 467, "word": "impulsive", "definition": null },
+  {
+    "chapter": 19,
+    "index": 468,
+    "word": "exuberant",
+    "definition": "a.(\ud65c\ub825.\uae30\uc068\ub4f1\uc774)\ub118\uccd0\ud750\ub974\ub294,\ucda9\ub9cc\ud55c"
+  },
+  {
+    "chapter": 19,
+    "index": 469,
+    "word": "sanguine",
+    "definition": "a.\ubd89\uc740,\ubd89\uc740\ud54f\ube5b\uc758,\ud608\uc0c9\uc774\uc88b\uc740,\uba85\ub791\ud55c,\ub099\ucc9c\uc801\uc778"
+  },
+  { "chapter": 19, "index": 470, "word": "exhilarating", "definition": null },
+  { "chapter": 19, "index": 471, "word": "nonchalant", "definition": null },
+  {
+    "chapter": 19,
+    "index": 472,
+    "word": "skeptical",
+    "definition": "a.\uc758\uc2ec\ub9ce\uc740,\ud68c\uc758\uc801\uc778"
+  },
+  {
+    "chapter": 19,
+    "index": 473,
+    "word": "lethargic",
+    "definition": "a.\ubb34\uae30\ub825\ud55c,\ud65c\ubc1c\ud558\uc9c0\ubabb\ud55c,\ud63c\uc218\uc758"
+  },
+  {
+    "chapter": 19,
+    "index": 474,
+    "word": "sluggish",
+    "definition": "a.\ub290\ub9b0,\uc644\ub9cc\ud55c"
+  },
+  {
+    "chapter": 19,
+    "index": 475,
+    "word": "indolent",
+    "definition": "a.\uac8c\uc73c\ub978,\ubb34\ud65c\ub3d9\uc758;n.\uac8c\uc73c\ub978\uc0ac\ub78c"
+  },
+  {
+    "chapter": 20,
+    "index": 476,
+    "word": "acquire",
+    "definition": "v.\ucde8\ub4dd\ud558\ub2e4,\uc2b5\ub4dd\ud558\ub2e4,\ubc30\uc6b0\ub2e4,\ubab8\uc5d0\uc775\ud788\ub2e4"
+  },
+  { "chapter": 20, "index": 477, "word": "secure", "definition": null },
+  {
+    "chapter": 20,
+    "index": 478,
+    "word": "secular",
+    "definition": "a.\uc774\uc2b9\uc758,\uc18d\uc138\uc758,\ud604\uc138\uc758,\ube44\uc885\uad50\uc801\uc778"
+  },
+  { "chapter": 20, "index": 479, "word": "peculiar", "definition": null },
+  {
+    "chapter": 20,
+    "index": 480,
+    "word": "retain",
+    "definition": "vt.\ubcf4\uc720\ud558\ub2e4,\uc720\uc9c0\ud558\ub2e4,\ub9c8\uc74c\uc5d0\uac04\uc9c1\ud558\ub2e4,\uc78a\uc9c0\uc54a\ub2e4"
+  },
+  { "chapter": 20, "index": 481, "word": "prohibit", "definition": null },
+  {
+    "chapter": 20,
+    "index": 482,
+    "word": "contract",
+    "definition": "vi.\uc218\ucd95\ud558\ub2e4,\ucd95\uc18c\ub418\ub2e4;vt.(~\uc640)\uacc4\uc57d(\uc57d\uc815)\ud558\ub2e4,(\ubcd1)\uc5d0\uac78\ub9ac\ub2e4;\uc2b5\uad00\uc774\ubd99\ub2e4;n.\uacc4\uc57d "
+  },
+  { "chapter": 20, "index": 483, "word": "illegible", "definition": null },
+  {
+    "chapter": 20,
+    "index": 484,
+    "word": "compensate",
+    "definition": "vt.\ubcf4\uc0c1\ud558\ub2e4,\ubc30\uc0c1\ud558\ub2e4,(\uacb0\uc810\ub4f1\uc744)\ubcf4\uc644\ud558\ub2e4,\uc0c1\uc1c4\ud558\ub2e4"
+  },
+  {
+    "chapter": 20,
+    "index": 485,
+    "word": "afford",
+    "definition": "v.\uc8fc\ub2e4,\uc81c\uacf5\ud558\ub2e4.~\ud560 \uc5ec\uc720\uac00\uc788\ub2e4"
+  },
+  {
+    "chapter": 20,
+    "index": 486,
+    "word": "trigger",
+    "definition": "vt.(\uc77c\uc744)\uc2dc\uc791\ud558\uac8c\ud558\ub2e4,\uc720\ubc1c\ud558\ub2e4"
+  },
+  { "chapter": 20, "index": 487, "word": "corollary", "definition": null },
+  { "chapter": 20, "index": 488, "word": "consequential", "definition": null },
+  {
+    "chapter": 20,
+    "index": 489,
+    "word": "subsequent",
+    "definition": "a.\ub2e4\uc74c\uc758,\uadf8\ud6c4\uc758,\ubc84\uae08\uac00\ub294"
+  },
+  { "chapter": 20, "index": 490, "word": "derivative", "definition": null },
+  {
+    "chapter": 20,
+    "index": 491,
+    "word": "evade",
+    "definition": "vt.(\uad50\ubb18\ud558\uac8c)\ud53c\ud558\ub2e4,\uba74\ud558\ub2e4,\ubaa8\uba74\ud558\ub2e4"
+  },
+  { "chapter": 20, "index": 492, "word": "eschew", "definition": null },
+  { "chapter": 20, "index": 493, "word": "postpone", "definition": null },
+  {
+    "chapter": 20,
+    "index": 494,
+    "word": "presume",
+    "definition": "vt.\uac00\uc815\ud558\ub2e4,\uc0c1\uc0c1\ud558\ub2e4,~\uc774\ub77c\uace0 \uc5ec\uae30\ub2e4"
+  },
+  {
+    "chapter": 20,
+    "index": 495,
+    "word": "impute",
+    "definition": "vt.(\uc8c4\uc6d0\uc778\ub4f1\uc744)~\uc758\ud0d3\uc73c\ub85c\ud558\ub2e4,\uc804\uac00\ud558\ub2e4,(\uc131\uc9c8,\uc18d\uc131\ub4f1\uc744)~\uc5d0\uac8c\uc788\ub2e4\uace0 \uc0dd\uac01\ud558\ub2e4"
+  },
+  {
+    "chapter": 20,
+    "index": 496,
+    "word": "tamper",
+    "definition": "vi.\uc4f8\ub370\uc5c6\ub294\ucc38\uacac\uc744\ud558\ub2e4,\uac04\uc12d\ud558\ub2e4,(\uc6d0\ubb38\uc758\uae00\uadc0\ub4f1\uc744)\ud568\ubd80\ub85c\ubcc0\uacbd\ud558\ub2e4,\ub1cc\ubb3c\uc744\uc8fc\ub2e4"
+  },
+  { "chapter": 20, "index": 497, "word": "convert", "definition": null },
+  {
+    "chapter": 20,
+    "index": 498,
+    "word": "interrupt",
+    "definition": "vt.\uc911\ub2e8\uc2dc\ud0a4\ub2e4,\ubc29\ud574\ud558\ub2e4,\uac00\ub85c\ub9c9\ub2e4,\uc800\uc9c0\ud558\ub2e4"
+  },
+  {
+    "chapter": 20,
+    "index": 499,
+    "word": "encroach",
+    "definition": "vt.(\ub0a8\uc758\ub098\ub77c.\ub545\uc744)\uce68\ub7b5\ud558\ub2e4,(\ub0a8\uc758\uad8c\ub9ac\ub4f1)\uce68\ud574\ud558\ub2e4"
+  },
+  { "chapter": 20, "index": 500, "word": "impose", "definition": null },
+  {
+    "chapter": 21,
+    "index": 501,
+    "word": "intact",
+    "definition": "a.\uc190\ub300\uc9c0\uc54a\uc740,\uc190\uc0c1\ub418\uc790\uc54a\uc740,\uc644\uc804\ud55c"
+  },
+  {
+    "chapter": 21,
+    "index": 502,
+    "word": "spot",
+    "definition": "n.\uc5bc\ub8e9\uc810,\ubc18\uc810,(\ud53c\ubd80\uc758)\uc810;v.<\uad6c\uc5b4>\ubc1c\uacac\ud558\ub2e4,\ubd88\ubcc0[\ubd84\uac04]\ud558\ub2e4"
+  },
+  {
+    "chapter": 21,
+    "index": 503,
+    "word": "tarnish",
+    "definition": "vi.(\uad11\ud0dd\ub4f1)\ud750\ub824\uc9c0\ub2e4,\ub354\ub7ec\uc6cc\uc9c0\ub2e4,vt.\ud750\ub9ac\uac8c\ud558\ub2e4,\ub179\uc2ac\uac8c\ud558\ub2e4,\ubcc0\uc0c9\uc2dc\ud0a4\ub2e4,\ub354\ub7fd\ud788\ub2e4"
+  },
+  { "chapter": 21, "index": 504, "word": "immaculate", "definition": null },
+  {
+    "chapter": 21,
+    "index": 505,
+    "word": "squalid",
+    "definition": "a.\ub354\ub7ec\uc6b4,\ubd88\uacb0\ud55c,\uad81\uc0c1\uc2a4\ub7ec\uc6b4"
+  },
+  {
+    "chapter": 21,
+    "index": 506,
+    "word": "recurring",
+    "definition": "a.\ub418\ud480\uc774\ud574\uc11c\uc77c\uc5b4\ub098\ub294,\ud76c\uadc0\ud558\ub294"
+  },
+  { "chapter": 21, "index": 507, "word": "sporadic(al)", "definition": null },
+  {
+    "chapter": 21,
+    "index": 508,
+    "word": "endemic",
+    "definition": "a.(\ub3d9.\uc2dd\ubb3c\uc774)\uadf8\uc9c0\ubc29\ud2b9\uc0b0\uc758,\ud48d\ud1a0\uc131\uc758;n.\uc9c0\ubc29\ubcd1,\ud48d\ud1a0\ubcd1;(\uc0dd\ubb3c)\uace0\uc720\uc99d"
+  },
+  { "chapter": 21, "index": 509, "word": "malicious", "definition": null },
+  { "chapter": 21, "index": 510, "word": "remedy", "definition": null },
+  { "chapter": 21, "index": 511, "word": "palpable", "definition": null },
+  {
+    "chapter": 21,
+    "index": 512,
+    "word": "manifest",
+    "definition": "vt.\uba85\ubc31\ud788\ud558\ub2e4,\ubd84\uba85\ud558\uac8c\ubcf4\uc5ec\uc8fc\ub2e4"
+  },
+  {
+    "chapter": 21,
+    "index": 513,
+    "word": "explicit",
+    "definition": "a.\uba85\ubc31\ud55c,\ubd84\uba85\ud55c"
+  },
+  {
+    "chapter": 21,
+    "index": 514,
+    "word": "utter",
+    "definition": "v.\uc785\ubc16\uc5d0\ub0b4\ub2e4,\ub204\uc124\ud558\ub2e4,\ub9d0\ud558\ub2e4"
+  },
+  {
+    "chapter": 21,
+    "index": 515,
+    "word": "luminous",
+    "definition": "a.\ube5b\ub098\ub294,\ubc88\uca4d\uc774\ub294,\uc774\ud574\ud558\uae30\uc26c\uc6b4,\uba85\ucf8c\ud55c"
+  },
+  {
+    "chapter": 21,
+    "index": 516,
+    "word": "surreptitious",
+    "definition": "a.\ube44\ubc00\uc758,\ubab0\ub798\ud558\ub294,\uc740\ubc00\ud55c,\ubb34\ud5c8\uac00\uc758,\uac00\uc9dc\uc758"
+  },
+  {
+    "chapter": 21,
+    "index": 517,
+    "word": "cryptic",
+    "definition": "a.\uc218\uc218\uaed8\ub07c \uac19\uc740,\uc2e0\ube44\uc2a4\ub7ec\uc6b4,\uc228\uc740\ube44\ubc00\uc758,\uc774\uc720\ub97c \uc54c\uc218\uc5c6\ub294"
+  },
+  { "chapter": 21, "index": 518, "word": "unconscious", "definition": null },
+  { "chapter": 21, "index": 519, "word": "hypocrite", "definition": null },
+  { "chapter": 21, "index": 520, "word": "unwilling", "definition": null },
+  {
+    "chapter": 21,
+    "index": 521,
+    "word": "minute",
+    "definition": "a.\ubbf8\uc18c\ud55c,\ubbf8\uc138\ud55c,\uc0c1\uc138\ud55c,\uc815\ubc00\ud55c"
+  },
+  { "chapter": 21, "index": 522, "word": "meager", "definition": null },
+  { "chapter": 21, "index": 523, "word": "immediate", "definition": null },
+  {
+    "chapter": 21,
+    "index": 524,
+    "word": "abruptly",
+    "definition": "Ad.\uac11\uc790\uae30,\ubd88\uc2dc\uc5d0;\ub73b\ubc15\uc5d0,\uae09\uaca9\ud558\uac8c"
+  },
+  {
+    "chapter": 21,
+    "index": 525,
+    "word": "succinct",
+    "definition": "a.(\ub9d0\ub4f1\uc774)\uac04\uacb0\ud55c,\uac04\uba85\ud55c"
+  },
+  { "chapter": 22, "index": 526, "word": "misdemeanor", "definition": null },
+  {
+    "chapter": 22,
+    "index": 527,
+    "word": "plagiarism",
+    "definition": "n.\ud45c\uc808,\ub3c4\uc6a9,\ud45c\uc808\ud589\uc704,\ud45c\uc808\ubb3c"
+  },
+  {
+    "chapter": 22,
+    "index": 528,
+    "word": "addict",
+    "definition": "v.\uc911\ub3c5\ub514\ub2e4,\ud0d0\ub2c9\ud558\ub2e4 n.(\ub9c8\uc57d\ub4f1\uc758)\uc911\ub3d9\uc790,\ud0d0\ub2c9\uc790"
+  },
+  { "chapter": 22, "index": 529, "word": "abortion", "definition": null },
+  { "chapter": 22, "index": 530, "word": "infamous", "definition": null },
+  {
+    "chapter": 22,
+    "index": 531,
+    "word": "arrogant",
+    "definition": "a.\uac70\ub9cc\ud55c,\uc624\ub9cc\ud55c,\uc820\uccb4\ud558\ub294;\uac74\ubc29\uc9c4"
+  },
+  {
+    "chapter": 22,
+    "index": 532,
+    "word": "inordinate",
+    "definition": "a.\uc9c0\ub098\uce5c,\uacfc\ub3c4\ud55c;\ubb34\uc808\uc81c\ud55c"
+  },
+  { "chapter": 22, "index": 533, "word": "exorbitant", "definition": null },
+  {
+    "chapter": 22,
+    "index": 534,
+    "word": "aberrant",
+    "definition": "a.\uc815\ub3c4\ub97c\ubc97\uc5b4\ub09c,\ud0c8\uc120\uc801\uc778,\uc774\uc0c1\ud55c\ud615\ud0dc\uc758,\ubcc0\uc885\uc758,n.\ub3cc\uc5f0\ubcc0\uc774,\uad34\uc9dc,\uae30\uc778,\ubcc0\uc885"
+  },
+  { "chapter": 22, "index": 535, "word": "idiosyncratic", "definition": null },
+  { "chapter": 22, "index": 536, "word": "protruding", "definition": null },
+  {
+    "chapter": 22,
+    "index": 537,
+    "word": "eminent",
+    "definition": "a.\uc800\uba85\ud55c,\ud6cc\ub96d\ud55c;(\uc9c0\uc704.\uc2e0\ubd84\uc774)\ub192\uc740"
+  },
+  { "chapter": 22, "index": 538, "word": "prominent", "definition": null },
+  { "chapter": 22, "index": 539, "word": "cerebrity", "definition": null },
+  {
+    "chapter": 22,
+    "index": 540,
+    "word": "caliber",
+    "definition": "n.(\uc0ac\ub78c\uc758)\uc7ac\ub2a5;\ub3c4\ub7c9,\uc778\ud488,(\uc0ac\ubb3c\uc758)\ud488\uc9c8,\ub4f1\uae09,\uc9c1\uacbd;(\ucd1d\ud3ec\uc758)\uad6c\uacbd"
+  },
+  {
+    "chapter": 22,
+    "index": 541,
+    "word": "prior",
+    "definition": "a.(\uc2dc\uac04.\uc21c\uc11c\uac00)\uc774\uc804\uc758,\uc55e\uc758"
+  },
+  {
+    "chapter": 22,
+    "index": 542,
+    "word": "posthumous",
+    "definition": "a.\uc0ac\ud6c4\uc758,\uc0ac\ud6c4\uc5d0\uc0dd\uae34"
+  },
+  {
+    "chapter": 22,
+    "index": 543,
+    "word": "descendant",
+    "definition": "n.\uc790\uc190,\ud6c4\uc608"
+  },
+  { "chapter": 22, "index": 544, "word": "vestige", "definition": null },
+  { "chapter": 22, "index": 545, "word": "substitute", "definition": null },
+  {
+    "chapter": 22,
+    "index": 546,
+    "word": "classification",
+    "definition": "n.\ubd84\ub958(\ubc95),\ubc94\uc8fc,\uc720\ud615"
+  },
+  { "chapter": 22, "index": 547, "word": "embody", "definition": null },
+  { "chapter": 22, "index": 548, "word": "subsidiary", "definition": null },
+  { "chapter": 22, "index": 549, "word": "equitable", "definition": null },
+  { "chapter": 22, "index": 550, "word": "counterpart", "definition": null },
+  { "chapter": 23, "index": 551, "word": "propensity", "definition": null },
+  { "chapter": 23, "index": 552, "word": "prefer", "definition": null },
+  { "chapter": 23, "index": 553, "word": "familiarize", "definition": null },
+  { "chapter": 23, "index": 554, "word": "tolerate", "definition": null },
+  {
+    "chapter": 23,
+    "index": 555,
+    "word": "impatient",
+    "definition": "a.\uc131\uae09\ud55c,\ucc38\uc744\uc131\uc5c6\ub294,\uc870\ubc14\uc2ec\ud558\ub294,\ubab9\uc2dc~\ud558\uace0\uc2f6\uc5b4\ud558\ub294"
+  },
+  {
+    "chapter": 23,
+    "index": 556,
+    "word": "carnivorous",
+    "definition": "a.\uc721\uc2dd\uc131\uc758,\uc721\uc2dd\ub3d9\ubb3c\uc758"
+  },
+  {
+    "chapter": 23,
+    "index": 557,
+    "word": "concoct",
+    "definition": "vt.(\uc74c\ubaa8\ub4f1\uc744)\uafb8\ubbf8\ub2e4,\uaf80\ud558\ub2e4,(\uc774\uc57c\uae30\ub4f1\uc744)\uafb8\uba70\ub0b4\ub2e4,\ub0a0\uc870\ud558\ub2e4"
+  },
+  { "chapter": 23, "index": 558, "word": "synthesis", "definition": null },
+  {
+    "chapter": 23,
+    "index": 559,
+    "word": "complex",
+    "definition": "a.\ubcf5\ud569\uc758,\ubcf5\uc7a1\ud55c,\ub4a4\uc5bd\ud78c n.\ubcf5\ud569\uccb4,\ud569\uc131\ubb3c,\ubcf5\ud569\ube4c\ub529,\ucf64\ud50c\ub809\uc2a4,\uac15\ubc15\uad00\ub150"
+  },
+  {
+    "chapter": 23,
+    "index": 560,
+    "word": "adulterate",
+    "definition": "vt.\ubd88\uc21c\ud558\uac8c\ud558\ub2e4,\ud0c0\ub77d\uc2dc\ud0a4\ub2e4,\ud488\uc9c8\uc744\ub5a8\uc5b4\ub728\ub9ac\ub2e4,a.\uc9c4\uc9dc\uac00\uc544\ub2cc,\ubd88\uc21c\ubb3c\uc744\uc11e\uc740"
+  },
+  {
+    "chapter": 23,
+    "index": 561,
+    "word": "sojourn",
+    "definition": "vi.\ubb36\ub2e4,\uccb4\ub958\ud558\ub2e4,\uc77c\uc2dc \uccb4\uc7ac\ud558\ub2e4"
+  },
+  {
+    "chapter": 23,
+    "index": 562,
+    "word": "detain",
+    "definition": "vt.(\uc0ac\ub78c\uc744)\uae30\ub2e4\ub9ac\uac8c\ud558\ub2e4,\ubd99\ub4e4\uc5b4\ub450\ub2e4"
+  },
+  { "chapter": 23, "index": 563, "word": "roam", "definition": null },
+  { "chapter": 23, "index": 564, "word": "migrate", "definition": null },
+  { "chapter": 23, "index": 565, "word": "accommodate", "definition": null },
+  {
+    "chapter": 23,
+    "index": 566,
+    "word": "ecology",
+    "definition": "n.\uc0dd\ud0dc\ud559,\uc778\uac04\uc0dd\ud0dc\ud559"
+  },
+  {
+    "chapter": 23,
+    "index": 567,
+    "word": "arid",
+    "definition": "a.\ub9c8\ub978,\uc2b5\uae30\uac00\uc5c6\ub294,\ubd88\ubaa8\uc758,(\uc0ac\uc0c1\ub4f1\uc774)\ubb34\ubbf8\uac74\uc870\ud55c,\uc7ac\ubbf8\uc5c6\ub294"
+  },
+  {
+    "chapter": 23,
+    "index": 568,
+    "word": "desolate",
+    "definition": "a.\ud669\ub7c9\ud55c,\ud669\ud3d0\ud55c,\uc4f8\uc4f8\ud55c,\uc6b0\uc6b8\ud55c,\uace0\ub3c5\ud55c"
+  },
+  { "chapter": 23, "index": 569, "word": "dilapidated", "definition": null },
+  {
+    "chapter": 23,
+    "index": 570,
+    "word": "discard",
+    "definition": "vt.(\ubd88\ud544\uc694\ud55c\uc2b5\uad00.\uc2e0\ub150\uc744)\ubc84\ub9ac\ub2e4,\ud3ec\uae30\ud558\ub2e4;n.\ud3ec\uae30,\ud574\uace0"
+  },
+  {
+    "chapter": 23,
+    "index": 571,
+    "word": "maturity",
+    "definition": "n.\uc131\uc219(\uae30),\uc6d0\uc219(\uae30),\uc644\uc131(\uae30)"
+  },
+  { "chapter": 23, "index": 572, "word": "paternity", "definition": null },
+  {
+    "chapter": 23,
+    "index": 573,
+    "word": "embrace",
+    "definition": "vt.(\ub9ce\uc740\uac83\uc744)\ud3ec\ud568\ud558\ub2e4,~\uc5d0\uac78\uce58\ub2e4"
+  },
+  {
+    "chapter": 23,
+    "index": 574,
+    "word": "reprimand",
+    "definition": "vt.\uafb8\uc9d6\ub2e4,\uc9c8\ucc45\ud558\ub2e4,\uacac\ucc45[\uc9d5\uacc4]\ud558\ub2e4"
+  },
+  { "chapter": 23, "index": 575, "word": "sobriety", "definition": null },
+  {
+    "chapter": 24,
+    "index": 576,
+    "word": "assess",
+    "definition": "vt.\ud3c9\uac00\ud558\ub2e4,\uac10\uc815\ud558\ub2e4,\uacac\uc801\ud558\ub2e4.(\uc138\uae08\ub530\uc704\ub97c)\uc815\ud558\ub2e4"
+  },
+  { "chapter": 24, "index": 577, "word": "confidence", "definition": null },
+  {
+    "chapter": 24,
+    "index": 578,
+    "word": "credulous",
+    "definition": "a.\ub0a8\uc758\ub9d0\ub4f1\uc744 \uc798\ubbff\ub294,\uc798\uc18d\ub294,\uc18d\uae30\uc26c\uc6b4"
+  },
+  {
+    "chapter": 24,
+    "index": 579,
+    "word": "efficient",
+    "definition": "a.\ub2a5\ub825\uc801\uc778,\ud6a8\uacfc\uac00\uc788\ub294,\uc720\ud6a8\ud55c"
+  },
+  { "chapter": 24, "index": 580, "word": "critical", "definition": null },
+  { "chapter": 24, "index": 581, "word": "symptom", "definition": null },
+  { "chapter": 24, "index": 582, "word": "conjecture", "definition": null },
+  {
+    "chapter": 24,
+    "index": 583,
+    "word": "delve",
+    "definition": "vi.\ucca0\uc800\ud788 \uc870\uc0ac\ud558\ub2e4,\uae4a\uc774\ud0d0\uad6c\ud558\ub2e4 n.\ub3d9\uad74,\uc6c0\ud479\ud32c\uacf3"
+  },
+  {
+    "chapter": 24,
+    "index": 584,
+    "word": "boost",
+    "definition": "vt.\uacbd\uae30\ub97c\ubd80\uc591\ud558\ub2e4,\uc120\uc804\ud558\ub2e4,\ubc00\uc5b4\uc62c\ub9ac\ub2e4;\uac00\uaca9\uc744\uc62c\ub9ac\ub2e4;n.\ud6c4\uc6d0,\uaca9\ub824,(\uac00\uaca9\ub4f1)\uc0c1\uc2b9"
+  },
+  { "chapter": 24, "index": 585, "word": "offset", "definition": null },
+  { "chapter": 24, "index": 586, "word": "decimate", "definition": null },
+  {
+    "chapter": 24,
+    "index": 587,
+    "word": "falter",
+    "definition": "v.\ub9d0\uc744\ub354\ub4ec\ub2e4,\uc6b0\ubb3c\uac70\ub9ac\ub2e4,\uc6c0\ucc14\ud558\ub2e4,\ub4b7\uac78\uc74c\uce58\ub2e4,\uba38\ubb47\uac70\ub9ac\ub2e4"
+  },
+  { "chapter": 24, "index": 588, "word": "abate", "definition": null },
+  {
+    "chapter": 24,
+    "index": 589,
+    "word": "deride",
+    "definition": "vt.\ube44\uc6c3\ub2e4,\ubc14\ubcf4\ucde8\uae09\ud558\ub2e4"
+  },
+  {
+    "chapter": 24,
+    "index": 590,
+    "word": "harassing",
+    "definition": "a.\uad34\ub86d\ud788\ub294,\uadc0\ucc2e\uac8c\uad6c\ub294"
+  },
+  {
+    "chapter": 24,
+    "index": 591,
+    "word": "astronomer",
+    "definition": "n.\ucc9c\ubb38\ud559\uc790"
+  },
+  {
+    "chapter": 24,
+    "index": 592,
+    "word": "galvanize",
+    "definition": "vt.\uae30\uc6b4\uc774\ub098\uac8c\ud558\ub2e4,\uaca9\ub824\ud558\uc5ec~\ud558\uac8c\ud558\ub2e4"
+  },
+  {
+    "chapter": 24,
+    "index": 593,
+    "word": "amorphous",
+    "definition": "a.\ubb34\uc815\ud615\uc758,\ud615\ud0dc\uac00\uc5c6\ub294"
+  },
+  { "chapter": 24, "index": 594, "word": "flexible", "definition": null },
+  {
+    "chapter": 24,
+    "index": 595,
+    "word": "salvage",
+    "definition": "n.\uad6c\ucd9c,(\ud654\uc7ac\uc5d0\uc11c\uc758)\uc778\uba85\uad6c\uc870;\ud574\ub09c\uad6c\uc870"
+  },
+  { "chapter": 24, "index": 596, "word": "cramp", "definition": null },
+  { "chapter": 24, "index": 597, "word": "suffocate", "definition": null },
+  { "chapter": 24, "index": 598, "word": "frighten", "definition": null },
+  {
+    "chapter": 24,
+    "index": 599,
+    "word": "tenuous",
+    "definition": "a.\uc911\uc694\uce58\uc54a\uc740,\ubcf4\uc798\uac83\uc5c6\ub294"
+  },
+  {
+    "chapter": 24,
+    "index": 600,
+    "word": "attenuate",
+    "definition": "vt.\uc57d\ud654\uc2dc\ud0a4\ub2e4,\uc57d\ud558\uac8c\ud558\ub2e4"
+  },
+  {
+    "chapter": 25,
+    "index": 601,
+    "word": "petrify",
+    "definition": "vt.\ub3cc\ucc98\ub7fc \uad73\uac8c\ud558\ub2e4,\uc11d\uc9c8\ub85c\ub9cc\ub4e4\ub2e4"
+  },
+  { "chapter": 25, "index": 602, "word": "paralyze", "definition": null },
+  {
+    "chapter": 25,
+    "index": 603,
+    "word": "enervate",
+    "definition": "vt.\uae30\ub825\uc744\ube7c\uc557\ub2e4,\ubb34\uae30\ub825\ud558\uac8c\ud558\ub2e4"
+  },
+  {
+    "chapter": 25,
+    "index": 604,
+    "word": "faint",
+    "definition": "a.(\uc2dc\uc57c.\uc18c\ub9ac.\ub0c4\uc0c8\uac00)\ud76c\ubbf8\ud55c,\ud750\ub9b0\ud55c"
+  },
+  { "chapter": 25, "index": 605, "word": "fatality", "definition": null },
+  { "chapter": 25, "index": 606, "word": "agreeable", "definition": null },
+  { "chapter": 25, "index": 607, "word": "amenable", "definition": null },
+  {
+    "chapter": 25,
+    "index": 608,
+    "word": "amicable",
+    "definition": "a.\uc6b0\ud638\uc801\uc778,\ud3c9\ud654\uc801\uc778"
+  },
+  {
+    "chapter": 25,
+    "index": 609,
+    "word": "hospitable",
+    "definition": "a.\uc190\ub2d8\uc811\ub300\ub97c\uc798\ud558\ub294,\ud658\ub300\ud558\ub294,\uce5c\uc808\ud55c"
+  },
+  {
+    "chapter": 25,
+    "index": 610,
+    "word": "docile",
+    "definition": "a.\uc628\uc21c\ud55c,\uc720\uc21c\ud55c;(\uc0ac\ub78c\uc774)\ub2e4\ub8e8\uae30\uc26c\uc6b4"
+  },
+  { "chapter": 25, "index": 611, "word": "relentless", "definition": null },
+  {
+    "chapter": 25,
+    "index": 612,
+    "word": "ferocious",
+    "definition": "a.\uc0ac\ub098\uc6b4,\ud749\ud3ec\ud55c,\uc794\uc778\ud55c"
+  },
+  {
+    "chapter": 25,
+    "index": 613,
+    "word": "vicious",
+    "definition": "a.\uc794\uc778\ud55c,\uad11\ud3ec\ud55c"
+  },
+  { "chapter": 25, "index": 614, "word": "heinous", "definition": null },
+  {
+    "chapter": 25,
+    "index": 615,
+    "word": "malign",
+    "definition": "a.\ud574\ub85c\uc6b4,\uc545\uc758\uac00\uc788\ub294,v.\ud5d0\ub72f\ub2e4,\uc911\uc0c1\ud558\ub2e4"
+  },
+  {
+    "chapter": 25,
+    "index": 616,
+    "word": "loathe",
+    "definition": "vt.\ubab9\uc2dc\uc2eb\uc5b4\ud558\ub2e4,\uc9c8\uc0c9\ud558\ub2e4,\ud610\uc624\ud558\ub2e4"
+  },
+  {
+    "chapter": 25,
+    "index": 617,
+    "word": "detest",
+    "definition": "vt.\ud610\uc624\ud558\ub2e4,\ubab9\uc2dc\uc2eb\uc5b4\ud558\ub2e4"
+  },
+  {
+    "chapter": 25,
+    "index": 618,
+    "word": "disdain",
+    "definition": "vt.\uacbd\uba78\ud558\ub2e4,\uba78\uc2dc\ud558\ub2e4"
+  },
+  { "chapter": 25, "index": 619, "word": "deprecate", "definition": null },
+  {
+    "chapter": 25,
+    "index": 620,
+    "word": "ignominious",
+    "definition": "a.\ubd88\uba85\uc608\uc2a4\ub7ec\uc6b4,\uc218\uce58\uc2a4\ub7ec\uc6b4"
+  },
+  {
+    "chapter": 25,
+    "index": 621,
+    "word": "haughty",
+    "definition": "a.\uc624\ub9cc\ud55c,\uac70\ub9cc\ud55c,\uac74\ubc29\uc9c4,\ubd88\uc190\ud55c"
+  },
+  { "chapter": 25, "index": 622, "word": "pompous", "definition": null },
+  {
+    "chapter": 25,
+    "index": 623,
+    "word": "presumptuous",
+    "definition": "a.\uc8fc\uc81c\ub118\uc740,\uac74\ubc29\uc9c4,\ubed4\ubed4\uc2a4\ub7ec\uc6b4"
+  },
+  {
+    "chapter": 25,
+    "index": 624,
+    "word": "officious",
+    "definition": "a.\ucc38\uacac\ud558\uae30\uc88b\uc544\ud558\ub294,\uc8fc\uc81c\ub118\uac8c\ub098\uc11c\ub294"
+  },
+  { "chapter": 25, "index": 625, "word": "blatant", "definition": null },
+  {
+    "chapter": 26,
+    "index": 626,
+    "word": "laconic",
+    "definition": "a.\uac04\uacb0\ud55c,\uac04\uba85\ud55c,\ub9d0\uc218\uac00\uc801\uc740"
+  },
+  { "chapter": 26, "index": 627, "word": "reticent", "definition": null },
+  {
+    "chapter": 26,
+    "index": 628,
+    "word": "abridge",
+    "definition": "v.\uc694\uc57d\ud558\ub2e4,\ub2e8\ucd95\ud558\ub2e4,\uc0ad\uac10\ud558\ub2e4"
+  },
+  { "chapter": 26, "index": 629, "word": "prosaic(al)", "definition": null },
+  { "chapter": 26, "index": 630, "word": "verbose", "definition": null },
+  { "chapter": 26, "index": 631, "word": "dull", "definition": null },
+  {
+    "chapter": 26,
+    "index": 632,
+    "word": "blunt",
+    "definition": "a.(\uce7c\ub0a0\ub4f1\uc774)\ubb34\ub518,\ubb49\ub69d\ud55c,(\uc0ac\ub78c\uc774)\ub454\ud55c,\ud241\uba85\uc2a4\ub7ec\uc6b4,\ubb34\ub69d\ub69d\ud55c"
+  },
+  {
+    "chapter": 26,
+    "index": 633,
+    "word": "acrimonious",
+    "definition": "a.(\ud0dc\ub3c4.\ub9d0\ub4f1\uc774)\ud1b5\ub82c\ud55c,\uc2e0\ub784\ud55c,\uc5bc\uc5bc\ud55c"
+  },
+  {
+    "chapter": 26,
+    "index": 634,
+    "word": "laudatory",
+    "definition": "a.\uce6d\ucc2c[\ucc2c\ubbf8]\uc758"
+  },
+  {
+    "chapter": 26,
+    "index": 635,
+    "word": "articulate",
+    "definition": "a.(\ub9d0.\ud45c\ud604\ub4f1\uc774)\uba85\ub8cc\ud55c"
+  },
+  { "chapter": 26, "index": 636, "word": "obliterate", "definition": null },
+  {
+    "chapter": 26,
+    "index": 637,
+    "word": "decipher",
+    "definition": "vt.(\uc554\ud638\ubb38\ub530\uc704\ub97c)\ud574\ub3c5\ud558\ub2e4,\ubc88\uc5ed\ud558\ub2e4;n.(\uc554\ud638\ubb38\uc758)\ubc88\uc5ed,\ud574\ub3c5,\ud310\ub3c5"
+  },
+  {
+    "chapter": 26,
+    "index": 638,
+    "word": "fatuous",
+    "definition": "a.\uc5bc\ube60\uc9c4,\uc5b4\ub9ac\uc11d\uc740,\ubc14\ubcf4\uac19\uc740"
+  },
+  {
+    "chapter": 26,
+    "index": 639,
+    "word": "preposterous",
+    "definition": "a.\uc55e\ub4a4\uac00\ub4a4\ubc14\ub010,\ube44\uc0c1\uc2dd\uc801\uc778,\ubd88\ud569\ub9ac\ud55c"
+  },
+  { "chapter": 26, "index": 640, "word": "vague", "definition": null },
+  { "chapter": 26, "index": 641, "word": "aloof", "definition": null },
+  {
+    "chapter": 26,
+    "index": 642,
+    "word": "lukewarm",
+    "definition": "a.\ubbf8\uc9c0\uadfc\ud55c,\ubbf8\uc628\uc801\uc778,\uc5f4\uc758\uac00\uc5c6\ub294,\ub9c8\uc74c\uc774\ub0b4\ud0a4\uc9c0\uc54a\ub294"
+  },
+  {
+    "chapter": 26,
+    "index": 643,
+    "word": "fascinate",
+    "definition": "vt.\ub9e4\ud639\ud558\ub2e4,\ubc18\ud558\uac8c\ud558\ub2e4,\ud669\ud640\ud558\uac8c\ud558\ub2e4;vi.\uc8fc\uc758\ub97c\ub04c\ub2e4,\ub9e4\ub825\uc774\uc788\ub2e4"
+  },
+  {
+    "chapter": 26,
+    "index": 644,
+    "word": "deliberate",
+    "definition": "a.\uc2e0\uc911\ud55c,\uc0dd\uac01\uc774\uae4a\uc740,\uc0ac\ub824\uae4a\uc740 v.\uc2ec\uc0ac\uc219\uace0\ud558\ub2e4"
+  },
+  { "chapter": 26, "index": 645, "word": "sympathy", "definition": null },
+  {
+    "chapter": 26,
+    "index": 646,
+    "word": "pensive",
+    "definition": "a.\uc0dd\uac01\uc5d0\uc7a0\uae34,\uacf0\uacf0\ud788 \uc0dd\uac01\ud558\ub294"
+  },
+  { "chapter": 26, "index": 647, "word": "tendency", "definition": null },
+  {
+    "chapter": 26,
+    "index": 648,
+    "word": "bent",
+    "definition": "n.\uae30\ud638,\uc131\ud5a5,\uc131\ubcbd,\uc131\uc9c8,\uacbd\ud5a5,\uc18c\uc9c8,\uc7ac\ub2a5"
+  },
+  {
+    "chapter": 26,
+    "index": 649,
+    "word": "prejudice",
+    "definition": "n.\ud3b8\uacac(\ube44\ud638\uc758\uc801)\uc120\uc785\uad00;\ud3b8\uc560,\ud3b8\ud30c"
+  },
+  {
+    "chapter": 26,
+    "index": 650,
+    "word": "exponent",
+    "definition": "n.\uc8fc\ucc3d\uc790,\uc639\ud558\uc790,\uc9c0\uc9c0\uc790"
+  },
+  { "chapter": 27, "index": 651, "word": "dissent", "definition": null },
+  {
+    "chapter": 27,
+    "index": 652,
+    "word": "contradict",
+    "definition": "vt.\ubd80\uc815\ud558\ub2e4,\ubd80\uc778\ud558\ub2e4,\ubc18\ubc15\ud558\ub2e4,\ud56d\ubcc0\ud558\ub2e4,(\uc0ac\uc2e4.\uc9c4\uc220\uc774)\ubaa8\uc21c\ub418\ub2e4"
+  },
+  {
+    "chapter": 27,
+    "index": 653,
+    "word": "discrepancy",
+    "definition": "n.\ubaa8\uc21c,\ubd88\uc77c\uce58,\uc55e\ub4a4\uac00\uc5b4\uae0b\ub0a8"
+  },
+  {
+    "chapter": 27,
+    "index": 654,
+    "word": "contrary",
+    "definition": "n.\ubc18\ub300,\uc815\ubc18\ub300,a.~\uc5d0\ubc18\ub300\ub418\ub294,~\uc640 \uc11c\ub85c \uc6a9\ub0a9\ud558\uc9c0\uc54a\ub294;Ad.\ubc18\ub300\ub85c,\uac70\uafb8\ub85c"
+  },
+  { "chapter": 27, "index": 655, "word": "allude", "definition": null },
+  { "chapter": 27, "index": 656, "word": "profuse", "definition": null },
+  { "chapter": 27, "index": 657, "word": "prosperous", "definition": null },
+  {
+    "chapter": 27,
+    "index": 658,
+    "word": "ample",
+    "definition": "a.\ud48d\ubd80\ud55c,\ucda9\ubd84\ud55c"
+  },
+  {
+    "chapter": 27,
+    "index": 659,
+    "word": "enormous",
+    "definition": "a.\uac70\ub300\ud55c,\ub9c9\ub300\ud55c,\uc5c4\uccad\ub09c"
+  },
+  { "chapter": 27, "index": 660, "word": "replicate", "definition": null },
+  { "chapter": 27, "index": 661, "word": "miserly", "definition": null },
+  {
+    "chapter": 27,
+    "index": 662,
+    "word": "impoverished",
+    "definition": "a.\uac00\ub09c\ud574\uc9c4,\uac00\ub09c\ud55c"
+  },
+  {
+    "chapter": 27,
+    "index": 663,
+    "word": "slack",
+    "definition": "v.(\uc18d\ub825\uc774)\ub298\uc9c0\ub2e4(\ub2a6\ucd94\ub2e4)"
+  },
+  { "chapter": 27, "index": 664, "word": "stagnant", "definition": null },
+  {
+    "chapter": 27,
+    "index": 665,
+    "word": "dearth",
+    "definition": "n.\uae30\uadfc,\uc2dd\ub7c9\ubd80\uc871,\uacb0\ud54d,\ubd80\uc871"
+  },
+  {
+    "chapter": 27,
+    "index": 666,
+    "word": "insolvent",
+    "definition": "a.\uc9c0\ubd88\ubd88\ub2a5\ud55c,\ud30c\uc0b0(\uc790)\uc758"
+  },
+  {
+    "chapter": 27,
+    "index": 667,
+    "word": "resolve",
+    "definition": "v.\uacb0\uc2ec\ud558\ub2e4,\uacb0\uc758\ud558\ub2e4,\uc758\uacb0\ud558\ub2e4,(\ubb38\uc81c\ub4f1)\ud480\ub2e4,\ud574\uacb0\ud558\ub2e4,\ud574\uba85\ud558\ub2e4,;n.\uacb0\uc2ec,\uacb0\uc758"
+  },
+  {
+    "chapter": 27,
+    "index": 668,
+    "word": "remuneration",
+    "definition": "n.\ubcf4\uc218,\ubcf4\uc0c1,\uae09\uc5ec"
+  },
+  {
+    "chapter": 27,
+    "index": 669,
+    "word": "allowance",
+    "definition": "n.\ud5c8\ub77d,\ud5c8\uac00,\uc6a9\uc778;\uc2b9\uc778,\uc778\uac00,\ud560\ub2f9\ub7c9,\uc9c0\uae09\ub7c9,\ubc30\uae09,\uc218\ub2f9,\uc6a9\ub3c8"
+  },
+  {
+    "chapter": 27,
+    "index": 670,
+    "word": "bargain",
+    "definition": "n.\uc2f8\uac8c\uc0b0\ubb3c\uac74;\ud131\uc5c6\uc774\uc308,\uc758\uc678\ub85c\uc308,\ub9e4\ub9e4\uacc4\uc57d,\uac70\ub798;\ud611\uc815,\uc57d\uc18d;a.\ud5d0\uac12\uc758;vt.\uad50\ud658\ud558\ub2e4"
+  },
+  { "chapter": 27, "index": 671, "word": "prerequisite", "definition": null },
+  {
+    "chapter": 27,
+    "index": 672,
+    "word": "solicit",
+    "definition": "vt.\uac04\uccad\ud558\ub2e4,\uc694\uccad\ud558\ub2e4,\uad8c\uc720\ud558\ub2e4"
+  },
+  { "chapter": 27, "index": 673, "word": "condone", "definition": null },
+  {
+    "chapter": 27,
+    "index": 674,
+    "word": "console",
+    "definition": "vt.\uc704\ub85c\ud558\ub2e4,\uc704\ubb38\ud558\ub2e4,n.(\uae30\uacc4.\uae30\uae30\ub4f1\uc758)\uc81c\uc5b4\uc7a5\uce58,\ub300\ud615\uc624\ub514\uc624\ub4f1\uc758 \uce90\ube44\ub2db"
+  },
+  {
+    "chapter": 27,
+    "index": 675,
+    "word": "extricate",
+    "definition": "vt.(\uc704\uae30\ub4f1\uc5d0\uc11c)\uad6c\ud574\ub0b4\ub2e4,\ube7c\ub0b4\uc5b4\uc8fc\ub2e4"
+  },
+  {
+    "chapter": 28,
+    "index": 676,
+    "word": "novice",
+    "definition": "n.\ucd08\uc2ec\uc790,\uc2e0\ucd9c\ub0b4\uae30,\ud48b\ub0b4\uae30"
+  },
+  { "chapter": 28, "index": 677, "word": "adolescence", "definition": null },
+  { "chapter": 28, "index": 678, "word": "burgeoning", "definition": null },
+  {
+    "chapter": 28,
+    "index": 679,
+    "word": "onset",
+    "definition": "n.\ucc29\uc218,\uac1c\uc2dc"
+  },
+  {
+    "chapter": 28,
+    "index": 680,
+    "word": "evolve",
+    "definition": "vt.(\ub17c\ub9ac\uc758\uacac\uacc4\ud68d\ub4f1\uc744)\uc11c\uc11c\ud788\ubc1c\uc804\uc2dc\ud0a4\ub2e4"
+  },
+  { "chapter": 28, "index": 681, "word": "raise", "definition": null },
+  {
+    "chapter": 28,
+    "index": 682,
+    "word": "breed",
+    "definition": "vt.(\uc0c8\ub07c\ub97c)\ub0b3\ub2e4,(\uc54c\uc744)\uae4c\ub2e4,(\ud488\uc885\uc744)\ub9cc\ub4e4\uc5b4\ub0b4\ub2e4,\uac1c\ub7c9\ud558\ub2e4,(\ubd88\ud654\ub4f1)\uc77c\uc73c\ud0a4\ub2e4n.\ud488\uc885"
+  },
+  {
+    "chapter": 28,
+    "index": 683,
+    "word": "spoil",
+    "definition": "vt.\ub9dd\uce58\ub2e4,\uc0c1\ud558\uac8c\ud558\ub2e4,\ubabb\uc4f0\uac8c\ub9cc\ub4e4\ub2e4,\uc751\uc11d\uc744\ubc1b\uc544\uc8fc\ub2e4,\ubc84\ub987\uc5c6\uc774\uae30\ub974\ub2e4"
+  },
+  { "chapter": 28, "index": 684, "word": "chasten", "definition": null },
+  { "chapter": 28, "index": 685, "word": "penitent", "definition": null },
+  {
+    "chapter": 28,
+    "index": 686,
+    "word": "corrupt",
+    "definition": "a.\ud0c0\ub77d\ud55c,\ud1f4\ud3d0\ud55c,\ubd80\ub3c4\ub355\ud55c,\uc0ac\uc545\ud55c;vi.\ud0c0\ub77d\uc2dc\ud0a4\ub2e4,(\ub1cc\ubb3c\ub85c)\ub9e4\uc218\ud558\ub2e4"
+  },
+  {
+    "chapter": 28,
+    "index": 687,
+    "word": "sinister",
+    "definition": "a.\ubd88\uae38\ud55c,\uc7ac\uc218\uc5c6\ub294,\uc7ac\uc559\uc774\ub418\ub294"
+  },
+  { "chapter": 28, "index": 688, "word": "avoid", "definition": null },
+  {
+    "chapter": 28,
+    "index": 689,
+    "word": "abstain",
+    "definition": "v.\uc0bc\uac00\ub2e4,\uc808\uc81c\ud558\ub2e4,\ub04a\ub2e4;\uae30\uad8c\ud558\ub2e4,\ud68c\ud53c\ud558\ub2e4"
+  },
+  { "chapter": 28, "index": 690, "word": "succumb", "definition": null },
+  { "chapter": 28, "index": 691, "word": "exalt", "definition": null },
+  { "chapter": 28, "index": 692, "word": "extend", "definition": null },
+  { "chapter": 28, "index": 693, "word": "stimulate", "definition": null },
+  { "chapter": 28, "index": 694, "word": "spur", "definition": null },
+  { "chapter": 28, "index": 695, "word": "vie", "definition": null },
+  { "chapter": 28, "index": 696, "word": "progeny", "definition": null },
+  { "chapter": 28, "index": 697, "word": "inherit", "definition": null },
+  { "chapter": 28, "index": 698, "word": "intrinsic(al)", "definition": null },
+  {
+    "chapter": 28,
+    "index": 699,
+    "word": "demise",
+    "definition": "n. \uc11c\uac70,\uc0ac\ub9dd,\uc8fd\uc74c vt.\uc591\ub3c4\ud558\ub2e4, vi.\uc0ac\ub9dd\ud558\ub2e4,\uc720\uc99d\ud558\ub2e4"
+  },
+  { "chapter": 28, "index": 700, "word": "habitat", "definition": null },
+  {
+    "chapter": 29,
+    "index": 701,
+    "word": "congregate",
+    "definition": "vt.(~\uc744)\ub9ce\uc774 \ubaa8\uc73c\ub2e4,;vi.\ubaa8\uc774\ub2e4,\uc9d1\ud569\ud558\ub2e4 ,a.\ubaa8\uc778,\uc9d1\ub2e8\uc758,\uc9d1\ub2e8\uc801\uc778"
+  },
+  { "chapter": 29, "index": 702, "word": "amalgam", "definition": null },
+  { "chapter": 29, "index": 703, "word": "assimilate", "definition": null },
+  {
+    "chapter": 29,
+    "index": 704,
+    "word": "impervious",
+    "definition": "a.(\ubb3c\uacf5\uae30\ub4f1\uc744)\ud1b5\uacfc\uc2dc\ud0a4\uc9c0\uc54a\ub294,\ubd88\uce68\ud22c\uc131\uc758"
+  },
+  { "chapter": 29, "index": 705, "word": "soaked", "definition": null },
+  {
+    "chapter": 29,
+    "index": 706,
+    "word": "concert",
+    "definition": "n.\ud611\uc870,\uc81c\ud734,\ud611\ub825,\uc77c\uce58,\uc870\ud654,\uc74c\uc545\ud68c,\uc5f0\uc8fc\ud68c;vt.~\uc744\uacc4\ud68d\ud558\ub2e4,\uc778\ucd9c\ud558\ub2e4"
+  },
+  { "chapter": 29, "index": 707, "word": "holistic", "definition": null },
+  {
+    "chapter": 29,
+    "index": 708,
+    "word": "solidify",
+    "definition": "v.\uad73\ud788\ub2e4,\uad73\uc5b4\uc9c0\ub2e4"
+  },
+  {
+    "chapter": 29,
+    "index": 709,
+    "word": "hybrid",
+    "definition": "a.\uc7a1\uc885\uc758,\ud63c\uc131\uc758"
+  },
+  { "chapter": 29, "index": 710, "word": "ramification", "definition": null },
+  { "chapter": 29, "index": 711, "word": "alienate", "definition": null },
+  {
+    "chapter": 29,
+    "index": 712,
+    "word": "estrangement",
+    "definition": "n.\uc57c\uac04,\ubd88\ud654;\uc18c\uc678"
+  },
+  { "chapter": 29, "index": 713, "word": "delegate", "definition": null },
+  { "chapter": 29, "index": 714, "word": "supersede", "definition": null },
+  {
+    "chapter": 29,
+    "index": 715,
+    "word": "irreplaceable",
+    "definition": "a.\ubc14\uafc0\uc218\uc5c6\ub294,\ub300\uccb4\ud560\uc218\uc5c6\ub294"
+  },
+  { "chapter": 29, "index": 716, "word": "perjure", "definition": null },
+  {
+    "chapter": 29,
+    "index": 717,
+    "word": "fake",
+    "definition": "vt.\uc704\uc870\ud558\ub2e4,\uafb8\uba70\ub0b4\ub2e4,\ub0a0\uc870\ud558\ub2e4"
+  },
+  { "chapter": 29, "index": 718, "word": "fabrication", "definition": null },
+  { "chapter": 29, "index": 719, "word": "incredible", "definition": null },
+  { "chapter": 29, "index": 720, "word": "pseudonym", "definition": null },
+  { "chapter": 29, "index": 721, "word": "bonafide", "definition": null },
+  {
+    "chapter": 29,
+    "index": 722,
+    "word": "testify",
+    "definition": "v.\uc99d\uba85[\uc785\uc99d]\ud558\ub2e4,\uc99d\uac70\uac00\ub418\ub2e4"
+  },
+  {
+    "chapter": 29,
+    "index": 723,
+    "word": "verify",
+    "definition": "vt.\uc99d\uba85[\uc785\uc99d]\ud558\ub2e4,\uc99d\uac70\ub97c\ub300\ub2e4"
+  },
+  {
+    "chapter": 29,
+    "index": 724,
+    "word": "verdict",
+    "definition": "n.(\ubc30\uc2ec\uc6d0\uc758)\ud3c9\uacb0;<\uad6c\uc5b4>\ud310\uc815,\ud310\ub2e8"
+  },
+  { "chapter": 29, "index": 725, "word": "defend", "definition": null },
+  { "chapter": 30, "index": 726, "word": "defect", "definition": null },
+  {
+    "chapter": 30,
+    "index": 727,
+    "word": "blunder",
+    "definition": "n.\ud070\uc2e4\uc218,\ud130\ubb34\ub2c8\uc5c6\ub294\uc2e4\ucc45;vi.\ud070\uc2e4\uc218(\uc2e4\ucc45)\uc744\uc800\uc9c0\ub974\ub2e4.vi(\uc77c\ub4f1\uc744)\uadf8\ub974\uce58\ub2e4"
+  },
+  {
+    "chapter": 30,
+    "index": 728,
+    "word": "collapse",
+    "definition": "n.\ubb34\ub108\uc9d0,\ubd95\uad34;\uacc4\ud68d\uc758\uc2e4\ud328;vi.(\uacc4\ud68d\ub530\uc704\uac00)\uc88c\uc808\ub418\ub2e4,\uc2e4\ud328\ud558\ub2e4,vt.~\uc744\ubd80\uc218\ub2e4"
+  },
+  { "chapter": 30, "index": 729, "word": "thwart", "definition": null },
+  { "chapter": 30, "index": 730, "word": "frustration", "definition": null },
+  {
+    "chapter": 30,
+    "index": 731,
+    "word": "diagnosis",
+    "definition": "n.\uc9c4\ucc30,\uc9c4\ub2e8"
+  },
+  { "chapter": 30, "index": 732, "word": "aftermath", "definition": null },
+  {
+    "chapter": 30,
+    "index": 733,
+    "word": "revision",
+    "definition": "n.\uac1c\uc815,\uad50\uc815,\uc218\uc815,\uc815\uc815"
+  },
+  { "chapter": 30, "index": 734, "word": "shift", "definition": null },
+  {
+    "chapter": 30,
+    "index": 735,
+    "word": "setback",
+    "definition": "n.(\uc9c4\ubcf4\ub4f1\uc758)\ubc29\ud574,\uc88c\uc808,\ud328\ubc30,\uc2e4\ud328"
+  },
+  {
+    "chapter": 30,
+    "index": 736,
+    "word": "encounter",
+    "definition": "vt.(\uc704\ud5d8\uace4\ub780\ub4f1\uc5d0)\ubd80\ub2e5\uce58\ub2e4,(\uc6b0\uc5f0\ud788)\ub9cc\ub098\ub2e4,\ub9c8\uc8fc\uce58\ub2e4"
+  },
+  { "chapter": 30, "index": 737, "word": "confront", "definition": null },
+  { "chapter": 30, "index": 738, "word": "revoke", "definition": null },
+  {
+    "chapter": 30,
+    "index": 739,
+    "word": "tentative",
+    "definition": "a.\uc2dc\ud5d8\uc0bc\uc544\ud558\ub294,\uc784\uc2dc\uc758"
+  },
+  { "chapter": 30, "index": 740, "word": "precaution", "definition": null },
+  { "chapter": 30, "index": 741, "word": "probe", "definition": null },
+  { "chapter": 30, "index": 742, "word": "ransack", "definition": null },
+  {
+    "chapter": 30,
+    "index": 743,
+    "word": "sanction",
+    "definition": "n.\uc7ac\uac00,\uc778\uac00,\uc2dc\uc778,\ud5c8\uc6a9,\ucc2c\uc131"
+  },
+  { "chapter": 30, "index": 744, "word": "contingent", "definition": null },
+  { "chapter": 30, "index": 745, "word": "qualify", "definition": null },
+  {
+    "chapter": 30,
+    "index": 746,
+    "word": "incumbent",
+    "definition": "a.\uc758\ubb34\uac00\uc788\ub294,\uc758\ubb34\ub85c\uc11c \uc9c0\uc6cc\uc9c0\ub294"
+  },
+  {
+    "chapter": 30,
+    "index": 747,
+    "word": "procrastinate",
+    "definition": "v.\ub291\uc7a5\ubd80\ub9ac\ub2e4,\uafb8\ubb3c\uac70\ub9ac\ub2e4"
+  },
+  { "chapter": 30, "index": 748, "word": "resistant", "definition": null },
+  {
+    "chapter": 30,
+    "index": 749,
+    "word": "strain",
+    "definition": "vi.\uc7a1\uc544\ub2f9\uae30\ub2e4,\uae34\uc7a5\ud558\ub2e4,vt.\uae34\uc7a5\uc2dc\ud0a4\ub2e4,\ubb34\ub9ac\ub97c\ud558\ub2e4"
+  },
+  {
+    "chapter": 30,
+    "index": 750,
+    "word": "vain",
+    "definition": "a.\uc790\ub9cc\uc2ec\uc774\uac15\ud55c,\ud5c8\uc601\uc801\uc778,\ubf50\ub0b4\ub294"
+  },
+  { "chapter": 31, "index": 751, "word": "ingenious", "definition": null },
+  {
+    "chapter": 31,
+    "index": 752,
+    "word": "imaginative",
+    "definition": "a.\uc0c1\uc0c1\ub825\uc774\ud48d\ubd80\ud55c,\uc0c1\uc0c1\ud558\uae30\uc88b\uc544\ud558\ub294"
+  },
+  { "chapter": 31, "index": 753, "word": "conceive", "definition": null },
+  {
+    "chapter": 31,
+    "index": 754,
+    "word": "sagacious",
+    "definition": "a.\ud604\uba85\ud55c,\uc601\ub9ac\ud55c,\uc2ac\uae30\ub85c\uc6b4"
+  },
+  {
+    "chapter": 31,
+    "index": 755,
+    "word": "imply",
+    "definition": "vt.\uc554\uc2dc\ud558\ub2e4,\ub10c\uc9c0\uc2dc \ube44\ucd94\ub2e4"
+  },
+  {
+    "chapter": 31,
+    "index": 756,
+    "word": "acquaint",
+    "definition": "v.\uc815\ud1b5\ud558\uac8c\ud558\ub2e4,\uc54c\uac8c\ud558\ub2e4,\uc54c\ub9ac\ub2e4"
+  },
+  { "chapter": 31, "index": 757, "word": "nimble", "definition": null },
+  {
+    "chapter": 31,
+    "index": 758,
+    "word": "keen",
+    "definition": "a.\uc5f4\uc2ec\uc778,\uc5f4\uc911\ud55c,\uc5f4\ub9dd\ud558\ub294,\uc5f4\uad11\ud558\ub294,(\uce7c\ub4f1\uc774)\ub0a0\uce74\ub85c\uc6b4,(\uac10\uac01\uc774)\uc608\ub9ac\ud55c"
+  },
+  { "chapter": 31, "index": 759, "word": "vehement", "definition": null },
+  { "chapter": 31, "index": 760, "word": "astound", "definition": null },
+  { "chapter": 31, "index": 761, "word": "disguise", "definition": null },
+  { "chapter": 31, "index": 762, "word": "mock", "definition": null },
+  {
+    "chapter": 31,
+    "index": 763,
+    "word": "grudge",
+    "definition": "n.\uc6d0\ud55c,\uc559\uc2ec,\uc720\uac10"
+  },
+  { "chapter": 31, "index": 764, "word": "soothe", "definition": null },
+  {
+    "chapter": 31,
+    "index": 765,
+    "word": "defuse",
+    "definition": "vt.\uc704\uae30\ub97c \ud574\uc81c\ud558\ub2e4,\uc9c4\uc815\uc2dc\ud0a4\ub2e4,(\ud3ed\ud0c4.\uc9c0\ub8b0\uc758)\uc2e0\uad00\uc744 \uc81c\uac70\ud558\ub2e4"
+  },
+  {
+    "chapter": 31,
+    "index": 766,
+    "word": "occupation",
+    "definition": "n.\uc9c1\uc5c5,\uc5c5\ubb34,\uc885\uc0ac"
+  },
+  { "chapter": 31, "index": 767, "word": "release", "definition": null },
+  {
+    "chapter": 31,
+    "index": 768,
+    "word": "submit",
+    "definition": "vt.\uc81c\ucd9c[\uc81c\uc2dc]\ud558\ub2e4,\uae30\ud0c1\ud558\ub2e4,\ub9e1\uae30\ub2e4"
+  },
+  { "chapter": 31, "index": 769, "word": "infringe", "definition": null },
+  { "chapter": 31, "index": 770, "word": "landmark", "definition": null },
+  {
+    "chapter": 31,
+    "index": 771,
+    "word": "decelerate",
+    "definition": "v.\uc18d\ub3c4\ub97c\uc904\uc774\ub2e4,\uac10\uc18d\ud558\ub2e4"
+  },
+  {
+    "chapter": 31,
+    "index": 772,
+    "word": "stumble",
+    "definition": "vi.\ube44\ud2c0\uac70\ub9ac\ub2e4,\ube44\ud2c0\uac70\ub9ac\uba70\uac77\ub2e4"
+  },
+  { "chapter": 31, "index": 773, "word": "impasse", "definition": null },
+  {
+    "chapter": 31,
+    "index": 774,
+    "word": "deadlock",
+    "definition": "n.(\uad50\uc12d\ub530\uc758\uc758)\ub9c9\ub2e4\ub978\uc0c1\ud0dc,\uad50\ucc29,\uc815\uccb4,v.\uc55e\uc774\ub9c9\ud788\ub2e4,\uaf3c\uc9dd\ubabb\ud558\uac8c\ub418\ub2e4"
+  },
+  { "chapter": 31, "index": 775, "word": "obdurate", "definition": null },
+  {
+    "chapter": 32,
+    "index": 776,
+    "word": "succulent",
+    "definition": "a.(\uacfc\uc77c\ub4f1\uc774)\uc999\uc774\ub9ce\uc740,\ubb3c\uae30\uac00\ub9ce\uc740"
+  },
+  {
+    "chapter": 32,
+    "index": 777,
+    "word": "odorous",
+    "definition": "a.\ud5a5\uae30\ub85c\uc6b4,\ub0c4\uc0c8\uac00\ub098\ub294"
+  },
+  {
+    "chapter": 32,
+    "index": 778,
+    "word": "subtle",
+    "definition": "a.(\uc9c0\uac01\ud560\uc218\uc5c6\uc744\uc815\ub3c4\ub85c)\ubbf8\ubb18\ud55c,\ubbf8\uc138\ud55c"
+  },
+  { "chapter": 32, "index": 779, "word": "delicate", "definition": null },
+  {
+    "chapter": 32,
+    "index": 780,
+    "word": "voracious",
+    "definition": "a.\uac8c\uac78\uc2a4\ub808\uba39\ub294,\ub300\uc2dd\ud558\ub294,\ud0d0\uc695\uc801\uc778"
+  },
+  { "chapter": 32, "index": 781, "word": "promulgate", "definition": null },
+  { "chapter": 32, "index": 782, "word": "declare", "definition": null },
+  { "chapter": 32, "index": 783, "word": "proclaim", "definition": null },
+  { "chapter": 32, "index": 784, "word": "claim", "definition": null },
+  { "chapter": 32, "index": 785, "word": "disclaimer", "definition": null },
+  { "chapter": 32, "index": 786, "word": "enunciate", "definition": null },
+  {
+    "chapter": 32,
+    "index": 787,
+    "word": "denounce",
+    "definition": "vt.\ube44\ub09c\ud558\ub2e4,\ud0c4\ud575\ud558\ub2e4,\uace0\ubc1c\ud558\ub2e4"
+  },
+  {
+    "chapter": 32,
+    "index": 788,
+    "word": "evince",
+    "definition": "vt.\uba85\uc2dc\ud558\ub2e4,(\uac10\uc815\ub4f1)\ubd84\uba85\ud788\ub098\ud0c0\ub0b4\ub2e4,\ubc1d\ud788\ub2e4"
+  },
+  {
+    "chapter": 32,
+    "index": 789,
+    "word": "perspicuous",
+    "definition": "a.(\uc5b8\uc5b4.\ubb38\uc81c\ub4f1\uc774)\uba85\ucf8c\ud55c,\uba85\ub8cc\ud55c"
+  },
+  { "chapter": 32, "index": 790, "word": "reject", "definition": null },
+  {
+    "chapter": 32,
+    "index": 791,
+    "word": "dissuade",
+    "definition": "vt.(\uc124\ub4dd\ud558\uc5ec)\uadf8\ub9cc\ub450\uac8c\ud558\ub2e4,\ub2e8\ub150\uc2dc\ud0a4\ub2e4."
+  },
+  {
+    "chapter": 32,
+    "index": 792,
+    "word": "discord",
+    "definition": "vi.\uc870\ud654[\uc77c\uce58]\ub418\uc9c0\uc54a\ub2e4;\ubd88\ud654\ud558\ub2e4"
+  },
+  {
+    "chapter": 32,
+    "index": 793,
+    "word": "consensus",
+    "definition": "n.\ucd1d\uc758,\uc5ec\ub860,\ub300\ub2e4\uc218\uc758\uc758\uacac,(\uc758\uacac\ub4f1\uc758)\uc77c\uce58,\ud569\uc758"
+  },
+  { "chapter": 32, "index": 794, "word": "absolute", "definition": null },
+  {
+    "chapter": 32,
+    "index": 795,
+    "word": "forthright",
+    "definition": "a.\uace7\uac8c\ub098\uc544\uac00\ub294,\uc194\uc9c1\ud55c"
+  },
+  { "chapter": 32, "index": 796, "word": "insinuate", "definition": null },
+  { "chapter": 32, "index": 797, "word": "implicate", "definition": null },
+  { "chapter": 32, "index": 798, "word": "inculcate", "definition": null },
+  {
+    "chapter": 32,
+    "index": 799,
+    "word": "digressive",
+    "definition": "a.\uc8fc\uc81c\ub97c\ubc97\uc5b4\ub09c,\ud0c8\uc120\ud558\uae30\uc26c\uc6b4"
+  },
+  {
+    "chapter": 32,
+    "index": 800,
+    "word": "desultory",
+    "definition": "a.\uc885\uc7a1\uc744\uc218 \uc5c6\ub294;\uc0b0\ub9cc\ud55c;\uc8fc\uc81c\ub97c\ubc97\uc5b4\ub09c"
+  },
+  { "chapter": 33, "index": 801, "word": "affliction", "definition": null },
+  { "chapter": 33, "index": 802, "word": "adversity", "definition": null },
+  { "chapter": 33, "index": 803, "word": "mishap", "definition": null },
+  {
+    "chapter": 33,
+    "index": 804,
+    "word": "drudgery",
+    "definition": "n.(\uc9c0\ub8e8\ud558\uace0\ub530\ubd84\ud55c)\uace0\ub41c\uc77c,\uc2eb\uc740\uc77c"
+  },
+  {
+    "chapter": 33,
+    "index": 805,
+    "word": "grueling",
+    "definition": "a.\ub179\ucd08\ub85c\ub9cc\ub4dc\ub294,\uae30\uc9c4\ub9e5\uc9c4\ucf00\ud558\ub294"
+  },
+  { "chapter": 33, "index": 806, "word": "grievance", "definition": null },
+  { "chapter": 33, "index": 807, "word": "complaint", "definition": null },
+  { "chapter": 33, "index": 808, "word": "disgruntled", "definition": null },
+  {
+    "chapter": 33,
+    "index": 809,
+    "word": "slander",
+    "definition": "n.\uc911\uc0c1,\uc695\uc124;<\ubc95\ub960>\uad6c\ub450\uba85\uc608\ud6fc\uc190,vt.\uc911\uc0c1\ud558\ub2e4,~\uc758 \uba85\uc608\ub97c\ud6fc\uc190\ud558\ub2e4"
+  },
+  { "chapter": 33, "index": 810, "word": "derogatory", "definition": null },
+  {
+    "chapter": 33,
+    "index": 811,
+    "word": "terse",
+    "definition": "a.(\ubb38\uccb4,\ud45c\ud604\uc774)\uac04\uacb0\ud55c,\uac04\uba85\ud55c"
+  },
+  {
+    "chapter": 33,
+    "index": 812,
+    "word": "garrulous",
+    "definition": "a.\ub9d0\ub9ce\uc740,\uc218\ub2e4\uc2a4\ub7ec\uc6b4"
+  },
+  {
+    "chapter": 33,
+    "index": 813,
+    "word": "flippant",
+    "definition": "a.\uacbd\ubc15\ud55c,\uae4c\ubd88\uae4c\ubd88\ud55c,\uacbd\uc194\ud55c,(\ud0dc\ub3c4\ub4f1\uc774)\ubb34\ub840\ud55c"
+  },
+  {
+    "chapter": 33,
+    "index": 814,
+    "word": "fervent",
+    "definition": "a.\uc5f4\ub82c\ud55c,\uac15\ub82c\ud55c,(\uac10\uc815\ub530\uc704\uac00)\uaca9\ud55c"
+  },
+  { "chapter": 33, "index": 815, "word": "obtrusive", "definition": null },
+  { "chapter": 33, "index": 816, "word": "indefatigable", "definition": null },
+  { "chapter": 33, "index": 817, "word": "sophisticated", "definition": null },
+  {
+    "chapter": 33,
+    "index": 818,
+    "word": "elaborate",
+    "definition": "a.\uc815\uc131\ub4e4\uc778;\uc794\uc190\uc9c8\uc774\ub9ce\uc774\uac04;\uc815\uad50\ud55c,\ub4a4\uc5bd\ud78c,\ubcf5\uc7a1\ud55c,vi.\uc0c1\uc138\ud788 \ub9d0\ud558\ub2e4"
+  },
+  { "chapter": 33, "index": 819, "word": "corroborate", "definition": null },
+  {
+    "chapter": 33,
+    "index": 820,
+    "word": "innovation",
+    "definition": "n.\ud601\uc2e0,\uc1c4\uc2e0,\uae30\uc220\ud601\uc2e0"
+  },
+  { "chapter": 33, "index": 821, "word": "beguile", "definition": null },
+  { "chapter": 33, "index": 822, "word": "swindle", "definition": null },
+  { "chapter": 33, "index": 823, "word": "fraud", "definition": null },
+  { "chapter": 33, "index": 824, "word": "tout", "definition": null },
+  { "chapter": 33, "index": 825, "word": "pretext", "definition": null },
+  {
+    "chapter": 34,
+    "index": 826,
+    "word": "insidious",
+    "definition": "a.(\ubcd1\ub4f1\uc774)\uc7a0\ud589\uc131\uc758,\uad50\ud65c\ud55c,\uc74c\ud749\ud55c"
+  },
+  {
+    "chapter": 34,
+    "index": 827,
+    "word": "clandestine",
+    "definition": "a.\uc740\ubc00\ud55c,\uc554\uc554\ub9ac\uc758 ,\ub0a8\ubab0\ub798\ud558\ub294"
+  },
+  { "chapter": 34, "index": 828, "word": "enthralling", "definition": null },
+  { "chapter": 34, "index": 829, "word": "riveting", "definition": null },
+  {
+    "chapter": 34,
+    "index": 830,
+    "word": "lure",
+    "definition": "vt.(\ubbf8\ub07c\ub4f1\uc73c\ub85c)\uc720\uc778\ud558\ub2e4,\uc720\ud639\ud558\ub2e4;n.\uc720\uc778\ud558\ub294\uac83"
+  },
+  { "chapter": 34, "index": 831, "word": "propagate", "definition": null },
+  { "chapter": 34, "index": 832, "word": "superfluous", "definition": null },
+  { "chapter": 34, "index": 833, "word": "squander", "definition": null },
+  { "chapter": 34, "index": 834, "word": "widespread", "definition": null },
+  { "chapter": 34, "index": 835, "word": "scarce", "definition": null },
+  {
+    "chapter": 34,
+    "index": 836,
+    "word": "dispense",
+    "definition": "vt.\ubd84\ubc30\ud558\ub2e4,\ub098\ub204\uc5b4\uc8fc\ub2e4"
+  },
+  { "chapter": 34, "index": 837, "word": "gratis", "definition": null },
+  { "chapter": 34, "index": 838, "word": "fend", "definition": null },
+  { "chapter": 34, "index": 839, "word": "render", "definition": null },
+  { "chapter": 34, "index": 840, "word": "impart", "definition": null },
+  {
+    "chapter": 34,
+    "index": 841,
+    "word": "asset",
+    "definition": "n.(pl)\uc790\uc0b0,\uc7ac\uc0b0,\uc720\uc6a9\ud55c \uc790\uc9c8,\uc774\uc810,\uac15\uc810"
+  },
+  { "chapter": 34, "index": 842, "word": "bankrupt", "definition": null },
+  {
+    "chapter": 34,
+    "index": 843,
+    "word": "retrieve",
+    "definition": "vt.\ub418\ucc3e\ub2e4,\ud68c\uc218\ud558\ub2e4,\ub9cc\ud68c\ud558\ub2e4,\ud68c\ubcf5\ud558\ub2e4,\uad6c\ud558\ub2e4,\uad6c\ucd9c\ud558\ub2e4"
+  },
+  { "chapter": 34, "index": 844, "word": "rehabilitation", "definition": null },
+  {
+    "chapter": 34,
+    "index": 845,
+    "word": "replenish",
+    "definition": "vt.\ub2e4\uc2dc\ucc44\uc6b0\ub2e4,\ubcf4\ucda9[\ubcf4\uae09]\ud558\ub2e4"
+  },
+  {
+    "chapter": 34,
+    "index": 846,
+    "word": "philanthropic(al)",
+    "definition": null
+  },
+  { "chapter": 34, "index": 847, "word": "puritanical", "definition": null },
+  {
+    "chapter": 34,
+    "index": 848,
+    "word": "benediction",
+    "definition": "n.\ucd95\ubcf5;(\uc2dd\uc804.\uc2dd\ud6c4\uc758)\uac10\uc0ac\uae30\ub3c4"
+  },
+  {
+    "chapter": 34,
+    "index": 849,
+    "word": "cultivate",
+    "definition": "v.\uacbd\uc791\ud558\ub2e4,\uc7ac\ubc30\ud558\ub2e4;\uc591\uc2dd\ud558\ub2e4"
+  },
+  { "chapter": 34, "index": 850, "word": "predator", "definition": null },
+  { "chapter": 35, "index": 851, "word": "perfidy", "definition": null },
+  { "chapter": 35, "index": 852, "word": "betray", "definition": null },
+  {
+    "chapter": 35,
+    "index": 853,
+    "word": "indignation",
+    "definition": "n.(\uc545.\ubd80\uc815\ub530\uc704\uc5d0\ub300\ud55c)\ubd84\uac1c,\ubd84\ub178"
+  },
+  { "chapter": 35, "index": 854, "word": "revenge", "definition": null },
+  {
+    "chapter": 35,
+    "index": 855,
+    "word": "atrocity",
+    "definition": "n.\uc794\uc545\ud55c\ud589\uc704;\ud749\uc545,\uc794\uc545,\ud070\uc2e4\uc218,\uc5c9\ub9dd\uc9c4\ucc3d\uc758\uc77c"
+  },
+  { "chapter": 35, "index": 856, "word": "intrude", "definition": null },
+  {
+    "chapter": 35,
+    "index": 857,
+    "word": "intervene",
+    "definition": "vi.\uc911\uc7ac\ud558\ub2e4,\uac04\uc12d\ud558\ub2e4,\uac1c\uc785\ud558\ub2e4"
+  },
+  {
+    "chapter": 35,
+    "index": 858,
+    "word": "meddling",
+    "definition": "a.\ucc38\uacac\ud558\ub294,\uac04\uc12d\ud558\ub294"
+  },
+  { "chapter": 35, "index": 859, "word": "pugnacious", "definition": null },
+  { "chapter": 35, "index": 860, "word": "eclectic", "definition": null },
+  {
+    "chapter": 35,
+    "index": 861,
+    "word": "exonerate",
+    "definition": "vt.(\ud610\uc758\ub4f1\uc774)\ubb34\uc8c4\uc784\uc744 \uc785\uc99d\ud558\ub2e4."
+  },
+  { "chapter": 35, "index": 862, "word": "culpable", "definition": null },
+  { "chapter": 35, "index": 863, "word": "reprehensible", "definition": null },
+  { "chapter": 35, "index": 864, "word": "vindicate", "definition": null },
+  {
+    "chapter": 35,
+    "index": 865,
+    "word": "hideous",
+    "definition": "a.\uc18c\ub984\ub07c\uce58\ub294,\uc12c\ub729\ud55c,\ubb34\uc11c\uc6b4"
+  },
+  { "chapter": 35, "index": 866, "word": "fret", "definition": null },
+  { "chapter": 35, "index": 867, "word": "irksome", "definition": null },
+  {
+    "chapter": 35,
+    "index": 868,
+    "word": "crave",
+    "definition": "v.\uac04\uccad\ud558\ub2e4,\uac08\ub9dd\ud558\ub2e4,(\uc0ac\uc815\ub4f1\uc774)~\uc744\ud544\uc694\ub85c\ud558\ub2e4"
+  },
+  { "chapter": 35, "index": 869, "word": "dread", "definition": null },
+  {
+    "chapter": 35,
+    "index": 870,
+    "word": "misgiving",
+    "definition": "n.\uc758\uc2ec,\uac71\uc815,\ubd88\uc548,\uc5fc\ub824"
+  },
+  {
+    "chapter": 35,
+    "index": 871,
+    "word": "profound",
+    "definition": "a.\uae4a\uc740;(\uc0ac\uc0c1,\ud559\uc124,\ucc45\ub4f1\uc774)\uc2ec\uc6d0\ud55c,\ub09c\ud574\ud55c"
+  },
+  { "chapter": 35, "index": 872, "word": "inscrutable", "definition": null },
+  {
+    "chapter": 35,
+    "index": 873,
+    "word": "meditate",
+    "definition": "vi.\uc219\uace0\ud558\ub2e4,\uae4a\uc774\uc0dd\uac01\ud558\ub2e4"
+  },
+  { "chapter": 35, "index": 874, "word": "ponder", "definition": null },
+  { "chapter": 35, "index": 875, "word": "considering", "definition": null },
+  {
+    "chapter": 36,
+    "index": 876,
+    "word": "emphasize",
+    "definition": "vt.\uac15\uc870\ud558\ub2e4,\uc911\uc2dc\ud558\ub2e4,\uc5ed\uc124\ud558\ub2e4"
+  },
+  { "chapter": 36, "index": 877, "word": "ultimate", "definition": null },
+  {
+    "chapter": 36,
+    "index": 878,
+    "word": "culminate",
+    "definition": "vt.\uc808\uc815(\ucd5c\uace0\uc870)\uc5d0\uc774\ub974\ub2e4,\uadf9\uc5d0\uc774\ub974\ub2e4,\ub4dc\ub514\uc5b4~\uc774\ub418\ub2e4 ,~\uc73c\ub85c\ub05d\ub098\ub2e4"
+  },
+  {
+    "chapter": 36,
+    "index": 879,
+    "word": "nadir",
+    "definition": "(\uc808\ub9dd\ub530\uc704\uc758)\ubc11\ubc14\ub2e5,\uad6c\ub801\ud145\uc774"
+  },
+  {
+    "chapter": 36,
+    "index": 880,
+    "word": "lapse",
+    "definition": "n.\uc2dc\uac04\uc758\uacbd\uacfc,\ucd94\uc774"
+  },
+  {
+    "chapter": 36,
+    "index": 881,
+    "word": "discomfit",
+    "definition": "vt.\uacc4\ud68d\uc744 \uc88c\uc808\uc2dc\ud0a4\ub2e4,\ub2f9\ud669\ucf00\ud558\ub2e4"
+  },
+  { "chapter": 36, "index": 882, "word": "dubious", "definition": null },
+  { "chapter": 36, "index": 883, "word": "subside", "definition": null },
+  { "chapter": 36, "index": 884, "word": "plunge", "definition": null },
+  { "chapter": 36, "index": 885, "word": "commotion", "definition": null },
+  {
+    "chapter": 36,
+    "index": 886,
+    "word": "morbid",
+    "definition": "a.\ubb34\uc11c\uc6b4,\ubb34\uc2dc\ubb34\uc2dc\ud55c"
+  },
+  {
+    "chapter": 36,
+    "index": 887,
+    "word": "bleak",
+    "definition": "a.(\uc7a5\ub798.\uc804\ub9dd\ub4f1\uc774)\uc5b4\ub450\uc6b4,\uc554\uc6b8\ud55c,\uc801\ub9cc\ud55c\uc4f8\uc4f8\ud55c,\ud669\ub7c9\ud55c,(\ub0a0\uc528\ubc14\ub78c\ub4f1\uc774)\ucc28\uac00\uc6b4"
+  },
+  { "chapter": 36, "index": 888, "word": "derelict", "definition": null },
+  { "chapter": 36, "index": 889, "word": "ravage", "definition": null },
+  { "chapter": 36, "index": 890, "word": "invade", "definition": null },
+  { "chapter": 36, "index": 891, "word": "ordinary", "definition": null },
+  { "chapter": 36, "index": 892, "word": "extraordinary", "definition": null },
+  { "chapter": 36, "index": 893, "word": "erratic", "definition": null },
+  {
+    "chapter": 36,
+    "index": 894,
+    "word": "bizarre",
+    "definition": "a.\ubcc4\ub09c;\uae30\ubb18\ud55c,\uc774\uc0c1\ud55c,\uae30\uad34\ud55c"
+  },
+  { "chapter": 36, "index": 895, "word": "characteristic", "definition": null },
+  { "chapter": 36, "index": 896, "word": "sloth", "definition": null },
+  { "chapter": 36, "index": 897, "word": "retard", "definition": null },
+  {
+    "chapter": 36,
+    "index": 898,
+    "word": "prompt",
+    "definition": "a.\uc7ac\ube60\ub978,\uc2e0\uc18d\ud55c,\uae30\ubbfc\ud55c"
+  },
+  { "chapter": 36, "index": 899, "word": "makeshift", "definition": null },
+  { "chapter": 36, "index": 900, "word": "extemporize", "definition": null },
+  { "chapter": 37, "index": 901, "word": "criterion", "definition": null },
+  { "chapter": 37, "index": 902, "word": "milestone", "definition": null },
+  {
+    "chapter": 37,
+    "index": 903,
+    "word": "momentous",
+    "definition": "a.(\uacb0\uc815.\uc0ac\uac74,\ubcc0\ud654\ub4f1\uc774)\uc911\ub300\ud55c,\uc911\uc694\ud55c"
+  },
+  {
+    "chapter": 37,
+    "index": 904,
+    "word": "pivotal",
+    "definition": "a.\uc911\ucd94\uc801\uc778,\uc911\uc694\ud55c"
+  },
+  {
+    "chapter": 37,
+    "index": 905,
+    "word": "marginal",
+    "definition": "a.\uc8fc\ubcc0\uc801\uc778,\ubcc4\ub85c\uc911\uc694\ud558\uc9c0\uc54a\uc740"
+  },
+  { "chapter": 37, "index": 906, "word": "ornament", "definition": null },
+  { "chapter": 37, "index": 907, "word": "adorn", "definition": null },
+  {
+    "chapter": 37,
+    "index": 908,
+    "word": "artificial",
+    "definition": "a.\uc778\uc870\uc758,\uc778\uc704\uc801\uc778,\ubd80\uc790\uc5f0\uc2a4\ub7f0,\uac00\uc9dc\uc758,\ubaa8\uc870\uc758"
+  },
+  { "chapter": 37, "index": 909, "word": "vulgar", "definition": null },
+  {
+    "chapter": 37,
+    "index": 910,
+    "word": "urbane",
+    "definition": "a.\ub3c4\uc2dc\ud48d\uc758,\ud488\uc704\uc788\ub294,\uc138\ub828\ub41c,\uc608\uc758\ubc14\ub978"
+  },
+  {
+    "chapter": 37,
+    "index": 911,
+    "word": "affiliation",
+    "definition": "n.\ud569\ubcd1,\uc81c\ud734"
+  },
+  { "chapter": 37, "index": 912, "word": "conglomerate", "definition": null },
+  {
+    "chapter": 37,
+    "index": 913,
+    "word": "ambience",
+    "definition": "n.\ubd84\uc704\uae30,\ud658\uacbd,\uc8fc\uc704,\uc678\uacc4"
+  },
+  {
+    "chapter": 37,
+    "index": 914,
+    "word": "adjacent",
+    "definition": "a.\uc778\uc811\ud55c,\uc774\uc6c3\uc758,\uc9c4\uc801\uc758,\uc9c1\ud6c4\uc758"
+  },
+  { "chapter": 37, "index": 915, "word": "parallel", "definition": null },
+  {
+    "chapter": 37,
+    "index": 916,
+    "word": "cluster",
+    "definition": "vt.\ubc00\uc9d1\uc2dc\ud0a4\ub2e4,\ub5bc\uc9d3\uac8c\ud558\ub2e4,vi(\ubc8c\ub530\uc704\uac00)\ub5bc\uc9d3\ub2e4,\ubc00\uc9d1\ud558\ub2e4;n.(\uaf43.\uacfc\uc77c\ub4f1)\uc1a1\uc774,\ub2e4\ubc1c,"
+  },
+  { "chapter": 37, "index": 917, "word": "shrink", "definition": null },
+  {
+    "chapter": 37,
+    "index": 918,
+    "word": "elastic",
+    "definition": "a.\ud0c4\ub825\uc788\ub294,\uc2e0\ucd95\uc131\uc774\uc788\ub294,\ud718\uae30\uc26c\uc6b4"
+  },
+  {
+    "chapter": 37,
+    "index": 919,
+    "word": "dilate",
+    "definition": "vt.\ub113\ud788\ub2e4,\ud33d\ucc3d\uc2dc\ud0a4\ub2e4;vi.\ub113\uc5b4\uc9c0\ub2e4,\ud33d\ucc3d\ud558\ub2e4"
+  },
+  {
+    "chapter": 37,
+    "index": 920,
+    "word": "longevity",
+    "definition": "n.\uc7a5\uc218,\uc218\uba85"
+  },
+  {
+    "chapter": 37,
+    "index": 921,
+    "word": "buttress",
+    "definition": "vt.(\uc0ac\ub78c.\uacc4\ud68d\ub4f1\uc744)\uc9c0\uc9c0\ud558\ub2e4,(\uc8fc\uc7a5\uc744)~\uc73c\ub85c\uac15\ud654\ud558\ub2e4,;n.\ubc84\ud300\ubcbd,\uc9c0\uc9c0"
+  },
+  { "chapter": 37, "index": 922, "word": "underpin", "definition": null },
+  { "chapter": 37, "index": 923, "word": "unwieldy", "definition": null },
+  {
+    "chapter": 37,
+    "index": 924,
+    "word": "harness",
+    "definition": "vt.[\uc790\uc5f0\uc744]\ub3d9\ub825\ud654\ud558\ub2e4,\uc774\uc6a9\ud558\ub2e4"
+  },
+  { "chapter": 37, "index": 925, "word": "manipulate", "definition": null },
+  {
+    "chapter": 38,
+    "index": 926,
+    "word": "authenticate",
+    "definition": "v.\uc785\uc99d\ud558\ub2e4,\ud655\uc99d\uc744\uc138\uc6b0\ub2e4"
+  },
+  { "chapter": 38, "index": 927, "word": "attest", "definition": null },
+  {
+    "chapter": 38,
+    "index": 928,
+    "word": "circumspect",
+    "definition": "a.\uc2e0\uc911\ud55c,\uc6a9\uc758\uc8fc\ub3c4\ud55c,\uce58\ubc00\ud55c"
+  },
+  {
+    "chapter": 38,
+    "index": 929,
+    "word": "overhaul",
+    "definition": "vt.<\uad6c\uc5b4>\ucca0\uc800\ud788[\uc790\uc138\ud788]\uc870\uc0ac\ud558\ub2e4"
+  },
+  { "chapter": 38, "index": 930, "word": "debunk", "definition": null },
+  {
+    "chapter": 38,
+    "index": 931,
+    "word": "sedative",
+    "definition": "n.\uc9c4\uc815\uc81c"
+  },
+  {
+    "chapter": 38,
+    "index": 932,
+    "word": "placid",
+    "definition": "a.(\ubc14\ub2e4\ub0a0\uc528\ub4f1\uc774)\ud3c9\uc628\ud55c,\uc794\uc794\ud55c,(\uc131\uaca9\uc774)\uc870\uc6a9\ud55c,\ucc28\ubd84\ud55c"
+  },
+  {
+    "chapter": 38,
+    "index": 933,
+    "word": "equanimity",
+    "definition": "n.(\ub9c8\uc74c\uc758)\ud3c9\uc815,\uce68\ucc29,\ud0dc\uc5f0"
+  },
+  {
+    "chapter": 38,
+    "index": 934,
+    "word": "hypnosis",
+    "definition": "n.\ucd5c\uba74\uc0c1\ud0dc;\ucd5c\uba74\uc220"
+  },
+  { "chapter": 38, "index": 935, "word": "mess", "definition": null },
+  { "chapter": 38, "index": 936, "word": "inclination", "definition": null },
+  { "chapter": 38, "index": 937, "word": "dedicate", "definition": null },
+  {
+    "chapter": 38,
+    "index": 938,
+    "word": "engross",
+    "definition": "vt.~\uc5d0 \uc5f4\uc911\ud558\uac8c\ud558\ub2e4,\ubab0\ub450\uc2dc\ud0a4\ub2e4,(\uc218\ub3d9\ud615\uc73c\ub85c)~\uc5d0\ubab0\ub450\ud558\ub2e4"
+  },
+  { "chapter": 38, "index": 939, "word": "indulgent", "definition": null },
+  { "chapter": 38, "index": 940, "word": "recourse", "definition": null },
+  {
+    "chapter": 38,
+    "index": 941,
+    "word": "prerogative",
+    "definition": "n.\ud2b9\uad8c,\ud2b9\uc804,\ub300\uad8c"
+  },
+  {
+    "chapter": 38,
+    "index": 942,
+    "word": "abrogate",
+    "definition": "v.(\uacf5\uc2dd\uc801\uc73c\ub85c)\ud3d0\uc9c0\ud558\ub2e4,\ud3d0\uae30\ud558\ub2e4"
+  },
+  {
+    "chapter": 38,
+    "index": 943,
+    "word": "repeal",
+    "definition": "vt.(\ubc95\ub960\ub4f1\uc744)\ubb34\ud6a8\ub85c\ud558\ub2e4,\ud3d0\uc9c0[\ud3d0\uae30]\ud558\ub2e4"
+  },
+  {
+    "chapter": 38,
+    "index": 944,
+    "word": "nullify",
+    "definition": "vt.(\ubc95\uc801\uc73c\ub85c)\ubb34\ud6a8\ub85c\ud558\ub2e4"
+  },
+  {
+    "chapter": 38,
+    "index": 945,
+    "word": "dissipate",
+    "definition": "vt.(\uad6c\ub984\uc548\uac1c\ub4f1\uc744)\ud769\ub728\ub9ac\ub2e4,(\uc2dc\uac04\uc7ac\uc0b0\ub4f1\uc744)\ub0ad\ube44\ud558\ub2e4;vi(\uad6c\ub984\ub530\uc704\uac00)\ud769\uc5b4\uc838\uc0ac\ub77c\uc9c0\ub2e4"
+  },
+  {
+    "chapter": 38,
+    "index": 946,
+    "word": "tenet",
+    "definition": "n.\uad50\uc678,\uc8fc\uc758,\uc2e0\uc870"
+  },
+  { "chapter": 38, "index": 947, "word": "paradox", "definition": null },
+  {
+    "chapter": 38,
+    "index": 948,
+    "word": "consecutive",
+    "definition": "a.\ub17c\ub9ac\uac00 \uc77c\uad00\ub41c,\uc55e\ub4a4\uac00\ub9de\ub294,\uc5f0\uc18d\uc801\uc778,\uacc4\uc18d\ub418\ub294"
+  },
+  {
+    "chapter": 38,
+    "index": 949,
+    "word": "entail",
+    "definition": "vt.(\ud544\uc5f0\uc801\uc778\uacb0\uacfc\ub85c\uc11c)\uc77c\uc73c\ud0a4\ub2e4,\uc218\ubc18\ud558\ub2e4"
+  },
+  { "chapter": 38, "index": 950, "word": "subordinate", "definition": null },
+  {
+    "chapter": 39,
+    "index": 951,
+    "word": "archaic",
+    "definition": "a.\uace0\ub300\uc758;\uc624\ub798\ub41c,\ub0a1\uc740;\uace0\ud48d\uc758"
+  },
+  {
+    "chapter": 39,
+    "index": 952,
+    "word": "crude",
+    "definition": "a.\uc870\uc7a1\ud55c,\uac70\uce5c,\ubc84\ub987\uc5c6\ub294"
+  },
+  { "chapter": 39, "index": 953, "word": "stark", "definition": null },
+  {
+    "chapter": 39,
+    "index": 954,
+    "word": "banal",
+    "definition": "a.\uc9c4\ubd80\ud55c,\uc0c1\ud22c\uc801\uc778"
+  },
+  { "chapter": 39, "index": 955, "word": "specious", "definition": null },
+  { "chapter": 39, "index": 956, "word": "congenital", "definition": null },
+  {
+    "chapter": 39,
+    "index": 957,
+    "word": "germane",
+    "definition": "a.\ubc00\uc811\ud55c \uad00\uacc4\uac00\uc788\ub294,\uc801\uc808\ud55c"
+  },
+  {
+    "chapter": 39,
+    "index": 958,
+    "word": "nascent",
+    "definition": "a.\ubc1c\uc0dd\ud558\ub824\uace0\ud558\ub294,\ucd08\uae30\uc758"
+  },
+  {
+    "chapter": 39,
+    "index": 959,
+    "word": "embark",
+    "definition": "vi.\ucc29\uc218\ud558\ub2e4,\uc885\uc0ac\ud558\ub2e4"
+  },
+  { "chapter": 39, "index": 960, "word": "embargo", "definition": null },
+  { "chapter": 39, "index": 961, "word": "advent", "definition": null },
+  { "chapter": 39, "index": 962, "word": "advance", "definition": null },
+  { "chapter": 39, "index": 963, "word": "due", "definition": null },
+  { "chapter": 39, "index": 964, "word": "foresee", "definition": null },
+  { "chapter": 39, "index": 965, "word": "biennially", "definition": null },
+  {
+    "chapter": 39,
+    "index": 966,
+    "word": "exemplary",
+    "definition": "a.\ubcf8\uc774\ub418\ub294,\ubaa8\ubc94\uc801\uc778,\uc804\ud615\uc801\uc778,\uacbd\uace0\uac00\ub418\ub294"
+  },
+  {
+    "chapter": 39,
+    "index": 967,
+    "word": "esthetic",
+    "definition": "a.\ubbf8\uc758;\uc2ec\ubbf8\uc801\uc778,\ubbf8\uc801\uac10\uac01\uc774\uc788\ub294"
+  },
+  { "chapter": 39, "index": 968, "word": "grim", "definition": null },
+  {
+    "chapter": 39,
+    "index": 969,
+    "word": "callous",
+    "definition": "a.\ubb34\uac10\uac01\ud55c,\ub0c9\uc815\ud55c,\ub0c9\ub2f4\ud55c,(\ud53c\ubd80\uac00)\uad73\uc5b4\uc9c4,\ubabb\ubc15\ud78c"
+  },
+  {
+    "chapter": 39,
+    "index": 970,
+    "word": "intimate",
+    "definition": "v.\uc554\uc2dc\ud558\ub2e4,\ub10c\uc9c0\uc2dc\uc54c\ub9ac\ub2e4"
+  },
+  { "chapter": 39, "index": 971, "word": "subsistence", "definition": null },
+  { "chapter": 39, "index": 972, "word": "provisional", "definition": null },
+  { "chapter": 39, "index": 973, "word": "incidental", "definition": null },
+  {
+    "chapter": 39,
+    "index": 974,
+    "word": "nocturnal",
+    "definition": "a.\ubc24\uc758,\uc57c\uac04\uc758,\uc57c\ud589\uc131\uc758"
+  },
+  {
+    "chapter": 39,
+    "index": 975,
+    "word": "automation",
+    "definition": "n.\uc790\ub3d9\ud654,\uc790\ub3d9\uc81c\uc5b4 \uae30\uacc4"
+  },
+  { "chapter": 40, "index": 976, "word": "duplicate", "definition": null },
+  { "chapter": 40, "index": 977, "word": "resemblance", "definition": null },
+  {
+    "chapter": 40,
+    "index": 978,
+    "word": "extract",
+    "definition": "vt.(\uc774\ub4f1\uc744)\ubf51\ub2e4,\ubf51\uc544\ub0b4\ub2e4,(\uc815\ubcf4\ub3c8\ub530\uc704\ub97c)\uc5b5\uc9c0\ub85c \uc5bb\uc5b4\ub0b4\ub2e4."
+  },
+  { "chapter": 40, "index": 979, "word": "extort", "definition": null },
+  { "chapter": 40, "index": 980, "word": "subscribe", "definition": null },
+  { "chapter": 40, "index": 981, "word": "fortitude", "definition": null },
+  { "chapter": 40, "index": 982, "word": "portent", "definition": null },
+  { "chapter": 40, "index": 983, "word": "advocate", "definition": null },
+  {
+    "chapter": 40,
+    "index": 984,
+    "word": "relegate",
+    "definition": "vt.\ub0b4\ucad2\ub2e4,\ucd94\ubc29\ud558\ub2e4,\uc88c\ucc9c\uc2dc\ud0a4\ub2e4."
+  },
+  {
+    "chapter": 40,
+    "index": 985,
+    "word": "incessantly",
+    "definition": "Ad.\ub04a\uc784\uc5c6\uc774,\uc274\uc0c8 \uc5c6\uc774"
+  },
+  { "chapter": 40, "index": 986, "word": "clumsy", "definition": null },
+  { "chapter": 40, "index": 987, "word": "plague", "definition": null },
+  {
+    "chapter": 40,
+    "index": 988,
+    "word": "panacea",
+    "definition": "n.\ub9cc\ubcd1\ud1b5\uce58\uc57d"
+  },
+  { "chapter": 40, "index": 989, "word": "unravel", "definition": null },
+  { "chapter": 40, "index": 990, "word": "circumscribe", "definition": null },
+  {
+    "chapter": 40,
+    "index": 991,
+    "word": "apparel",
+    "definition": "n.(\uc9d1\ud569\uc801)\uc758\ub958;\uc637(\ud2b9\ud788\uac89\uc637),\uc758\uc0c1,\uc678\uad00\ubaa8\uc2b5"
+  },
+  {
+    "chapter": 40,
+    "index": 992,
+    "word": "conceit",
+    "definition": "n.\uc790\ubd80\uc2ec,\uc790\ub9cc\uc2ec,\uc0c1\uc0c1,\uc989\ud765\uc801\uc778\uc0dd\uac01;vt.\uc6b0\ucb50\ub300\ub2e4,vi\uc0dd\uac01\ud558\ub2e4"
+  },
+  { "chapter": 40, "index": 993, "word": "insulated", "definition": null },
+  {
+    "chapter": 40,
+    "index": 994,
+    "word": "flaw",
+    "definition": "n.(\uc131\uaca9\uc758)\uacb0\uc810,\uc57d\uc810,\uacb0\ud568"
+  },
+  {
+    "chapter": 40,
+    "index": 995,
+    "word": "anthropology",
+    "definition": "n.\uc778\ub958\ud559,\ubb38\ud654\uc778\ub958\ud559"
+  },
+  {
+    "chapter": 40,
+    "index": 996,
+    "word": "sibling",
+    "definition": "n.(\uc591\uce5c\ub610\ub294\ubd80\ubaa8\ud55c\ucabd\uc774\uac19\uc740)\ud615\uc81c,\uc790\ub9e4"
+  },
+  {
+    "chapter": 40,
+    "index": 997,
+    "word": "sheer",
+    "definition": "a.\uc644\uc804\ud55c,\uc21c\uc804\ud55c,\uc21c\uc218\ud55c"
+  },
+  { "chapter": 40, "index": 998, "word": "soar", "definition": null },
+  {
+    "chapter": 40,
+    "index": 999,
+    "word": "amenity",
+    "definition": "n.\uc0dd\ud65c\uc744 \uc990\uac81\uac8c\ud574\uc8fc\ub294\uac83,\uc624\ub77d\uc2dc\uc124,\uae30\ubd84\uc88b\uc74c,\ucf8c\uc801\ud568,\uc0c1\ub0e5\ud568"
+  },
+  {
+    "chapter": 40,
+    "index": 1000,
+    "word": "euthanasia",
+    "definition": "n.\uc548\ub77d\uc0ac"
+  }
+]
