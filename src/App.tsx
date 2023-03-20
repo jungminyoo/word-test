@@ -24,7 +24,7 @@ function App() {
 
       <CSVLink
         data={randomVocaList}
-        filename={`voca_test_${Date.now()}`}
+        filename={`voca_test_${Date.now()}.csv`}
         target="_blank"
       >
         다운로드!
