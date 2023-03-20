@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/word-test/static/js/main.6fc500ec.js",
+    "main.js": "/word-test/static/js/main.5a72b1c4.js",
     "index.html": "/word-test/index.html",
-    "main.6fc500ec.js.map": "/word-test/static/js/main.6fc500ec.js.map"
+    "main.5a72b1c4.js.map": "/word-test/static/js/main.5a72b1c4.js.map"
   },
   "entrypoints": [
-    "static/js/main.6fc500ec.js"
+    "static/js/main.5a72b1c4.js"
   ]
 }
